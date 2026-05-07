@@ -86,7 +86,7 @@ Open the R project, then run:
 source("scripts/00_setup.R")
 ```
 
-### Step 2: Add your CollegeFootballData API key
+### Step 2: Add your ESPN public scoreboard JSON + Sports Reference key
 
 Run this once in RStudio:
 
@@ -164,3 +164,8 @@ outputs/summary_tables/
 - GitHub repository link
 - Tableau Public dashboard link
 - Unlisted YouTube technical presentation link
+
+
+## No-key replacement note
+
+This version avoids the CollegeFootballData API key requirement. It uses ESPN public scoreboard JSON for game results and Sports Reference web scraping for SRS, SOS, offense, and defense metrics. The NIL data still comes from On3 public NIL valuation pages, and finance fields can be filled from Knight-Newhouse or EADA.

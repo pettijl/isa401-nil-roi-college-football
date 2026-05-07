@@ -11,13 +11,10 @@ if (!file.exists(finance_path)) {
 
   schools <- tibble()
 
-  if (file.exists("data/raw/cfbd_records.csv")) {
-    schools <- readr::read_csv("data/raw/cfbd_records.csv", show_col_types = FALSE) %>%
+  if (file.exists("data/raw/espn_records.csv")) {
+    schools <- readr::read_csv("data/raw/espn_records.csv", show_col_types = FALSE) %>%
       janitor::clean_names() %>%
-      transmute(
-        season = year,
-        school = team
-      ) %>%
+      transmute(season = season, school = school) %>%
       distinct()
   }
 
@@ -53,11 +50,23 @@ if (length(missing_cols) > 0) {
   stop("Finance data is missing these required columns: ", paste(missing_cols, collapse = ", "))
 }
 
+make_school_key_local <- function(x) {
+  x %>%
+    as.character() %>%
+    str_to_lower() %>%
+    str_replace_all("&", "and") %>%
+    str_replace_all("university of ", "") %>%
+    str_replace_all("the university of ", "") %>%
+    str_replace_all("state university", "state") %>%
+    str_replace_all("[^a-z0-9]", "") %>%
+    str_squish()
+}
+
 finance_clean <- finance_raw %>%
   mutate(
     season = as.integer(season),
     school = str_squish(as.character(school)),
-    school_key = str_to_lower(school) %>% str_replace_all("[^a-z0-9]", "")
+    school_key = make_school_key_local(school)
   ) %>%
   distinct(season, school_key, .keep_all = TRUE)
 

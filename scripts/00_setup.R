@@ -11,7 +11,7 @@ packages <- c(
   "stringr",
   "rvest",
   "httr",
-  "cfbfastR",
+  "jsonlite",
   "usethis",
   "scales",
   "broom"

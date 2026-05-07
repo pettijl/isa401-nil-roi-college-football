@@ -28,12 +28,8 @@ validation_table <- bind_rows(
     transmute(season, school, issue_type = "Invalid losses", issue_detail = paste("losses =", losses)),
 
   final_data %>%
-    filter(is.na(team_talent_score)) %>%
-    transmute(season, school, issue_type = "Missing team talent", issue_detail = "No matching team talent score after join"),
-
-  final_data %>%
     filter(is.na(srs_rating)) %>%
-    transmute(season, school, issue_type = "Missing SRS rating", issue_detail = "No matching SRS rating after join"),
+    transmute(season, school, issue_type = "Missing SRS rating", issue_detail = "No matching Sports Reference SRS rating after join"),
 
   final_data %>%
     filter(total_public_nil_value == 0) %>%

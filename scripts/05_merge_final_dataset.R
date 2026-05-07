@@ -4,10 +4,9 @@
 source("scripts/00_setup.R")
 
 records <- readr::read_csv("data/cleaned/records_clean.csv", show_col_types = FALSE)
-talent <- readr::read_csv("data/cleaned/talent_clean.csv", show_col_types = FALSE)
-recruiting <- readr::read_csv("data/cleaned/recruiting_clean.csv", show_col_types = FALSE)
-srs <- readr::read_csv("data/cleaned/srs_clean.csv", show_col_types = FALSE)
-team_stats <- readr::read_csv("data/cleaned/team_stats_clean.csv", show_col_types = FALSE)
+ratings <- if (file.exists("data/cleaned/ratings_clean.csv")) readr::read_csv("data/cleaned/ratings_clean.csv", show_col_types = FALSE) else tibble(season = integer(), school_key = character())
+offense <- if (file.exists("data/cleaned/offense_clean.csv")) readr::read_csv("data/cleaned/offense_clean.csv", show_col_types = FALSE) else tibble(season = integer(), school_key = character())
+defense <- if (file.exists("data/cleaned/defense_clean.csv")) readr::read_csv("data/cleaned/defense_clean.csv", show_col_types = FALSE) else tibble(season = integer(), school_key = character())
 
 nil_team <- if (file.exists("data/cleaned/nil_team_clean.csv")) {
   readr::read_csv("data/cleaned/nil_team_clean.csv", show_col_types = FALSE)
@@ -33,10 +32,9 @@ finance_cols <- c(
 )
 
 final_data <- records %>%
-  left_join(talent %>% select(season, school_key, team_talent_score), by = c("season", "school_key")) %>%
-  left_join(recruiting %>% select(season, school_key, recruiting_rank, recruiting_points), by = c("season", "school_key")) %>%
-  left_join(srs %>% select(season, school_key, srs_rating, srs_ranking), by = c("season", "school_key")) %>%
-  left_join(team_stats %>% select(season, school_key, stat_games, pass_ypa, rush_ypc, total_yds, turnovers, turnovers_pg, third_conv_rate, penalties_pg), by = c("season", "school_key")) %>%
+  left_join(ratings %>% select(any_of(c("season", "school_key", "srs_rating", "sos", "ap_pre", "ap_high", "ap_post"))), by = c("season", "school_key")) %>%
+  left_join(offense %>% select(any_of(c("season", "school_key", "points_per_game", "yards_per_game", "pass_yards", "rush_yards", "turnovers"))), by = c("season", "school_key")) %>%
+  left_join(defense %>% select(any_of(c("season", "school_key", "points_allowed_per_game", "yards_allowed_per_game"))), by = c("season", "school_key")) %>%
   left_join(nil_team %>% select(any_of(nil_cols)), by = c("season", "school_key")) %>%
   left_join(finance %>% select(any_of(finance_cols)), by = c("season", "school_key")) %>%
   mutate(
@@ -50,17 +48,23 @@ final_data <- records %>%
     nil_players_counted = replace_na(nil_players_counted, 0),
     nil_value_millions = total_public_nil_value / 1000000,
     wins_per_million_nil = if_else(nil_value_millions > 0, wins / nil_value_millions, NA_real_),
-    talent_percentile = percent_rank(team_talent_score),
     nil_percentile = percent_rank(total_public_nil_value),
     spending_percentile = percent_rank(football_spending),
     power_conference = if_else(conference %in% c("ACC", "Big 12", "Big Ten", "SEC", "Pac-12"), "Power Conference", "Other FBS")
   )
 
 model_data <- final_data %>%
-  filter(!is.na(win_pct), !is.na(team_talent_score), !is.na(srs_rating))
+  filter(!is.na(win_pct), !is.na(srs_rating))
 
-if (nrow(model_data) >= 20) {
-  roi_model <- lm(win_pct ~ team_talent_score + srs_rating + total_public_nil_value + recruiting_points, data = model_data)
+# Build a simple expected-win model. NIL values are mostly available for the latest season, so
+# the model uses available columns and automatically drops predictors that are too sparse.
+predictor_candidates <- c("srs_rating", "sos", "points_per_game", "points_allowed_per_game", "total_public_nil_value", "football_spending")
+usable_predictors <- predictor_candidates[predictor_candidates %in% names(model_data)]
+usable_predictors <- usable_predictors[map_lgl(model_data[usable_predictors], ~ sum(!is.na(.x)) >= 20 && sd(.x, na.rm = TRUE) > 0)]
+
+if (nrow(model_data) >= 20 && length(usable_predictors) >= 1) {
+  model_formula <- as.formula(paste("win_pct ~", paste(usable_predictors, collapse = " + ")))
+  roi_model <- lm(model_formula, data = model_data)
   model_summary <- broom::tidy(roi_model)
   readr::write_csv(model_summary, "outputs/roi_model_summary.csv")
 
