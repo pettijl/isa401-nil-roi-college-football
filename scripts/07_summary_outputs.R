@@ -1,3 +1,4 @@
+
 # 07_summary_outputs.R
 # Purpose: Create summary tables for Tableau and presentation talking points.
 
@@ -35,7 +36,19 @@ conference_summary <- final_data %>%
   )
 
 team_trends <- final_data %>%
-  select(any_of(c(season, school, conference, wins, losses, win_pct, srs_rating, sos, total_public_nil_value, nil_roi_score, roi_group)))
+  select(any_of(c(
+    "season",
+    "school",
+    "conference",
+    "wins",
+    "losses",
+    "win_pct",
+    "srs_rating",
+    "sos",
+    "total_public_nil_value",
+    "nil_roi_score",
+    "roi_group"
+  )))
 
 readr::write_csv(top_roi, "outputs/summary_tables/top_roi_programs.csv")
 readr::write_csv(low_roi, "outputs/summary_tables/low_roi_programs.csv")
@@ -44,3 +57,4 @@ readr::write_csv(conference_summary, "outputs/summary_tables/conference_summary.
 readr::write_csv(team_trends, "outputs/summary_tables/team_trends.csv")
 
 message("Summary outputs saved to outputs/summary_tables/.")
+
