@@ -149,6 +149,53 @@ if (!"conference" %in% names(final_data)) {
   final_data$conference <- "Unknown"
 }
 
+
+# Force numeric columns to numeric after all joins.
+# This fixes character money fields like "$1,200,000" or text-based NIL values.
+numeric_cols <- c(
+  "total_games",
+  "wins",
+  "losses",
+  "win_pct",
+  "srs_rating",
+  "sos",
+  "ap_pre",
+  "ap_high",
+  "ap_post",
+  "points_per_game",
+  "yards_per_game",
+  "pass_yards",
+  "rush_yards",
+  "turnovers",
+  "points_allowed_per_game",
+  "yards_allowed_per_game",
+  "total_public_nil_value",
+  "avg_public_nil_value",
+  "median_public_nil_value",
+  "top_player_nil_value",
+  "top3_nil_value",
+  "qb_nil_value",
+  "skill_position_nil_value",
+  "nil_players_counted",
+  "qb_nil_share",
+  "skill_position_nil_share",
+  "nil_concentration",
+  "total_athletic_revenue",
+  "total_athletic_expenses",
+  "football_spending",
+  "football_coaching_salaries",
+  "donor_contributions"
+)
+
+final_data <- final_data %>%
+  mutate(
+    across(
+      any_of(numeric_cols),
+      ~ readr::parse_number(as.character(.x))
+    )
+  )
+
+
 final_data <- final_data %>%
   mutate(
     conference = dplyr::coalesce(as.character(conference), "Unknown"),
@@ -230,4 +277,3 @@ readr::write_csv(final_data, "outputs/tableau_exports/nil_roi_team_season_final.
 
 message("Final merged dataset saved to data/final/nil_roi_team_season_final.csv")
 message("Tableau-ready dataset saved to outputs/tableau_exports/nil_roi_team_season_final.csv")
-

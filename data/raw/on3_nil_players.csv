@@ -1,31 +1,31 @@
 scrape_date,position_filter,on3_rank,player,position,school_guess,rating,public_nil_value_text,public_nil_value,source_url,school,season,source
-2026-05-07,overall,1,Arch Manning,QB,NA,99.53,$5.4M,5400000,https://www.on3.com/nil/rankings/player/college/football/,Texas,2025,On3 public NIL valuation page
-2026-05-07,overall,2,Jeremiah Smith,WR,NA,99.61,$4.2M,4200000,https://www.on3.com/nil/rankings/player/college/football/,Ohio State,2025,On3 public NIL valuation page
-2026-05-07,overall,3,Sam Leavitt,QB,NA,89.49,$4M,4000000,https://www.on3.com/nil/rankings/player/college/football/,LSU,2025,On3 public NIL valuation page
-2026-05-07,overall,4,Brendan Sorsby,QB,NA,82.99,$3.1M,3100000,https://www.on3.com/nil/rankings/player/college/football/,Texas Tech,2025,On3 public NIL valuation page
-2026-05-07,overall,5,Dante Moore,QB,NA,99.22,$3M,3000000,https://www.on3.com/nil/rankings/player/college/football/,Oregon,2025,On3 public NIL valuation page
-2026-05-07,overall,6,Bryce Underwood,QB,NA,99.87,$3M,3000000,https://www.on3.com/nil/rankings/player/college/football/,Michigan,2025,On3 public NIL valuation page
-2026-05-07,overall,7,Cam Coleman,WR,NA,99.22,$2.9M,2900000,https://www.on3.com/nil/rankings/player/college/football/,Texas,2025,On3 public NIL valuation page
-2026-05-07,overall,8,LaNorris Sellers,QB,NA,91.13,$2.7M,2700000,https://www.on3.com/nil/rankings/player/college/football/,South Carolina,2025,On3 public NIL valuation page
-2026-05-07,overall,9,Dylan Stewart,EDGE,NA,98.32,$2.5M,2500000,https://www.on3.com/nil/rankings/player/college/football/,South Carolina,2025,On3 public NIL valuation page
-2026-05-07,overall,10,Drew Mestemaker,QB,NA,NA,$2.4M,2400000,https://www.on3.com/nil/rankings/player/college/football/,Oklahoma State,2025,On3 public NIL valuation page
-2026-05-07,overall,11,Mason Heintschel,QB,NA,87.74,$2.4M,2400000,https://www.on3.com/nil/rankings/player/college/football/,Pittsburgh,2025,On3 public NIL valuation page
-2026-05-07,overall,12,Julian Sayin,QB,NA,98.61,$2.4M,2400000,https://www.on3.com/nil/rankings/player/college/football/,Ohio State,2025,On3 public NIL valuation page
-2026-05-07,overall,13,Josh Hoover,QB,NA,86.65,$2.2M,2200000,https://www.on3.com/nil/rankings/player/college/football/,Indiana,2025,On3 public NIL valuation page
-2026-05-07,overall,14,Darian Mensah,QB,NA,80.91,$2.2M,2200000,https://www.on3.com/nil/rankings/player/college/football/,Miami,2025,On3 public NIL valuation page
-2026-05-07,overall,15,Jayden Maiava,QB,NA,85.03,$2.2M,2200000,https://www.on3.com/nil/rankings/player/college/football/,USC,2025,On3 public NIL valuation page
-2026-05-07,overall,16,Jaron-Keawe Sagapolutele,QB,NA,96.15,$2M,2000000,https://www.on3.com/nil/rankings/player/college/football/,California,2025,On3 public NIL valuation page
-2026-05-07,overall,17,John Mateer,QB,NA,81.43,$2M,2000000,https://www.on3.com/nil/rankings/player/college/football/,Oklahoma,2025,On3 public NIL valuation page
-2026-05-07,overall,18,CJ Bailey,QB,NA,89.11,$1.9M,1900000,https://www.on3.com/nil/rankings/player/college/football/,NC State,2025,On3 public NIL valuation page
-2026-05-07,overall,19,David Stone,DL,NA,98.51,$1.9M,1900000,https://www.on3.com/nil/rankings/player/college/football/,Oklahoma,2025,On3 public NIL valuation page
-2026-05-07,overall,20,Malik Washington,QB,NA,93.98,$1.9M,1900000,https://www.on3.com/nil/rankings/player/college/football/,Maryland,2025,On3 public NIL valuation page
-2026-05-07,overall,21,DJ Lagway,QB,NA,99.23,$1.8M,1800000,https://www.on3.com/nil/rankings/player/college/football/,Florida,2025,On3 public NIL valuation page
-2026-05-07,overall,22,Jackson Cantwell,OT,NA,99.1,$1.8M,1800000,https://www.on3.com/nil/rankings/player/college/football/,Miami,2025,On3 public NIL valuation page
-2026-05-07,overall,23,Jordan Seaton,OT,NA,98.31,$1.7M,1700000,https://www.on3.com/nil/rankings/player/college/football/,LSU,2025,On3 public NIL valuation page
-2026-05-07,overall,24,Jared Curtis,QB,NA,98.98,$1.7M,1700000,https://www.on3.com/nil/rankings/player/college/football/,Vanderbilt,2025,On3 public NIL valuation page
-2026-05-07,overall,25,Ryan Coleman-Williams,WR,NA,98.97,$1.6M,1600000,https://www.on3.com/nil/rankings/player/college/football/,Alabama,2025,On3 public NIL valuation page
-2026-05-07,overall,26,Trinidad Chambliss,QB,NA,NA,$1.6M,1600000,https://www.on3.com/nil/rankings/player/college/football/,Ole Miss,2025,On3 public NIL valuation page
-2026-05-07,overall,27,Byrum Brown,QB,NA,84.05,$1.6M,1600000,https://www.on3.com/nil/rankings/player/college/football/,Auburn,2025,On3 public NIL valuation page
+2026-05-07,overall,1,Arch Manning,QB,NA,99.53,$5.4M,5400000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,2,Jeremiah Smith,WR,NA,99.61,$4.2M,4200000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,3,Sam Leavitt,QB,NA,89.49,$4M,4000000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,4,Brendan Sorsby,QB,NA,82.99,$3.1M,3100000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,5,Dante Moore,QB,NA,99.22,$3M,3000000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,6,Bryce Underwood,QB,NA,99.87,$3M,3000000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,7,Cam Coleman,WR,NA,99.22,$2.9M,2900000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,8,LaNorris Sellers,QB,NA,91.13,$2.7M,2700000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,9,Dylan Stewart,EDGE,NA,98.32,$2.5M,2500000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,10,Drew Mestemaker,QB,NA,NA,$2.4M,2400000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,11,Mason Heintschel,QB,NA,87.74,$2.4M,2400000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,12,Julian Sayin,QB,NA,98.61,$2.4M,2400000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,13,Josh Hoover,QB,NA,86.65,$2.2M,2200000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,14,Darian Mensah,QB,NA,80.91,$2.2M,2200000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,15,Jayden Maiava,QB,NA,85.03,$2.2M,2200000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,16,Jaron-Keawe Sagapolutele,QB,NA,96.15,$2M,2000000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,17,John Mateer,QB,NA,81.43,$2M,2000000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,18,CJ Bailey,QB,NA,89.11,$1.9M,1900000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,19,David Stone,DL,NA,98.51,$1.9M,1900000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,20,Malik Washington,QB,NA,93.98,$1.9M,1900000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,21,DJ Lagway,QB,NA,99.23,$1.8M,1800000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,22,Jackson Cantwell,OT,NA,99.1,$1.8M,1800000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,23,Jordan Seaton,OT,NA,98.31,$1.7M,1700000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,24,Jared Curtis,QB,NA,98.98,$1.7M,1700000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,25,Ryan Coleman-Williams,WR,NA,98.97,$1.6M,1600000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,26,Trinidad Chambliss,QB,NA,NA,$1.6M,1600000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
+2026-05-07,overall,27,Byrum Brown,QB,NA,84.05,$1.6M,1600000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
 2026-05-07,overall,28,Colin Simmons,EDGE,NA,98.36,$1.5M,1500000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
 2026-05-07,overall,29,CJ Carr,QB,NA,95.3,$1.5M,1500000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
 2026-05-07,overall,30,Conner Weigman,QB,NA,97.08,$1.5M,1500000,https://www.on3.com/nil/rankings/player/college/football/,NA,2025,On3 public NIL valuation page
