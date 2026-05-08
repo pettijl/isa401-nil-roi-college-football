@@ -1,33 +1,101 @@
-season,player,position,school,public_nil_value,school_key
-2025,Arch Manning,QB,Texas Longhorns,5400000,texaslonghorns
-2025,Sam Leavitt,QB,LSU Tigers,4000000,lsutigers
-2025,Brendan Sorsby,QB,Texas Tech Red Raiders,3100000,texastechredraiders
-2025,Dante Moore,QB,Oregon Ducks,3000000,oregonducks
-2025,Bryce Underwood,QB,Michigan Wolverines,3000000,michiganwolverines
-2025,LaNorris Sellers,QB,South Carolina Gamecocks,2700000,southcarolinagamecocks
-2025,Drew Mestemaker,QB,Oklahoma State Cowboys,2400000,oklahomastatecowboys
-2025,Mason Heintschel,QB,Pittsburgh Panthers,2400000,pittsburghpanthers
-2025,Julian Sayin,QB,Ohio State Buckeyes,2400000,ohiostatebuckeyes
-2025,Josh Hoover,QB,Indiana Hoosiers,2200000,indianahoosiers
-2025,Darian Mensah,QB,Miami Hurricanes,2200000,miamihurricanes
-2025,Jayden Maiava,QB,USC Trojans,2200000,usctrojans
-2025,Jaron-Keawe Sagapolutele,QB,California Golden Bears,2000000,californiagoldenbears
-2025,John Mateer,QB,Oklahoma Sooners,2000000,oklahomasooners
-2025,CJ Bailey,QB,NC State Wolfpack,1900000,ncstatewolfpack
-2025,Malik Washington,QB,Maryland Terrapins,1900000,marylandterrapins
-2025,DJ Lagway,QB,Florida Gators,1800000,floridagators
-2025,Jared Curtis,QB,Vanderbilt Commodores,1700000,vanderbiltcommodores
-2025,Trinidad Chambliss,QB,Ole Miss Rebels,1600000,olemissrebels
-2025,Byrum Brown,QB,Auburn Tigers,1600000,auburntigers
-2025,CJ Carr,QB,Notre Dame Fighting Irish,1500000,notredamefightingirish
-2025,Conner Weigman,QB,Houston Cougars,1500000,houstoncougars
-2025,Noah Fifita,QB,Arizona Wildcats,1500000,arizonawildcats
-2025,Cutter Boley,QB,Arizona State Sun Devils,1500000,arizonastatesundevils
-2025,Gunner Stockton,QB,Georgia Bulldogs,1400000,georgiabulldogs
-2025,Avery Johnson,QB,Kansas State Wildcats,1300000,kansasstatewildcats
-2025,Beau Pribula,QB,Virginia Cavaliers,1300000,virginiacavaliers
-2025,Marcel Reed,QB,Texas A&M Aggies,896000,texasaandmaggies
-2025,Faizon Brandon,QB,Tennessee Volunteers,864000,tennesseevolunteers
-2025,Dia Bell,QB,Texas Longhorns,788000,texaslonghorns
-2025,Jackson Arnold,QB,Auburn Tigers,740000,auburntigers
-2025,Devon Dampier,QB,Utah Utes,740000,utahutes
+on3_rank,season,player,position,school,public_nil_value,source_url,school_key
+1,2025,Arch Manning,QB,Texas Longhorns,5400000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,texaslonghorns
+2,2025,Sam Leavitt,QB,LSU Tigers,4000000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,lsutigers
+3,2025,Brendan Sorsby,QB,Texas Tech Red Raiders,3100000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,texastechredraiders
+4,2025,Dante Moore,QB,Oregon Ducks,3000000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,oregonducks
+5,2025,Bryce Underwood,QB,Michigan Wolverines,3000000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,michiganwolverines
+6,2025,LaNorris Sellers,QB,South Carolina Gamecocks,2700000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,southcarolinagamecocks
+7,2025,Drew Mestemaker,QB,Oklahoma State Cowboys,2400000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,oklahomastatecowboys
+8,2025,Mason Heintschel,QB,Pittsburgh Panthers,2400000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,pittsburghpanthers
+9,2025,Julian Sayin,QB,Ohio State Buckeyes,2400000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,ohiostatebuckeyes
+10,2025,Josh Hoover,QB,Indiana Hoosiers,2200000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,indianahoosiers
+11,2025,Darian Mensah,QB,Miami Hurricanes,2200000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,miamihurricanes
+12,2025,Jayden Maiava,QB,USC Trojans,2200000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,usctrojans
+13,2025,Jaron-Keawe Sagapolutele,QB,California Golden Bears,2000000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,californiagoldenbears
+14,2025,John Mateer,QB,Oklahoma Sooners,2000000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,oklahomasooners
+15,2025,CJ Bailey,QB,NC State Wolfpack,1900000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,ncstatewolfpack
+16,2025,Malik Washington,QB,Maryland Terrapins,1900000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,marylandterrapins
+17,2025,DJ Lagway,QB,Florida Gators,1800000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,floridagators
+18,2025,Jared Curtis,QB,Vanderbilt Commodores,1700000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,vanderbiltcommodores
+19,2025,Trinidad Chambliss,QB,Ole Miss Rebels,1600000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,olemissrebels
+20,2025,Byrum Brown,QB,Auburn Tigers,1600000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,auburntigers
+21,2025,CJ Carr,QB,Notre Dame Fighting Irish,1500000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,notredamefightingirish
+22,2025,Conner Weigman,QB,Houston Cougars,1500000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,houstoncougars
+23,2025,Noah Fifita,QB,Arizona Wildcats,1500000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,arizonawildcats
+24,2025,Cutter Boley,QB,Arizona State Sun Devils,1500000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,arizonastatesundevils
+25,2025,Gunner Stockton,QB,Georgia Bulldogs,1400000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,georgiabulldogs
+26,2025,Avery Johnson,QB,Kansas State Wildcats,1300000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,kansasstatewildcats
+27,2025,Beau Pribula,QB,Virginia Cavaliers,1300000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,virginiacavaliers
+28,2025,Dylan Raiola,QB,Oregon Ducks,1300000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,oregonducks
+29,2025,Rocco Becht,QB,Penn State Nittany Lions,1300000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,pennstatenittanylions
+30,2025,Anthony Colandrea,QB,Nebraska Cornhuskers,1100000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,nebraskacornhuskers
+31,2025,Keelon Russell,QB,Alabama Crimson Tide,1100000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,alabamacrimsontide
+32,2025,Nico Iamaleava,QB,UCLA Bruins,1100000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,uclabruins
+33,2025,Demond Williams Jr.,QB,Washington Huskies,1100000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,washingtonhuskies
+34,2025,Keisean Henderson,QB,Houston Cougars,1000000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,houstoncougars
+35,2025,Kevin Jennings,QB,SMU Mustangs,944000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,smumustangs
+36,2025,Julian Lewis,QB,Colorado Buffaloes,913000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,coloradobuffaloes
+37,2025,Kenny Minchey,QB,Kentucky Wildcats,909000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,kentuckywildcats
+38,2025,Marcel Reed,QB,Texas A&M Aggies,896000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,texasaandmaggies
+39,2025,Faizon Brandon,QB,Tennessee Volunteers,864000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,tennesseevolunteers
+40,2025,Dia Bell,QB,Texas Longhorns,788000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,texaslonghorns
+41,2025,Jackson Arnold,QB,Auburn Tigers,740000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,auburntigers
+42,2025,Devon Dampier,QB,Utah Utes,740000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,utahutes
+43,2025,Bowe Bentley,QB,Oklahoma Sooners,710000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,oklahomasooners
+44,2025,Bryson Beaver,QB,Georgia Bulldogs,639000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,georgiabulldogs
+45,2025,Jett Thomalla,QB,Alabama Crimson Tide,601000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,alabamacrimsontide
+46,2025,Steve Angeli,QB,Syracuse Orange,594000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,syracuseorange
+47,2025,Austin Simmons,QB,Missouri Tigers,517000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,missouritigers
+48,2025,Drake Lindsey,QB,Minnesota Golden Gophers,509000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,minnesotagoldengophers
+49,2025,Eli Holstein,QB,Pittsburgh Panthers,473000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,pittsburghpanthers
+50,2025,Jonas Williams,QB,USC Trojans,457000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,usctrojans
+51,2025,Jake Fette,QB,Arizona State Sun Devils,426000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,arizonastatesundevils
+52,2025,Bear Bachmeier,QB,BYU Cougars,417000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,byucougars
+53,2025,Deuce Knight,QB,Ole Miss Rebels,416000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,olemissrebels
+54,2025,Akili Smith Jr.,QB,Oregon Ducks,415000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,oregonducks
+55,2025,Katin Houser,QB,Illinois Fighting Illini,411000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,illinoisfightingillini
+56,2025,Miller Moss,QB,Louisville Cardinals,407000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,louisvillecardinals
+57,2025,Landon Duckworth,QB,South Carolina Gamecocks,401000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,southcarolinagamecocks
+58,2025,KaMario Taylor,QB,Mississippi State Bulldogs,385000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,mississippistatebulldogs
+59,2025,Thomas Castellanos,QB,Boston College Eagles,375000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,bostoncollegeeagles
+60,2025,Payton Thorne,QB,Auburn Tigers,360000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,auburntigers
+61,2025,Aidan Chiles,QB,Michigan State Spartans,352000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,michiganstatespartans
+62,2025,Lincoln Kienholz,QB,Ohio State Buckeyes,349000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,ohiostatebuckeyes
+63,2025,Devin Brown,QB,California Golden Bears,332000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,californiagoldenbears
+64,2025,DJ Uiagalelei,QB,Florida State Seminoles,330000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,floridastateseminoles
+65,2025,Michael Hawkins,QB,West Virginia Mountaineers,326000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,westvirginiamountaineers
+66,2025,Husan Longstreet,QB,LSU Tigers,322000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,lsutigers
+67,2025,Colton Joseph,QB,Wisconsin Badgers,303000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,wisconsinbadgers
+68,2025,Brock Vandagriff,QB,Kentucky Wildcats,299000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,kentuckywildcats
+69,2025,Michael Van Buren,QB,LSU Tigers,294000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,lsutigers
+70,2025,Ethan Grunkemeyer,QB,Penn State Nittany Lions,290000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,pennstatenittanylions
+71,2025,George MacIntyre,QB,Tennessee Volunteers,279000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,tennesseevolunteers
+72,2025,Jaden Craig,QB,Harvard Crimson,277000,https://www.on3.com/nil/rankings/player/college/football/?position=qb,harvardcrimson
+73,2025,Travis Burgess,QB,North Carolina Tar Heels,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,northcarolinatarheels
+74,2025,Brennen Ward,QB,Kentucky Wildcats,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,kentuckywildcats
+75,2025,Matt Ponatoski,QB,Kentucky Wildcats,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,kentuckywildcats
+76,2025,Helaman Casuga,QB,Texas A&M Aggies,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,texasaandmaggies
+77,2025,Davi Belfort,QB,UCF Knights,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,ucfknights
+78,2025,Will Griffin,QB,Florida Gators,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,floridagators
+79,2025,Ryan Montgomery,QB,Georgia Bulldogs,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,georgiabulldogs
+80,2025,Tavien St. Clair,QB,Ohio State Buckeyes,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,ohiostatebuckeyes
+81,2025,Trey Owens,QB,Texas Longhorns,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,texaslonghorns
+82,2025,Kayd Coffman,QB,Michigan State Spartans,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,michiganstatespartans
+83,2025,Malachi Nelson,QB,UTEP Miners,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,utepminers
+84,2025,Casey Thompson,QB,Florida Atlantic Owls,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,floridaatlanticowls
+85,2025,Alex Orji,QB,UNLV Rebels,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,unlvrebels
+86,2025,Jake Merklinger,QB,Tennessee Volunteers,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,tennesseevolunteers
+87,2025,Jadyn Davis,QB,Michigan Wolverines,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,michiganwolverines
+88,2025,Tramell Jones,QB,Florida Gators,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,floridagators
+89,2025,John Rhys Plumlee,QB,UCF Knights,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,ucfknights
+90,2025,Dereon Coleman,QB,Miami Hurricanes,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,miamihurricanes
+91,2025,Cade McNamara,QB,Iowa Hawkeyes,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,iowahawkeyes
+92,2025,K.J. Lacey,QB,Texas Longhorns,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,texaslonghorns
+93,2025,Malik Cunningham,QB,Louisville Cardinals,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,louisvillecardinals
+94,2025,Walker White,QB,Baylor Bears,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,baylorbears
+95,2025,Tommy Carr,QB,Michigan Wolverines,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,michiganwolverines
+96,2025,Colton Gumino,QB,UCLA Bruins,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,uclabruins
+97,2025,JT Daniels,QB,West Virginia Mountaineers,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,westvirginiamountaineers
+98,2025,Air Noland,QB,South Carolina Gamecocks,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,southcarolinagamecocks
+99,2025,Paul Tyson,QB,Clemson Tigers,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,clemsontigers
+100,2025,Jake Garcia,QB,Michigan Wolverines,NA,https://www.on3.com/nil/rankings/player/college/football/?position=qb,michiganwolverines

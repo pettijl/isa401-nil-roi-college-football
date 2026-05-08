@@ -1,0 +1,1013 @@
+season,school,conference,wins,losses,win_pct,total_public_nil_value,avg_public_nil_value,top_player_nil_value,qb_nil_value,nil_value_millions,wins_per_million_nil,expected_win_pct,nil_roi_score,roi_group
+2025,Texas Longhorns,Unknown,8,2,0.8,6188000,3094000,5400000,6188000,6.188,1.292824822236587,0.6931402454824894,0.10685975451751062,High ROI / Overperformer
+2025,Oregon Ducks,Unknown,10,1,0.909090909090909,4715000,1571666.6666666702,3000000,4715000,4.715,2.1208907741251326,0.6654462380073084,0.24364467108360055,High ROI / Overperformer
+2025,LSU Tigers,Unknown,4,5,0.44444444444444403,4616000,1538666.6666666702,4000000,4616000,4.616,0.8665511265164645,0.663284570181624,-0.21884012573717998,Low ROI / Underperformer
+2025,South Carolina Gamecocks,Unknown,1,7,0.125,3101000,1550500,2700000,3101000,3.101,0.32247662044501774,0.6227612833824433,-0.4977612833824433,Low ROI / Underperformer
+2025,Texas Tech Red Raiders,Unknown,10,1,0.909090909090909,3100000,3100000,3100000,3100000,3.1,3.225806451612903,0.6227284282000735,0.2863624808908355,High ROI / Overperformer
+2025,Michigan Wolverines,Unknown,6,3,0.6666666666666669,3000000,3000000,3000000,3000000,3,2,0.6193882112022236,0.0472784554644432,Expected Range
+2025,Pittsburgh Panthers,Unknown,2,3,0.4,2873000,1436500,2400000,2873000,2.873,0.6961364427427775,0.6149818810962174,-0.2149818810962174,Low ROI / Underperformer
+2025,Ohio State Buckeyes,Unknown,11,1,0.916666666666667,2749000,1374500,2400000,2749000,2.749,4.001455074572572,0.6104875312166836,0.3061791354499833,High ROI / Overperformer
+2025,Oklahoma Sooners,Unknown,9,2,0.8181818181818181,2710000,1355000,2000000,2710000,2.71,3.321033210332103,0.609031990052404,0.20914982812941407,High ROI / Overperformer
+2025,Auburn Tigers,Unknown,1,6,0.14285714285714304,2700000,900000,1600000,2700000,2.7,0.37037037037037035,0.6086554000218413,-0.46579825716469825,Low ROI / Underperformer
+2025,USC Trojans,Unknown,5,3,0.625,2657000,1328500,2200000,2657000,2.657,1.881821603312006,0.60702000856588,0.01797999143411999,Expected Range
+2025,Houston Cougars,Unknown,4,3,0.5714285714285712,2500000,1250000,1500000,2500000,2.5,1.6,0.600815572265141,-0.029387000836569865,Expected Range
+2025,Oklahoma State Cowboys,Unknown,1,3,0.25,2400000,2400000,2400000,2400000,2.4,0.4166666666666667,0.5966571384192846,-0.3466571384192846,Low ROI / Underperformer
+2025,California Golden Bears,Unknown,2,2,0.5,2332000,1166000,2000000,2332000,2.332,0.8576329331046313,0.5937292154938213,-0.0937292154938213,Expected Range
+2025,Indiana Hoosiers,Unknown,12,0,1,2200000,2200000,2200000,2200000,2.2,5.454545454545454,0.5877935086649996,0.4122064913350004,High ROI / Overperformer
+2025,Miami Hurricanes,Unknown,9,2,0.8181818181818181,2200000,2200000,2200000,2200000,2.2,4.090909090909091,0.5877935086649996,0.23038830951681855,High ROI / Overperformer
+2025,Georgia Bulldogs,Unknown,11,1,0.916666666666667,2039000,1019500,1400000,2039000,2.039,5.394801373222167,0.5800517975309324,0.3366148691357346,High ROI / Overperformer
+2025,Ole Miss Rebels,Unknown,10,1,0.909090909090909,2016000,1008000,1600000,2016000,2.016,4.9603174603174605,0.5788961984959776,0.33019471059493133,High ROI / Overperformer
+2025,Arizona State Sun Devils,Unknown,2,3,0.4,1926000,963000,1500000,1926000,1.926,1.0384215991692627,0.5742439072424462,-0.1742439072424462,Low ROI / Underperformer
+2025,Maryland Terrapins,Unknown,2,2,0.5,1900000,1900000,1900000,1900000,1.9,1.0526315789473684,0.5728593829170011,-0.07285938291700111,Expected Range
+2025,NC State Wolfpack,Unknown,4,2,0.6666666666666669,1900000,1900000,1900000,1900000,1.9,2.1052631578947367,0.5728593829170011,0.09380728374966574,Expected Range
+2025,Florida Gators,Unknown,1,7,0.125,1800000,1800000,1800000,1800000,1.8,0.5555555555555556,0.5673516918860445,-0.4423516918860445,Low ROI / Underperformer
+2025,Alabama Crimson Tide,Unknown,10,2,0.833333333333333,1701000,850500,1100000,1701000,1.701,5.878894767783656,0.5615890134904357,0.2717443198428974,High ROI / Overperformer
+2025,Vanderbilt Commodores,Unknown,8,2,0.8,1700000,1700000,1700000,1700000,1.7,4.705882352941177,0.5615291090694178,0.23847089093058227,High ROI / Overperformer
+2025,Penn State Nittany Lions,Unknown,2,4,0.3333333333333329,1590000,795000,1300000,1590000,1.59,1.2578616352201257,0.5547147630821171,-0.22138142974878416,Low ROI / Underperformer
+2025,Arizona Wildcats,Unknown,2,2,0.5,1500000,1500000,1500000,1500000,1.5,1.3333333333333333,0.548779057476403,-0.04877905747640299,Expected Range
+2025,Notre Dame Fighting Irish,Unknown,10,1,0.909090909090909,1500000,1500000,1500000,1500000,1.5,6.666666666666667,0.548779057476403,0.36031185161450596,High ROI / Overperformer
+2025,Kansas State Wildcats,Unknown,1,5,0.166666666666667,1300000,1300000,1300000,1300000,1.3,0.7692307692307692,0.5342017391702091,-0.3675350725035421,Low ROI / Underperformer
+2025,Virginia Cavaliers,Unknown,6,2,0.75,1300000,1300000,1300000,1300000,1.3,4.615384615384615,0.5342017391702091,0.21579826082979092,High ROI / Overperformer
+2025,Kentucky Wildcats,Unknown,0,4,0,1208000,604000,909000,1208000,1.208,0,0.5267248557411389,-0.5267248557411389,Low ROI / Underperformer
+2025,Tennessee Volunteers,Unknown,7,4,0.636363636363636,1143000,571500,864000,1143000,1.143,6.124234470691164,0.5210905967967226,0.11527303956691337,High ROI / Overperformer
+2025,Nebraska Cornhuskers,Unknown,1,4,0.2,1100000,1100000,1100000,1100000,1.1,0.9090909090909091,0.5171843672867434,-0.31718436728674343,Low ROI / Underperformer
+2025,UCLA Bruins,Unknown,1,3,0.25,1100000,1100000,1100000,1100000,1.1,0.9090909090909091,0.5171843672867434,-0.26718436728674344,Low ROI / Underperformer
+2025,Washington Huskies,Unknown,2,3,0.4,1100000,1100000,1100000,1100000,1.1,1.8181818181818181,0.5171843672867434,-0.11718436728674342,Low ROI / Underperformer
+2025,SMU Mustangs,Unknown,2,2,0.5,944000,944000,944000,944000,0.944,2.1186440677966103,0.5016048353876555,-0.0016048353876555455,Expected Range
+2025,Colorado Buffaloes,Unknown,1,3,0.25,913000,913000,913000,913000,0.913,1.095290251916758,0.49820345330659055,-0.24820345330659055,Low ROI / Underperformer
+2025,Texas A&M Aggies,Unknown,10,1,0.909090909090909,896000,896000,896000,896000,0.896,11.160714285714285,0.49628880765754524,0.4128021014333637,High ROI / Overperformer
+2025,Utah Utes,Unknown,6,2,0.75,740000,740000,740000,740000,0.74,8.108108108108109,0.47680256968377666,0.27319743031622334,High ROI / Overperformer
+2025,Syracuse Orange,Unknown,2,5,0.2857142857142861,594000,594000,594000,594000,0.594,3.367003367003367,0.45441508926730123,-0.16870080355301514,Low ROI / Underperformer
+2025,Missouri Tigers,Unknown,4,4,0.5,517000,517000,517000,517000,0.517,7.736943907156673,0.4402721898044025,0.059727810195597475,Expected Range
+2025,Minnesota Golden Gophers,Unknown,3,2,0.6,509000,509000,509000,509000,0.509,5.893909626719057,0.43868358331973967,0.1613164166802603,High ROI / Overperformer
+2025,BYU Cougars,Unknown,8,2,0.8,417000,417000,417000,417000,0.417,19.18465227817746,0.41837513488073663,0.3816248651192634,High ROI / Overperformer
+2025,Illinois Fighting Illini,Unknown,5,4,0.555555555555556,411000,411000,411000,411000,0.411,12.165450121654501,0.41689877166454836,0.13865678389100766,High ROI / Overperformer
+2025,Louisville Cardinals,Unknown,6,3,0.6666666666666669,407000,407000,407000,407000,0.407,14.742014742014742,0.4159025067472054,0.25076415991946144,High ROI / Overperformer
+2025,Mississippi State Bulldogs,Unknown,1,5,0.166666666666667,385000,385000,385000,385000,0.385,2.5974025974025974,0.41024175785265393,-0.24357509118598694,Low ROI / Underperformer
+2025,Boston College Eagles,Unknown,0,5,0,375000,375000,375000,375000,0.375,0,0.40756088584782335,-0.40756088584782335,Low ROI / Underperformer
+2025,Michigan State Spartans,Unknown,1,2,0.3333333333333329,352000,352000,352000,352000,0.352,2.8409090909090913,0.4011132138504737,-0.06777988051714079,Expected Range
+2025,Florida State Seminoles,Unknown,2,3,0.4,330000,330000,330000,330000,0.33,6.0606060606060606,0.3945388537339046,0.005461146266095396,Expected Range
+2025,West Virginia Mountaineers,Unknown,2,2,0.5,326000,326000,326000,326000,0.326,6.134969325153374,0.39329655523583107,0.10670344476416893,High ROI / Overperformer
+2025,Wisconsin Badgers,Unknown,3,6,0.3333333333333329,303000,303000,303000,303000,0.303,9.900990099009901,0.3858434847014961,-0.05251015136816317,Expected Range
+2025,Harvard Crimson,Unknown,NA,NA,NA,277000,277000,277000,277000,0.277,NA,0.376704440769282,NA,No ROI Data
+2025,Air Force Falcons,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,Akron Zips,Unknown,2,2,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,Alabama State Hornets,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,App State Mountaineers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Arkansas Razorbacks,Unknown,0,6,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Arkansas State Red Wolves,Unknown,1,2,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2025,Army Black Knights,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2025,Austin Peay Governors,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Ball State Cardinals,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2025,Baylor Bears,Unknown,2,2,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,Bethune-Cookman Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Boise State Broncos,Unknown,4,2,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2025,Bowling Green Falcons,Unknown,2,3,0.4,0,0,0,0,0,NA,0,0.4,High ROI / Overperformer
+2025,Buffalo Bulls,Unknown,0,4,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Central Arkansas Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Central Michigan Chippewas,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2025,Charlotte 49ers,Unknown,0,4,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Cincinnati Bearcats,Unknown,3,3,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,Clemson Tigers,Unknown,3,2,0.6,0,0,0,0,0,NA,0,0.6,High ROI / Overperformer
+2025,Coastal Carolina Chanticleers,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2025,Colgate Raiders,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Colorado State Rams,Unknown,1,2,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2025,Delaware Blue Hens,Unknown,2,2,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,Delaware State Hornets,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Duke Blue Devils,Unknown,3,3,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,East Carolina Pirates,Unknown,2,2,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,East Tennessee State Buccaneers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,East Texas A&M Lions,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Eastern Illinois Panthers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Eastern Michigan Eagles,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Eastern Washington Eagles,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Elon Phoenix,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Florida Atlantic Owls,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Florida International Panthers,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2025,Fresno State Bulldogs,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Georgia Southern Eagles,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,Georgia State Panthers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Georgia Tech Yellow Jackets,Unknown,7,3,0.7,0,0,0,0,0,NA,0,0.7,High ROI / Overperformer
+2025,Grambling Tigers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Hawai'i Rainbow Warriors,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,Idaho State Bengals,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Indiana State Sycamores,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Iowa Hawkeyes,Unknown,2,4,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2025,Iowa State Cyclones,Unknown,4,3,0.5714285714285712,0,0,0,0,0,NA,0,0.5714285714285712,High ROI / Overperformer
+2025,Jacksonville State Gamecocks,Unknown,3,2,0.6,0,0,0,0,0,NA,0,0.6,High ROI / Overperformer
+2025,James Madison Dukes,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2025,Kansas Jayhawks,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2025,Kennesaw State Owls,Unknown,4,1,0.8,0,0,0,0,0,NA,0,0.8,High ROI / Overperformer
+2025,Kent State Golden Flashes,Unknown,2,4,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2025,Lafayette Leopards,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Liberty Flames,Unknown,2,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2025,Louisiana Ragin' Cajuns,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2025,Louisiana Tech Bulldogs,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2025,Marshall Thundering Herd,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Massachusetts Minutemen,Unknown,0,5,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Memphis Tigers,Unknown,3,2,0.6,0,0,0,0,0,NA,0,0.6,High ROI / Overperformer
+2025,Miami RedHawks,Unknown,1,4,0.2,0,0,0,0,0,NA,0,0.2,High ROI / Overperformer
+2025,Middle Tennessee Blue Raiders,Unknown,0,3,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Missouri State Bears,Unknown,3,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2025,Navy Midshipmen,Unknown,4,1,0.8,0,0,0,0,0,NA,0,0.8,High ROI / Overperformer
+2025,Nevada Wolf Pack,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,New Mexico Lobos,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2025,New Mexico State Aggies,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2025,North Carolina Tar Heels,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2025,North Texas Mean Green,Unknown,3,2,0.6,0,0,0,0,0,NA,0,0.6,High ROI / Overperformer
+2025,Northern Illinois Huskies,Unknown,1,4,0.2,0,0,0,0,0,NA,0,0.2,High ROI / Overperformer
+2025,Northwestern Wildcats,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2025,Ohio Bobcats,Unknown,4,3,0.5714285714285712,0,0,0,0,0,NA,0,0.5714285714285712,High ROI / Overperformer
+2025,Old Dominion Monarchs,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2025,Oregon State Beavers,Unknown,0,3,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Purdue Boilermakers,Unknown,0,5,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Rice Owls,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,Rutgers Scarlet Knights,Unknown,1,5,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2025,SE Louisiana Lions,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Saint Francis Red Flash,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Sam Houston Bearkats,Unknown,0,6,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Samford Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,San Diego State Aztecs,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2025,San José State Spartans,Unknown,1,2,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2025,South Alabama Jaguars,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2025,South Carolina State Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,South Florida Bulls,Unknown,6,3,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2025,Southern Miss Golden Eagles,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2025,Stanford Cardinal,Unknown,0,3,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Stephen F. Austin Lumberjacks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Stony Brook Seawolves,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,TCU Horned Frogs,Unknown,2,2,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,Tarleton State Texans,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2025,Temple Owls,Unknown,0,3,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Texas State Bobcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,The Citadel Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Toledo Rockets,Unknown,2,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2025,Troy Trojans,Unknown,0,3,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Tulane Green Wave,Unknown,3,2,0.6,0,0,0,0,0,NA,0,0.6,High ROI / Overperformer
+2025,Tulsa Golden Hurricane,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,UAB Blazers,Unknown,1,2,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2025,UCF Knights,Unknown,1,4,0.2,0,0,0,0,0,NA,0,0.2,High ROI / Overperformer
+2025,UL Monroe Warhawks,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,UNLV Rebels,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2025,UT Martin Skyhawks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,UTEP Miners,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2025,UTSA Roadrunners,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2025,Utah State Aggies,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2025,Villanova Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Virginia Tech Hokies,Unknown,2,3,0.4,0,0,0,0,0,NA,0,0.4,High ROI / Overperformer
+2025,Wake Forest Demon Deacons,Unknown,1,2,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2025,Washington State Cougars,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Western Illinois Leathernecks,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Western Kentucky Hilltoppers,Unknown,3,1,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2025,Western Michigan Broncos,Unknown,4,2,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2025,Wofford Terriers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2025,Wyoming Cowboys,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2024,Air Force Falcons,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Akron Zips,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Alabama Crimson Tide,Unknown,7,3,0.7,0,0,0,0,0,NA,0,0.7,High ROI / Overperformer
+2024,Alcorn State Braves,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,App State Mountaineers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Arizona State Sun Devils,Unknown,5,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2024,Arizona Wildcats,Unknown,3,2,0.6,0,0,0,0,0,NA,0,0.6,High ROI / Overperformer
+2024,Arkansas Razorbacks,Unknown,2,5,0.2857142857142861,0,0,0,0,0,NA,0,0.2857142857142861,High ROI / Overperformer
+2024,Arkansas State Red Wolves,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Arkansas-Pine Bluff Golden Lions,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Army Black Knights,Unknown,4,2,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Auburn Tigers,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2024,BYU Cougars,Unknown,7,2,0.777777777777778,0,0,0,0,0,NA,0,0.777777777777778,High ROI / Overperformer
+2024,Ball State Cardinals,Unknown,0,4,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Baylor Bears,Unknown,0,3,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Boise State Broncos,Unknown,10,1,0.909090909090909,0,0,0,0,0,NA,0,0.909090909090909,High ROI / Overperformer
+2024,Boston College Eagles,Unknown,1,5,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2024,Bowling Green Falcons,Unknown,3,3,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2024,Buffalo Bulls,Unknown,6,3,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,California Golden Bears,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2024,Central Connecticut Blue Devils,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Central Michigan Chippewas,Unknown,2,3,0.4,0,0,0,0,0,NA,0,0.4,High ROI / Overperformer
+2024,Charlotte 49ers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Cincinnati Bearcats,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2024,Clemson Tigers,Unknown,7,1,0.8750000000000001,0,0,0,0,0,NA,0,0.8750000000000001,High ROI / Overperformer
+2024,Coastal Carolina Chanticleers,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Colorado Buffaloes,Unknown,4,2,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Colorado State Rams,Unknown,2,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2024,Delaware State Hornets,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Duke Blue Devils,Unknown,2,2,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2024,Duquesne Dukes,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,East Carolina Pirates,Unknown,2,2,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2024,Eastern Illinois Panthers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Eastern Michigan Eagles,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Florida A&M Rattlers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Florida Atlantic Owls,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Florida Gators,Unknown,2,3,0.4,0,0,0,0,0,NA,0,0.4,High ROI / Overperformer
+2024,Florida International Panthers,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2024,Florida State Seminoles,Unknown,0,6,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Fordham Rams,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Fresno State Bulldogs,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2024,Georgia Bulldogs,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2024,Georgia Southern Eagles,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Georgia State Panthers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Georgia Tech Yellow Jackets,Unknown,3,5,0.375,0,0,0,0,0,NA,0,0.375,High ROI / Overperformer
+2024,Hawai'i Rainbow Warriors,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2024,Houston Cougars,Unknown,2,3,0.4,0,0,0,0,0,NA,0,0.4,High ROI / Overperformer
+2024,Howard Bison,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Illinois Fighting Illini,Unknown,6,3,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Indiana Hoosiers,Unknown,8,1,0.8888888888888891,0,0,0,0,0,NA,0,0.8888888888888891,High ROI / Overperformer
+2024,Iowa Hawkeyes,Unknown,2,3,0.4,0,0,0,0,0,NA,0,0.4,High ROI / Overperformer
+2024,Iowa State Cyclones,Unknown,6,3,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Jackson State Tigers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Jacksonville State Gamecocks,Unknown,5,2,0.714285714285714,0,0,0,0,0,NA,0,0.714285714285714,High ROI / Overperformer
+2024,James Madison Dukes,Unknown,2,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2024,Kansas Jayhawks,Unknown,4,3,0.5714285714285712,0,0,0,0,0,NA,0,0.5714285714285712,High ROI / Overperformer
+2024,Kansas State Wildcats,Unknown,6,3,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Kennesaw State Owls,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2024,Kent State Golden Flashes,Unknown,0,6,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Kentucky Wildcats,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2024,LSU Tigers,Unknown,6,2,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2024,Lafayette Leopards,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Liberty Flames,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2024,Lindenwood Lions,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Louisiana Ragin' Cajuns,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2024,Louisiana Tech Bulldogs,Unknown,2,3,0.4,0,0,0,0,0,NA,0,0.4,High ROI / Overperformer
+2024,Louisville Cardinals,Unknown,4,3,0.5714285714285712,0,0,0,0,0,NA,0,0.5714285714285712,High ROI / Overperformer
+2024,Maine Black Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Marshall Thundering Herd,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Maryland Terrapins,Unknown,1,4,0.2,0,0,0,0,0,NA,0,0.2,High ROI / Overperformer
+2024,Massachusetts Minutemen,Unknown,0,4,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Memphis Tigers,Unknown,3,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2024,Mercer Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Miami Hurricanes,Unknown,9,2,0.8181818181818181,0,0,0,0,0,NA,0,0.8181818181818181,High ROI / Overperformer
+2024,Miami RedHawks,Unknown,4,3,0.5714285714285712,0,0,0,0,0,NA,0,0.5714285714285712,High ROI / Overperformer
+2024,Michigan State Spartans,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2024,Michigan Wolverines,Unknown,4,5,0.44444444444444403,0,0,0,0,0,NA,0,0.44444444444444403,High ROI / Overperformer
+2024,Middle Tennessee Blue Raiders,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2024,Minnesota Golden Gophers,Unknown,3,3,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2024,Mississippi State Bulldogs,Unknown,0,6,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Missouri Tigers,Unknown,6,2,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2024,Montana State Bobcats,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2024,Murray State Racers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,NC State Wolfpack,Unknown,2,3,0.4,0,0,0,0,0,NA,0,0.4,High ROI / Overperformer
+2024,Navy Midshipmen,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Nebraska Cornhuskers,Unknown,2,4,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2024,Nevada Wolf Pack,Unknown,0,3,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,New Hampshire Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,New Mexico Lobos,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,New Mexico State Aggies,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2024,Nicholls Colonels,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,North Carolina A&T Aggies,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,North Carolina Tar Heels,Unknown,2,2,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2024,North Dakota State Bison,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,North Texas Mean Green,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Northern Arizona Lumberjacks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Northern Illinois Huskies,Unknown,4,2,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Northern Iowa Panthers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Northwestern State Demons,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Northwestern Wildcats,Unknown,2,3,0.4,0,0,0,0,0,NA,0,0.4,High ROI / Overperformer
+2024,Notre Dame Fighting Irish,Unknown,10,1,0.909090909090909,0,0,0,0,0,NA,0,0.909090909090909,High ROI / Overperformer
+2024,Ohio Bobcats,Unknown,6,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2024,Ohio State Buckeyes,Unknown,9,2,0.8181818181818181,0,0,0,0,0,NA,0,0.8181818181818181,High ROI / Overperformer
+2024,Oklahoma Sooners,Unknown,5,3,0.625,0,0,0,0,0,NA,0,0.625,High ROI / Overperformer
+2024,Oklahoma State Cowboys,Unknown,2,4,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2024,Old Dominion Monarchs,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2024,Ole Miss Rebels,Unknown,8,3,0.7272727272727268,0,0,0,0,0,NA,0,0.7272727272727268,High ROI / Overperformer
+2024,Oregon Ducks,Unknown,12,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2024,Oregon State Beavers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Penn State Nittany Lions,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2024,Pittsburgh Panthers,Unknown,3,2,0.6,0,0,0,0,0,NA,0,0.6,High ROI / Overperformer
+2024,Purdue Boilermakers,Unknown,0,9,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Rice Owls,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Rutgers Scarlet Knights,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,SE Louisiana Lions,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,SMU Mustangs,Unknown,8,2,0.8,0,0,0,0,0,NA,0,0.8,High ROI / Overperformer
+2024,Sacramento State Hornets,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Sam Houston Bearkats,Unknown,4,1,0.8,0,0,0,0,0,NA,0,0.8,High ROI / Overperformer
+2024,San Diego State Aztecs,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,San José State Spartans,Unknown,2,3,0.4,0,0,0,0,0,NA,0,0.4,High ROI / Overperformer
+2024,South Alabama Jaguars,Unknown,3,2,0.6,0,0,0,0,0,NA,0,0.6,High ROI / Overperformer
+2024,South Carolina Gamecocks,Unknown,2,3,0.4,0,0,0,0,0,NA,0,0.4,High ROI / Overperformer
+2024,South Florida Bulls,Unknown,1,2,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2024,Southern Utah Thunderbirds,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Stanford Cardinal,Unknown,1,4,0.2,0,0,0,0,0,NA,0,0.2,High ROI / Overperformer
+2024,Syracuse Orange,Unknown,3,2,0.6,0,0,0,0,0,NA,0,0.6,High ROI / Overperformer
+2024,TCU Horned Frogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Temple Owls,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Tennessee Tech Golden Eagles,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Tennessee Volunteers,Unknown,9,2,0.8181818181818181,0,0,0,0,0,NA,0,0.8181818181818181,High ROI / Overperformer
+2024,Texas A&M Aggies,Unknown,6,3,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Texas Longhorns,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2024,Texas State Bobcats,Unknown,2,2,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2024,Texas Tech Red Raiders,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,The Citadel Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Toledo Rockets,Unknown,2,2,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2024,Troy Trojans,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Tulane Green Wave,Unknown,2,4,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2024,Tulsa Golden Hurricane,Unknown,1,2,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2024,UAB Blazers,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2024,UCF Knights,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2024,UCLA Bruins,Unknown,1,4,0.2,0,0,0,0,0,NA,0,0.2,High ROI / Overperformer
+2024,UConn Huskies,Unknown,2,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2024,UL Monroe Warhawks,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2024,UNLV Rebels,Unknown,3,3,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2024,USC Trojans,Unknown,3,4,0.428571428571429,0,0,0,0,0,NA,0,0.428571428571429,High ROI / Overperformer
+2024,UTEP Miners,Unknown,1,4,0.2,0,0,0,0,0,NA,0,0.2,High ROI / Overperformer
+2024,UTSA Roadrunners,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Utah State Aggies,Unknown,0,5,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Utah Utes,Unknown,5,4,0.555555555555556,0,0,0,0,0,NA,0,0.555555555555556,High ROI / Overperformer
+2024,Vanderbilt Commodores,Unknown,1,3,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2024,Villanova Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Virginia Cavaliers,Unknown,2,4,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2024,Virginia Tech Hokies,Unknown,2,1,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2024,Wake Forest Demon Deacons,Unknown,1,4,0.2,0,0,0,0,0,NA,0,0.2,High ROI / Overperformer
+2024,Washington Huskies,Unknown,2,5,0.2857142857142861,0,0,0,0,0,NA,0,0.2857142857142861,High ROI / Overperformer
+2024,Washington State Cougars,Unknown,1,2,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2024,West Virginia Mountaineers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Western Carolina Catamounts,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Western Illinois Leathernecks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Western Kentucky Hilltoppers,Unknown,3,2,0.6,0,0,0,0,0,NA,0,0.6,High ROI / Overperformer
+2024,Western Michigan Broncos,Unknown,0,4,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Wisconsin Badgers,Unknown,1,5,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2024,Wofford Terriers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2024,Wyoming Cowboys,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Abilene Christian Wildcats,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Air Force Falcons,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,Akron Zips,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2023,Alabama A&M Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Alabama Crimson Tide,Unknown,12,1,0.9230769230769229,0,0,0,0,0,NA,0,0.9230769230769229,High ROI / Overperformer
+2023,Alcorn State Braves,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Appalachian State Mountaineers,Unknown,8,5,0.615384615384615,0,0,0,0,0,NA,0,0.615384615384615,High ROI / Overperformer
+2023,Arizona State Sun Devils,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Arizona Wildcats,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2023,Arkansas Razorbacks,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,Arkansas State Red Wolves,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Arkansas-Pine Bluff Golden Lions,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Army Black Knights,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Auburn Tigers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Austin Peay Governors,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,BYU Cougars,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,Ball State Cardinals,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,Baylor Bears,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Bethune-Cookman Wildcats,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Boise State Broncos,Unknown,8,5,0.615384615384615,0,0,0,0,0,NA,0,0.615384615384615,High ROI / Overperformer
+2023,Boston College Eagles,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Bowling Green Falcons,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,Bryant Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Bucknell Bison,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Buffalo Bulls,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Cal Poly Mustangs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,California Golden Bears,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Campbell Fighting Camels,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Central Arkansas Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Central Connecticut Blue Devils,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Central Michigan Chippewas,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,Charleston Southern Buccaneers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Charlotte 49ers,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Chattanooga Mocs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Cincinnati Bearcats,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Clemson Tigers,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,Coastal Carolina Chanticleers,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,Colgate Raiders,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Colorado Buffaloes,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,Colorado State Rams,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,Delaware Blue Hens,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Delaware State Hornets,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Duke Blue Devils,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,Duquesne Dukes,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,East Carolina Pirates,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2023,East Tennessee State Buccaneers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Eastern Illinois Panthers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Eastern Kentucky Colonels,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Eastern Michigan Eagles,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Eastern Washington Eagles,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Elon Phoenix,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Florida A&M Rattlers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Florida Atlantic Owls,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,Florida Gators,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,Florida International Panthers,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,Florida State Seminoles,Unknown,13,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2023,Fordham Rams,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2023,Fresno State Bulldogs,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,Furman Paladins,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Gardner-Webb Runnin' Bulldogs,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Georgia Bulldogs,Unknown,12,1,0.9230769230769229,0,0,0,0,0,NA,0,0.9230769230769229,High ROI / Overperformer
+2023,Georgia Southern Eagles,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Georgia State Panthers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Georgia Tech Yellow Jackets,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Grambling Tigers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Hawai'i Rainbow Warriors,Unknown,5,8,0.38461538461538497,0,0,0,0,0,NA,0,0.38461538461538497,High ROI / Overperformer
+2023,Holy Cross Crusaders,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Houston Christian Huskies,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Houston Cougars,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,Howard Bison,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Idaho State Bengals,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Idaho Vandals,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Illinois Fighting Illini,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,Incarnate Word Cardinals,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Indiana Hoosiers,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Indiana State Sycamores,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Iowa Hawkeyes,Unknown,10,3,0.7692307692307688,0,0,0,0,0,NA,0,0.7692307692307688,High ROI / Overperformer
+2023,Iowa State Cyclones,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,Jackson State Tigers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Jacksonville State Gamecocks,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,James Madison Dukes,Unknown,11,1,0.916666666666667,0,0,0,0,0,NA,0,0.916666666666667,High ROI / Overperformer
+2023,Kansas Jayhawks,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,Kansas State Wildcats,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,Kennesaw State Owls,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Kent State Golden Flashes,Unknown,1,11,0.0833333333333333,0,0,0,0,0,NA,0,0.0833333333333333,Expected Range
+2023,Kentucky Wildcats,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,LSU Tigers,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2023,Lafayette Leopards,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Lamar Cardinals,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Liberty Flames,Unknown,13,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2023,Long Island University Sharks,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Louisiana Ragin' Cajuns,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Louisiana Tech Bulldogs,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Louisville Cardinals,Unknown,10,3,0.7692307692307688,0,0,0,0,0,NA,0,0.7692307692307688,High ROI / Overperformer
+2023,Maine Black Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Marshall Thundering Herd,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Maryland Terrapins,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,Massachusetts Minutemen,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,McNeese Cowboys,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Memphis Tigers,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2023,Mercer Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Merrimack Warriors,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Miami Hurricanes,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,Miami RedHawks,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2023,Michigan State Spartans,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,Michigan Wolverines,Unknown,13,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2023,Middle Tennessee Blue Raiders,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,Minnesota Golden Gophers,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,Mississippi State Bulldogs,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,Missouri State Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Missouri Tigers,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2023,Monmouth Hawks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Morgan State Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Murray State Racers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,NC State Wolfpack,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2023,Navy Midshipmen,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,Nebraska Cornhuskers,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,Nevada Wolf Pack,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2023,New Hampshire Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,New Mexico Lobos,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,New Mexico State Aggies,Unknown,10,4,0.714285714285714,0,0,0,0,0,NA,0,0.714285714285714,High ROI / Overperformer
+2023,Nicholls Colonels,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Norfolk State Spartans,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,North Alabama Lions,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,North Carolina A&T Aggies,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,North Carolina Central Eagles,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,North Carolina Tar Heels,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,North Dakota Fighting Hawks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,North Texas Mean Green,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,Northern Arizona Lumberjacks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Northern Colorado Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Northern Illinois Huskies,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Northern Iowa Panthers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Northwestern State Demons,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Northwestern Wildcats,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,Notre Dame Fighting Irish,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2023,Ohio Bobcats,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2023,Ohio State Buckeyes,Unknown,11,1,0.916666666666667,0,0,0,0,0,NA,0,0.916666666666667,High ROI / Overperformer
+2023,Oklahoma Sooners,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2023,Oklahoma State Cowboys,Unknown,9,4,0.692307692307692,0,0,0,0,0,NA,0,0.692307692307692,High ROI / Overperformer
+2023,Old Dominion Monarchs,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Ole Miss Rebels,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2023,Oregon Ducks,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2023,Oregon State Beavers,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,Penn State Nittany Lions,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2023,Pittsburgh Panthers,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Portland State Vikings,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Prairie View A&M Panthers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Purdue Boilermakers,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,Rhode Island Rams,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Rice Owls,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Richmond Spiders,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Robert Morris Colonials,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Rutgers Scarlet Knights,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,SE Louisiana Lions,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,SMU Mustangs,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2023,Sacramento State Hornets,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2023,Sacred Heart Pioneers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Sam Houston Bearkats,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Samford Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,San Diego State Aztecs,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,San José State Spartans,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,South Alabama Jaguars,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,South Carolina Gamecocks,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,South Carolina State Bulldogs,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,South Dakota Coyotes,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,South Florida Bulls,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Southeast Missouri State Redhawks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Southern Illinois Salukis,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2023,Southern Miss Golden Eagles,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Southern Utah Thunderbirds,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,St. Francis Red Flash,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Stanford Cardinal,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Stephen F. Austin Lumberjacks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Stony Brook Seawolves,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Syracuse Orange,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,TCU Horned Frogs,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,Tarleton State Texans,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Temple Owls,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Tennessee State Tigers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Tennessee Tech Golden Eagles,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Tennessee Volunteers,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,Texas A&M Aggies,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,Texas A&M-Commerce Lions,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Texas Longhorns,Unknown,12,1,0.9230769230769229,0,0,0,0,0,NA,0,0.9230769230769229,High ROI / Overperformer
+2023,Texas Southern Tigers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Texas State Bobcats,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,Texas Tech Red Raiders,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,The Citadel Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Toledo Rockets,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2023,Towson Tigers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Troy Trojans,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2023,Tulane Green Wave,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2023,Tulsa Golden Hurricane,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,UAB Blazers,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,UAlbany Great Danes,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,UC Davis Aggies,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,UCF Knights,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,UCLA Bruins,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,UConn Huskies,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,UL Monroe Warhawks,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2023,UNLV Rebels,Unknown,9,4,0.692307692307692,0,0,0,0,0,NA,0,0.692307692307692,High ROI / Overperformer
+2023,USC Trojans,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,UT Martin Skyhawks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,UTEP Miners,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,UTSA Roadrunners,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,Utah State Aggies,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Utah Tech Trailblazers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Utah Utes,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,VMI Keydets,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Vanderbilt Commodores,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2023,Villanova Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Virginia Cavaliers,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2023,Virginia Tech Hokies,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2023,Wagner Seahawks,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Wake Forest Demon Deacons,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,Washington Huskies,Unknown,13,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2023,Washington State Cougars,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2023,Weber State Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,West Virginia Mountaineers,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,Western Carolina Catamounts,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Western Illinois Leathernecks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Western Kentucky Hilltoppers,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,Western Michigan Broncos,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2023,William & Mary Tribe,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Wisconsin Badgers,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2023,Wofford Terriers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2023,Wyoming Cowboys,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2023,Youngstown State Penguins,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Abilene Christian Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Air Force Falcons,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2022,Akron Zips,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2022,Alabama A&M Bulldogs,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Alabama Crimson Tide,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2022,Alabama State Hornets,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Albany Great Danes,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Alcorn State Braves,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Appalachian State Mountaineers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Arizona State Sun Devils,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2022,Arizona Wildcats,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,Arkansas Razorbacks,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Arkansas State Red Wolves,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2022,Arkansas-Pine Bluff Golden Lions,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Army Black Knights,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Auburn Tigers,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,Austin Peay Governors,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,BYU Cougars,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,Ball State Cardinals,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,Baylor Bears,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Bethune-Cookman Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Boise State Broncos,Unknown,9,4,0.692307692307692,0,0,0,0,0,NA,0,0.692307692307692,High ROI / Overperformer
+2022,Boston College Eagles,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2022,Bowling Green Falcons,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Bryant Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Bucknell Bison,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Buffalo Bulls,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Cal Poly Mustangs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,California Golden Bears,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2022,Campbell Fighting Camels,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Central Arkansas Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Central Connecticut Blue Devils,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Central Michigan Chippewas,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2022,Charleston Southern Buccaneers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Charlotte 49ers,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2022,Chattanooga Mocs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Cincinnati Bearcats,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2022,Clemson Tigers,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2022,Coastal Carolina Chanticleers,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2022,Colgate Raiders,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Colorado Buffaloes,Unknown,1,11,0.0833333333333333,0,0,0,0,0,NA,0,0.0833333333333333,Expected Range
+2022,Colorado State Rams,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2022,Delaware Blue Hens,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2022,Duke Blue Devils,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,Duquesne Dukes,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,East Carolina Pirates,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,East Tennessee State Buccaneers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Eastern Illinois Panthers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Eastern Kentucky Colonels,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Eastern Michigan Eagles,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,Eastern Washington Eagles,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Elon Phoenix,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Florida A&M Rattlers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Florida Atlantic Owls,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,Florida Gators,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Florida International Panthers,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2022,Florida State Seminoles,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2022,Fordham Rams,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Fresno State Bulldogs,Unknown,9,4,0.692307692307692,0,0,0,0,0,NA,0,0.692307692307692,High ROI / Overperformer
+2022,Furman Paladins,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Gardner-Webb Runnin' Bulldogs,Unknown,0,3,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Georgia Bulldogs,Unknown,13,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2022,Georgia Southern Eagles,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Georgia State Panthers,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2022,Georgia Tech Yellow Jackets,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,Grambling Tigers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Hawai'i Rainbow Warriors,Unknown,3,10,0.23076923076923106,0,0,0,0,0,NA,0,0.23076923076923106,High ROI / Overperformer
+2022,Holy Cross Crusaders,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2022,Houston Christian Huskies,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Houston Cougars,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,Howard Bison,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Idaho State Bengals,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Idaho Vandals,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Illinois Fighting Illini,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,Illinois State Redbirds,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Incarnate Word Cardinals,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2022,Indiana Hoosiers,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2022,Indiana State Sycamores,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Iowa Hawkeyes,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,Iowa State Cyclones,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2022,Jacksonville State Gamecocks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,James Madison Dukes,Unknown,8,3,0.7272727272727268,0,0,0,0,0,NA,0,0.7272727272727268,High ROI / Overperformer
+2022,Kansas Jayhawks,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Kansas State Wildcats,Unknown,10,3,0.7692307692307688,0,0,0,0,0,NA,0,0.7692307692307688,High ROI / Overperformer
+2022,Kennesaw State Owls,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Kent State Golden Flashes,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,Kentucky Wildcats,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,LSU Tigers,Unknown,9,4,0.692307692307692,0,0,0,0,0,NA,0,0.692307692307692,High ROI / Overperformer
+2022,Lafayette Leopards,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Lamar Cardinals,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Liberty Flames,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,Long Island University Sharks,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Louisiana Ragin' Cajuns,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Louisiana Tech Bulldogs,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2022,Louisville Cardinals,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,Maine Black Bears,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Marshall Thundering Herd,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,Maryland Terrapins,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,Massachusetts Minutemen,Unknown,1,11,0.0833333333333333,0,0,0,0,0,NA,0,0.0833333333333333,Expected Range
+2022,McNeese Cowboys,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Memphis Tigers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Mercer Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Miami Hurricanes,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,Miami RedHawks,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Michigan State Spartans,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,Michigan Wolverines,Unknown,13,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2022,Middle Tennessee Blue Raiders,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,Minnesota Golden Gophers,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,Mississippi State Bulldogs,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,Missouri State Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Missouri Tigers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Montana State Bobcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Morgan State Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Murray State Racers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,NC State Wolfpack,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,Navy Midshipmen,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2022,Nebraska Cornhuskers,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2022,Nevada Wolf Pack,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2022,New Hampshire Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,New Mexico Lobos,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2022,New Mexico State Aggies,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Nicholls Colonels,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Norfolk State Spartans,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,North Alabama Lions,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,North Carolina A&T Aggies,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,North Carolina Tar Heels,Unknown,9,4,0.692307692307692,0,0,0,0,0,NA,0,0.692307692307692,High ROI / Overperformer
+2022,North Dakota Fighting Hawks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,North Dakota State Bison,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,North Texas Mean Green,Unknown,7,6,0.538461538461538,0,0,0,0,0,NA,0,0.538461538461538,High ROI / Overperformer
+2022,Northern Arizona Lumberjacks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Northern Colorado Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Northern Illinois Huskies,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2022,Northern Iowa Panthers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Northwestern State Demons,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Northwestern Wildcats,Unknown,1,11,0.0833333333333333,0,0,0,0,0,NA,0,0.0833333333333333,Expected Range
+2022,Notre Dame Fighting Irish,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,Ohio Bobcats,Unknown,9,4,0.692307692307692,0,0,0,0,0,NA,0,0.692307692307692,High ROI / Overperformer
+2022,Ohio State Buckeyes,Unknown,11,1,0.916666666666667,0,0,0,0,0,NA,0,0.916666666666667,High ROI / Overperformer
+2022,Oklahoma Sooners,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Oklahoma State Cowboys,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,Old Dominion Monarchs,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2022,Ole Miss Rebels,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,Oregon Ducks,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2022,Oregon State Beavers,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2022,Penn State Nittany Lions,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2022,Pittsburgh Panthers,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,Portland State Vikings,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Purdue Boilermakers,Unknown,8,5,0.615384615384615,0,0,0,0,0,NA,0,0.615384615384615,High ROI / Overperformer
+2022,Rhode Island Rams,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Rice Owls,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,Richmond Spiders,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Robert Morris Colonials,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Rutgers Scarlet Knights,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2022,SE Louisiana Lions,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,SMU Mustangs,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,Sacramento State Hornets,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2022,Sam Houston Bearkats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Samford Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,San Diego State Aztecs,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,San José State Spartans,Unknown,7,4,0.636363636363636,0,0,0,0,0,NA,0,0.636363636363636,High ROI / Overperformer
+2022,South Alabama Jaguars,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2022,South Carolina Gamecocks,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,South Carolina State Bulldogs,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,South Dakota Coyotes,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,South Dakota State Jackrabbits,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,South Florida Bulls,Unknown,1,11,0.0833333333333333,0,0,0,0,0,NA,0,0.0833333333333333,Expected Range
+2022,Southeast Missouri State Redhawks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Southern Illinois Salukis,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2022,Southern Jaguars,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Southern Miss Golden Eagles,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Southern Utah Thunderbirds,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,St. Francis Red Flash,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Stanford Cardinal,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2022,Stephen F. Austin Lumberjacks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Stony Brook Seawolves,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Syracuse Orange,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,TCU Horned Frogs,Unknown,12,1,0.9230769230769229,0,0,0,0,0,NA,0,0.9230769230769229,High ROI / Overperformer
+2022,Tarleton Texans,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Temple Owls,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2022,Tennessee State Tigers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Tennessee Tech Golden Eagles,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Tennessee Volunteers,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2022,Texas A&M Aggies,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,Texas Longhorns,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2022,Texas Southern Tigers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Texas State Bobcats,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2022,Texas Tech Red Raiders,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,The Citadel Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Toledo Rockets,Unknown,8,5,0.615384615384615,0,0,0,0,0,NA,0,0.615384615384615,High ROI / Overperformer
+2022,Towson Tigers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Troy Trojans,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2022,Tulane Green Wave,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2022,Tulsa Golden Hurricane,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,UAB Blazers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,UC Davis Aggies,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,UCF Knights,Unknown,9,4,0.692307692307692,0,0,0,0,0,NA,0,0.692307692307692,High ROI / Overperformer
+2022,UCLA Bruins,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2022,UConn Huskies,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,UL Monroe Warhawks,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2022,UNLV Rebels,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,USC Trojans,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2022,UT Martin Skyhawks,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,UTEP Miners,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,UTSA Roadrunners,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2022,Utah State Aggies,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Utah Tech Trailblazers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Utah Utes,Unknown,10,3,0.7692307692307688,0,0,0,0,0,NA,0,0.7692307692307688,High ROI / Overperformer
+2022,VMI Keydets,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Valparaiso Beacons,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Vanderbilt Commodores,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,Villanova Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Virginia Cavaliers,Unknown,3,7,0.3,0,0,0,0,0,NA,0,0.3,High ROI / Overperformer
+2022,Virginia Tech Hokies,Unknown,3,8,0.27272727272727304,0,0,0,0,0,NA,0,0.27272727272727304,High ROI / Overperformer
+2022,Wagner Seahawks,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Wake Forest Demon Deacons,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,Washington Huskies,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2022,Washington State Cougars,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,Weber State Wildcats,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2022,West Virginia Mountaineers,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,Western Carolina Catamounts,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Western Illinois Leathernecks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Western Kentucky Hilltoppers,Unknown,8,5,0.615384615384615,0,0,0,0,0,NA,0,0.615384615384615,High ROI / Overperformer
+2022,Western Michigan Broncos,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2022,William & Mary Tribe,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2022,Wisconsin Badgers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2022,Wofford Terriers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2022,Wyoming Cowboys,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2022,Youngstown State Penguins,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Abilene Christian Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Air Force Falcons,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2021,Akron Zips,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2021,Alabama Crimson Tide,Unknown,12,1,0.9230769230769229,0,0,0,0,0,NA,0,0.9230769230769229,High ROI / Overperformer
+2021,Alabama State Hornets,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Albany Great Danes,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Alcorn State Braves,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Appalachian State Mountaineers,Unknown,10,3,0.7692307692307688,0,0,0,0,0,NA,0,0.7692307692307688,High ROI / Overperformer
+2021,Arizona State Sun Devils,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,Arizona Wildcats,Unknown,1,11,0.0833333333333333,0,0,0,0,0,NA,0,0.0833333333333333,Expected Range
+2021,Arkansas Razorbacks,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,Arkansas State Red Wolves,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2021,Arkansas-Pine Bluff Golden Lions,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Army Black Knights,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,Auburn Tigers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Austin Peay Governors,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,BYU Cougars,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2021,Ball State Cardinals,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Baylor Bears,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2021,Bethune-Cookman Wildcats,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Boise State Broncos,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Boston College Eagles,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Bowling Green Falcons,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2021,Bryant Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Bucknell Bison,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Buffalo Bulls,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2021,Cal Poly Mustangs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,California Golden Bears,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2021,Campbell Fighting Camels,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Central Arkansas Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Central Connecticut Blue Devils,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Central Michigan Chippewas,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,Charleston Southern Buccaneers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Charlotte 49ers,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2021,Chattanooga Mocs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Cincinnati Bearcats,Unknown,13,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2021,Clemson Tigers,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2021,Coastal Carolina Chanticleers,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2021,Colgate Raiders,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Colorado Buffaloes,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2021,Colorado State Rams,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2021,Delaware Blue Hens,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Duke Blue Devils,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2021,Duquesne Dukes,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,East Carolina Pirates,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,East Tennessee State Buccaneers,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2021,Eastern Illinois Panthers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Eastern Kentucky Colonels,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Eastern Michigan Eagles,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Eastern Washington Eagles,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2021,Elon Phoenix,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Florida A&M Rattlers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Florida Atlantic Owls,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2021,Florida Gators,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Florida International Panthers,Unknown,1,11,0.0833333333333333,0,0,0,0,0,NA,0,0.0833333333333333,Expected Range
+2021,Florida State Seminoles,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2021,Fordham Rams,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Fresno State Bulldogs,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2021,Furman Paladins,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Gardner-Webb Runnin' Bulldogs,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Georgia Bulldogs,Unknown,12,1,0.9230769230769229,0,0,0,0,0,NA,0,0.9230769230769229,High ROI / Overperformer
+2021,Georgia Southern Eagles,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2021,Georgia State Panthers,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Georgia Tech Yellow Jackets,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2021,Grambling Tigers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Hampton Pirates,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Hawai'i Rainbow Warriors,Unknown,6,7,0.46153846153846206,0,0,0,0,0,NA,0,0.46153846153846206,High ROI / Overperformer
+2021,Holy Cross Crusaders,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2021,Houston Baptist Huskies,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Houston Cougars,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2021,Howard Bison,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Idaho State Bengals,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Idaho Vandals,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Illinois Fighting Illini,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2021,Illinois State Redbirds,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Incarnate Word Cardinals,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2021,Indiana Hoosiers,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2021,Indiana State Sycamores,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Iowa Hawkeyes,Unknown,10,3,0.7692307692307688,0,0,0,0,0,NA,0,0.7692307692307688,High ROI / Overperformer
+2021,Iowa State Cyclones,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Jackson State Tigers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Jacksonville State Gamecocks,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Kansas Jayhawks,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2021,Kansas State Wildcats,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Kennesaw State Owls,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Kent State Golden Flashes,Unknown,7,6,0.538461538461538,0,0,0,0,0,NA,0,0.538461538461538,High ROI / Overperformer
+2021,Kentucky Wildcats,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2021,LSU Tigers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Lafayette Leopards,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Lamar Cardinals,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Liberty Flames,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Long Island University Sharks,Unknown,0,3,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Louisiana Ragin' Cajuns,Unknown,12,1,0.9230769230769229,0,0,0,0,0,NA,0,0.9230769230769229,High ROI / Overperformer
+2021,Louisiana Tech Bulldogs,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2021,Louisville Cardinals,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Maine Black Bears,Unknown,1,1,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Marshall Thundering Herd,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Maryland Terrapins,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Massachusetts Minutemen,Unknown,1,11,0.0833333333333333,0,0,0,0,0,NA,0,0.0833333333333333,Expected Range
+2021,McNeese Cowboys,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Memphis Tigers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Mercer Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Miami Hurricanes,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Miami RedHawks,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Michigan State Spartans,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2021,Michigan Wolverines,Unknown,12,1,0.9230769230769229,0,0,0,0,0,NA,0,0.9230769230769229,High ROI / Overperformer
+2021,Middle Tennessee Blue Raiders,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Minnesota Golden Gophers,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,Mississippi State Bulldogs,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Missouri State Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Missouri Tigers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Monmouth Hawks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Montana Grizzlies,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2021,Montana State Bobcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Morgan State Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Murray State Racers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,NC State Wolfpack,Unknown,9,3,0.75,0,0,0,0,0,NA,0,0.75,High ROI / Overperformer
+2021,Navy Midshipmen,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2021,Nebraska Cornhuskers,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2021,Nevada Wolf Pack,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,New Hampshire Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,New Mexico Lobos,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2021,New Mexico State Aggies,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2021,Nicholls Colonels,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Norfolk State Spartans,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,North Carolina A&T Aggies,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,North Carolina Central Eagles,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,North Carolina Tar Heels,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,North Dakota Fighting Hawks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,North Texas Mean Green,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Northern Arizona Lumberjacks,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2021,Northern Colorado Bears,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Northern Illinois Huskies,Unknown,9,4,0.692307692307692,0,0,0,0,0,NA,0,0.692307692307692,High ROI / Overperformer
+2021,Northern Iowa Panthers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Northwestern State Demons,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Northwestern Wildcats,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2021,Notre Dame Fighting Irish,Unknown,11,1,0.916666666666667,0,0,0,0,0,NA,0,0.916666666666667,High ROI / Overperformer
+2021,Ohio Bobcats,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2021,Ohio State Buckeyes,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2021,Oklahoma Sooners,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2021,Oklahoma State Cowboys,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2021,Old Dominion Monarchs,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Ole Miss Rebels,Unknown,10,2,0.833333333333333,0,0,0,0,0,NA,0,0.833333333333333,High ROI / Overperformer
+2021,Oregon Ducks,Unknown,10,3,0.7692307692307688,0,0,0,0,0,NA,0,0.7692307692307688,High ROI / Overperformer
+2021,Oregon State Beavers,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Penn State Nittany Lions,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Pittsburgh Panthers,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2021,Portland State Vikings,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Prairie View A&M Panthers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Purdue Boilermakers,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,Rhode Island Rams,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2021,Rice Owls,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2021,Richmond Spiders,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Robert Morris Colonials,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Rutgers Scarlet Knights,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2021,SE Louisiana Lions,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,SMU Mustangs,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,Sacramento State Hornets,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Samford Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,San Diego State Aztecs,Unknown,11,2,0.8461538461538461,0,0,0,0,0,NA,0,0.8461538461538461,High ROI / Overperformer
+2021,San José State Spartans,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2021,South Alabama Jaguars,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2021,South Carolina Gamecocks,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,South Carolina State Bulldogs,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,South Dakota Coyotes,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,South Dakota State Jackrabbits,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2021,South Florida Bulls,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2021,Southeast Missouri State Redhawks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Southern Illinois Salukis,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Southern Jaguars,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Southern Miss Golden Eagles,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2021,Southern Utah Thunderbirds,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,St. Francis Red Flash,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Stanford Cardinal,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2021,Stephen F. Austin Lumberjacks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Stony Brook Seawolves,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Syracuse Orange,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2021,TCU Horned Frogs,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2021,Temple Owls,Unknown,3,9,0.25,0,0,0,0,0,NA,0,0.25,High ROI / Overperformer
+2021,Tennessee State Tigers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Tennessee Tech Golden Eagles,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Tennessee Volunteers,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Texas A&M Aggies,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,Texas Longhorns,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2021,Texas Southern Tigers,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Texas State Bobcats,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2021,Texas Tech Red Raiders,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,The Citadel Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Toledo Rockets,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Towson Tigers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Troy Trojans,Unknown,5,7,0.4166666666666671,0,0,0,0,0,NA,0,0.4166666666666671,High ROI / Overperformer
+2021,Tulane Green Wave,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2021,Tulsa Golden Hurricane,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,UAB Blazers,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,UC Davis Aggies,Unknown,1,0,1,0,0,0,0,0,NA,0,1,High ROI / Overperformer
+2021,UCF Knights,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,UCLA Bruins,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,UConn Huskies,Unknown,1,11,0.0833333333333333,0,0,0,0,0,NA,0,0.0833333333333333,Expected Range
+2021,UL Monroe Warhawks,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2021,UNLV Rebels,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2021,USC Trojans,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2021,UT Martin Skyhawks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,UTEP Miners,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,UTSA Roadrunners,Unknown,12,1,0.9230769230769229,0,0,0,0,0,NA,0,0.9230769230769229,High ROI / Overperformer
+2021,Utah State Aggies,Unknown,10,3,0.7692307692307688,0,0,0,0,0,NA,0,0.7692307692307688,High ROI / Overperformer
+2021,Utah Utes,Unknown,10,3,0.7692307692307688,0,0,0,0,0,NA,0,0.7692307692307688,High ROI / Overperformer
+2021,VMI Keydets,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Vanderbilt Commodores,Unknown,2,10,0.166666666666667,0,0,0,0,0,NA,0,0.166666666666667,High ROI / Overperformer
+2021,Villanova Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Virginia Cavaliers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Virginia Tech Hokies,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Wagner Seahawks,Unknown,0,2,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Wake Forest Demon Deacons,Unknown,10,3,0.7692307692307688,0,0,0,0,0,NA,0,0.7692307692307688,High ROI / Overperformer
+2021,Washington Huskies,Unknown,4,8,0.3333333333333329,0,0,0,0,0,NA,0,0.3333333333333329,High ROI / Overperformer
+2021,Washington State Cougars,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,Weber State Wildcats,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,West Virginia Mountaineers,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Western Carolina Catamounts,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Western Illinois Leathernecks,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Western Kentucky Hilltoppers,Unknown,8,5,0.615384615384615,0,0,0,0,0,NA,0,0.615384615384615,High ROI / Overperformer
+2021,Western Michigan Broncos,Unknown,7,5,0.5833333333333329,0,0,0,0,0,NA,0,0.5833333333333329,High ROI / Overperformer
+2021,William & Mary Tribe,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Wisconsin Badgers,Unknown,8,4,0.6666666666666669,0,0,0,0,0,NA,0,0.6666666666666669,High ROI / Overperformer
+2021,Wofford Terriers,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Wyoming Cowboys,Unknown,6,6,0.5,0,0,0,0,0,NA,0,0.5,High ROI / Overperformer
+2021,Yale Bulldogs,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
+2021,Youngstown State Penguins,Unknown,0,1,0,0,0,0,0,0,NA,0,0,Expected Range
