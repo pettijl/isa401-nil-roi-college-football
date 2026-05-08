@@ -1,0 +1,1844 @@
+game_id,game_date,season,team_id,school,school_key,score,winner
+401756846,2025-08-23,2025,2306,Kansas State Wildcats,kansasstate,21,FALSE
+401756846,2025-08-23,2025,66,Iowa State Cyclones,iowa,24,TRUE
+401760371,2025-08-23,2025,2439,UNLV Rebels,unlv,38,TRUE
+401760371,2025-08-23,2025,304,Idaho State Bengals,idahostatebengals,31,FALSE
+401756847,2025-08-23,2025,2305,Kansas Jayhawks,kansasjayhawks,31,TRUE
+401756847,2025-08-23,2025,278,Fresno State Bulldogs,fresnostatebulldogs,7,FALSE
+401757218,2025-08-23,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,41,TRUE
+401757218,2025-08-23,2025,2534,Sam Houston Bearkats,samhoustonbearkats,24,FALSE
+401754516,2025-08-23,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,23,TRUE
+401754516,2025-08-23,2025,24,Stanford Cardinal,stanfordcardinal,20,FALSE
+401752795,2025-08-29,2025,356,Illinois Fighting Illini,illinois,52,TRUE
+401752795,2025-08-29,2025,2710,Western Illinois Leathernecks,westernillinoisleathernecks,3,FALSE
+401762432,2025-08-29,2025,349,Army Black Knights,armyblackknights,27,FALSE
+401762432,2025-08-29,2025,2627,Tarleton State Texans,tarletonstatetexans,30,TRUE
+401752802,2025-08-29,2025,127,Michigan State Spartans,michiganstate,23,TRUE
+401752802,2025-08-29,2025,2711,Western Michigan Broncos,westernmichiganbroncos,6,FALSE
+401754374,2025-08-29,2025,154,Wake Forest Demon Deacons,wakeforestdemondeacons,10,TRUE
+401754374,2025-08-29,2025,338,Kennesaw State Owls,kennesawstateowls,9,FALSE
+401761589,2025-08-29,2025,2429,Charlotte 49ers,charlotte49ers,11,FALSE
+401761589,2025-08-29,2025,2026,App State Mountaineers,appstatemountaineers,34,TRUE
+401756854,2025-08-29,2025,2305,Kansas Jayhawks,kansasjayhawks,46,TRUE
+401756854,2025-08-29,2025,2681,Wagner Seahawks,wagnerseahawks,7,FALSE
+401752667,2025-08-30,2025,239,Baylor Bears,baylor,24,FALSE
+401752667,2025-08-30,2025,2,Auburn Tigers,auburn,38,TRUE
+401754375,2025-08-30,2025,38,Colorado Buffaloes,colorado,20,FALSE
+401754375,2025-08-30,2025,59,Georgia Tech Yellow Jackets,georgia,27,TRUE
+401766898,2025-08-30,2025,2229,Florida International Panthers,florida,42,TRUE
+401766898,2025-08-30,2025,2065,Bethune-Cookman Wildcats,bethunecookmanwildcats,9,FALSE
+401757224,2025-08-30,2025,2534,Sam Houston Bearkats,samhoustonbearkats,21,FALSE
+401757224,2025-08-30,2025,2439,UNLV Rebels,unlv,38,TRUE
+401760358,2025-08-30,2025,23,San José State Spartans,sanjosstatespartans,14,FALSE
+401760358,2025-08-30,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,16,TRUE
+401752677,2025-08-30,2025,194,Ohio State Buckeyes,ohiostate,14,TRUE
+401752677,2025-08-30,2025,251,Texas Longhorns,texas,7,FALSE
+401752807,2025-08-30,2025,213,Penn State Nittany Lions,pennstate,46,TRUE
+401752807,2025-08-30,2025,2440,Nevada Wolf Pack,nevadawolfpack,11,FALSE
+401752671,2025-08-30,2025,228,Clemson Tigers,clemson,10,FALSE
+401752671,2025-08-30,2025,99,LSU Tigers,lsu,17,TRUE
+401752669,2025-08-30,2025,61,Georgia Bulldogs,georgia,45,TRUE
+401752669,2025-08-30,2025,276,Marshall Thundering Herd,marshallthunderingherd,7,FALSE
+401752804,2025-08-30,2025,2483,Oregon Ducks,oregon,59,TRUE
+401752804,2025-08-30,2025,147,Montana State Bobcats,montanastatebobcats,13,FALSE
+401752665,2025-08-30,2025,52,Florida State Seminoles,floridastate,31,TRUE
+401752665,2025-08-30,2025,333,Alabama Crimson Tide,alabama,17,FALSE
+401756850,2025-08-31,2025,9,Arizona State Sun Devils,arizonastate,38,TRUE
+401756850,2025-08-31,2025,2464,Northern Arizona Lumberjacks,northernarizonalumberjacks,19,FALSE
+401752808,2025-08-30,2025,130,Michigan Wolverines,michigan,34,TRUE
+401752808,2025-08-30,2025,167,New Mexico Lobos,newmexicolobos,17,FALSE
+401752668,2025-08-30,2025,57,Florida Gators,florida,55,TRUE
+401752668,2025-08-30,2025,2341,Long Island University Sharks,longislanduniversitysharks,0,FALSE
+401754521,2025-08-31,2025,2567,SMU Mustangs,smu,42,TRUE
+401754521,2025-08-31,2025,2837,East Texas A&M Lions,easttexasaandmlions,13,FALSE
+401756855,2025-08-30,2025,2306,Kansas State Wildcats,kansasstate,38,TRUE
+401756855,2025-08-30,2025,155,North Dakota Fighting Hawks,northdakotafightinghawks,35,FALSE
+401752675,2025-08-30,2025,201,Oklahoma Sooners,oklahoma,35,TRUE
+401752675,2025-08-30,2025,2287,Illinois State Redbirds,illinois,3,FALSE
+401752678,2025-08-30,2025,245,Texas A&M Aggies,texas,42,TRUE
+401752678,2025-08-30,2025,2636,UTSA Roadrunners,utsaroadrunners,24,FALSE
+401752806,2025-08-30,2025,84,Indiana Hoosiers,indiana,27,TRUE
+401752806,2025-08-30,2025,295,Old Dominion Monarchs,olddominionmonarchs,14,FALSE
+401752672,2025-08-30,2025,145,Ole Miss Rebels,olemiss,63,TRUE
+401752672,2025-08-30,2025,2247,Georgia State Panthers,georgia,7,FALSE
+401756853,2025-08-30,2025,66,Iowa State Cyclones,iowa,55,TRUE
+401756853,2025-08-30,2025,233,South Dakota Coyotes,southdakotacoyotes,7,FALSE
+401756877,2025-08-30,2025,2641,Texas Tech Red Raiders,texastech,67,TRUE
+401756877,2025-08-30,2025,2029,Arkansas-Pine Bluff Golden Lions,arkansaspinebluffgoldenlions,7,FALSE
+401752676,2025-08-30,2025,2633,Tennessee Volunteers,tennessee,45,TRUE
+401752676,2025-08-30,2025,183,Syracuse Orange,syracuse,26,FALSE
+401752673,2025-08-30,2025,2572,Southern Miss Golden Eagles,southernmissgoldeneagles,17,FALSE
+401752673,2025-08-30,2025,344,Mississippi State Bulldogs,mississippistate,34,TRUE
+401752797,2025-08-30,2025,120,Maryland Terrapins,maryland,39,TRUE
+401752797,2025-08-30,2025,2226,Florida Atlantic Owls,florida,7,FALSE
+401752801,2025-08-30,2025,2509,Purdue Boilermakers,purdueboilermakers,31,TRUE
+401752801,2025-08-30,2025,2050,Ball State Cardinals,ballstatecardinals,0,FALSE
+401752803,2025-08-30,2025,2655,Tulane Green Wave,tulanegreenwave,23,TRUE
+401752803,2025-08-30,2025,77,Northwestern Wildcats,northwesternwildcats,3,FALSE
+401754520,2025-08-30,2025,221,Pittsburgh Panthers,pittsburgh,61,TRUE
+401754520,2025-08-30,2025,2184,Duquesne Dukes,duquesnedukes,9,FALSE
+401762434,2025-08-30,2025,2426,Navy Midshipmen,navymidshipmen,52,TRUE
+401762434,2025-08-30,2025,2678,VMI Keydets,vmikeydets,7,FALSE
+401762792,2025-08-30,2025,2309,Kent State Golden Flashes,kentstategoldenflashes,21,TRUE
+401762792,2025-08-30,2025,2771,Merrimack Warriors,merrimackwarriors,17,FALSE
+401767509,2025-08-30,2025,2643,The Citadel Bulldogs,thecitadelbulldogs,0,FALSE
+401767509,2025-08-30,2025,2449,North Dakota State Bison,northdakotastatebison,38,TRUE
+401752670,2025-08-30,2025,96,Kentucky Wildcats,kentucky,24,TRUE
+401752670,2025-08-30,2025,2649,Toledo Rockets,toledorockets,16,FALSE
+401754518,2025-08-30,2025,103,Boston College Eagles,bostoncollege,66,TRUE
+401754518,2025-08-30,2025,2230,Fordham Rams,fordhamrams,10,FALSE
+401756878,2025-08-30,2025,277,West Virginia Mountaineers,westvirginia,45,TRUE
+401756878,2025-08-30,2025,2523,Robert Morris Colonials,robertmorriscolonials,3,FALSE
+401757167,2025-08-30,2025,41,UConn Huskies,uconnhuskies,59,TRUE
+401757167,2025-08-30,2025,2115,Central Connecticut Blue Devils,centralconnecticutbluedevils,13,FALSE
+401754519,2025-08-30,2025,97,Louisville Cardinals,louisville,51,TRUE
+401754519,2025-08-30,2025,2198,Eastern Kentucky Colonels,easternkentuckycolonels,17,FALSE
+401760359,2025-08-30,2025,2005,Air Force Falcons,airforcefalcons,49,TRUE
+401760359,2025-08-30,2025,2083,Bucknell Bison,bucknellbison,13,FALSE
+401762456,2025-08-30,2025,113,Massachusetts Minutemen,massachusettsminutemen,10,FALSE
+401762456,2025-08-30,2025,218,Temple Owls,templeowls,42,TRUE
+401762793,2025-08-30,2025,2459,Northern Illinois Huskies,northernillinoishuskies,19,TRUE
+401762793,2025-08-30,2025,107,Holy Cross Crusaders,holycrosscrusaders,17,FALSE
+401757220,2025-08-30,2025,2335,Liberty Flames,libertyflames,28,TRUE
+401757220,2025-08-30,2025,311,Maine Black Bears,maineblackbears,7,FALSE
+401752666,2025-08-30,2025,8,Arkansas Razorbacks,arkansasrazorbacks,52,TRUE
+401752666,2025-08-30,2025,2010,Alabama A&M Bulldogs,alabama,7,FALSE
+401762433,2025-08-30,2025,235,Memphis Tigers,memphistigers,45,TRUE
+401762433,2025-08-30,2025,236,Chattanooga Mocs,chattanoogamocs,10,FALSE
+401752799,2025-08-30,2025,2294,Iowa Hawkeyes,iowa,34,TRUE
+401752799,2025-08-30,2025,399,UAlbany Great Danes,ualbanygreatdanes,7,FALSE
+401754616,2025-08-30,2025,258,Virginia Cavaliers,virginia,48,TRUE
+401754616,2025-08-30,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,7,FALSE
+401761590,2025-08-30,2025,256,James Madison Dukes,jamesmadisondukes,45,TRUE
+401761590,2025-08-30,2025,2692,Weber State Wildcats,weberstatewildcats,10,FALSE
+401752679,2025-08-30,2025,238,Vanderbilt Commodores,vanderbilt,45,TRUE
+401752679,2025-08-30,2025,2127,Charleston Southern Buccaneers,charlestonsouthernbuccaneers,3,FALSE
+401757222,2025-08-30,2025,2393,Middle Tennessee Blue Raiders,middletennesseeblueraiders,14,FALSE
+401757222,2025-08-30,2025,2046,Austin Peay Governors,austinpeaygovernors,34,TRUE
+401757226,2025-08-30,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,55,TRUE
+401757226,2025-08-30,2025,2453,North Alabama Lions,northalabamalions,6,FALSE
+401761591,2025-08-30,2025,2032,Arkansas State Red Wolves,arkansasstateredwolves,42,TRUE
+401761591,2025-08-30,2025,2546,Southeast Missouri State Redhawks,southeastmissouristateredhawks,24,FALSE
+401761593,2025-08-30,2025,6,South Alabama Jaguars,southalabamajaguars,38,TRUE
+401761593,2025-08-30,2025,2415,Morgan State Bears,morganstatebears,21,FALSE
+401761595,2025-08-30,2025,2653,Troy Trojans,troytrojans,38,TRUE
+401761595,2025-08-30,2025,2447,Nicholls Colonels,nichollscolonels,20,FALSE
+401767130,2025-08-30,2025,2571,South Dakota State Jackrabbits,southdakotastatejackrabbits,20,TRUE
+401767130,2025-08-30,2025,16,Sacramento State Hornets,sacramentostatehornets,3,FALSE
+401752798,2025-08-30,2025,30,USC Trojans,usc,73,TRUE
+401752798,2025-08-30,2025,2623,Missouri State Bears,missouri,13,FALSE
+401757221,2025-08-30,2025,2348,Louisiana Tech Bulldogs,louisianatechbulldogs,24,TRUE
+401757221,2025-08-30,2025,2545,SE Louisiana Lions,selouisianalions,0,FALSE
+401757225,2025-08-30,2025,328,Utah State Aggies,utah,28,TRUE
+401757225,2025-08-30,2025,2638,UTEP Miners,utep,16,FALSE
+401756851,2025-08-31,2025,252,BYU Cougars,byu,69,TRUE
+401756851,2025-08-31,2025,2502,Portland State Vikings,portlandstatevikings,0,FALSE
+401761592,2025-08-31,2025,309,Louisiana Ragin' Cajuns,louisianaragincajuns,12,FALSE
+401761592,2025-08-31,2025,242,Rice Owls,riceowls,14,TRUE
+401761594,2025-08-31,2025,326,Texas State Bobcats,texas,52,TRUE
+401761594,2025-08-31,2025,2199,Eastern Michigan Eagles,easternmichiganeagles,27,FALSE
+401762435,2025-08-31,2025,249,North Texas Mean Green,northtexasmeangreen,51,TRUE
+401762435,2025-08-31,2025,2320,Lamar Cardinals,lamarcardinals,0,FALSE
+401762457,2025-08-31,2025,202,Tulsa Golden Hurricane,tulsagoldenhurricane,35,TRUE
+401762457,2025-08-31,2025,2000,Abilene Christian Wildcats,abilenechristianwildcats,7,FALSE
+401757223,2025-08-31,2025,166,New Mexico State Aggies,newmexicostateaggies,19,TRUE
+401757223,2025-08-31,2025,2803,Bryant Bulldogs,bryantbulldogs,3,FALSE
+401760361,2025-08-31,2025,278,Fresno State Bulldogs,fresnostatebulldogs,42,TRUE
+401760361,2025-08-31,2025,290,Georgia Southern Eagles,georgia,14,FALSE
+401752947,2025-08-31,2025,265,Washington State Cougars,washington,13,TRUE
+401752947,2025-08-31,2025,70,Idaho Vandals,idahovandals,10,FALSE
+401752936,2025-08-31,2025,204,Oregon State Beavers,oregon,15,FALSE
+401752936,2025-08-31,2025,25,California Golden Bears,california,34,TRUE
+401756849,2025-08-31,2025,12,Arizona Wildcats,arizona,40,TRUE
+401756849,2025-08-31,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,6,FALSE
+401752800,2025-08-31,2025,26,UCLA Bruins,ucla,10,FALSE
+401752800,2025-08-31,2025,254,Utah Utes,utah,43,TRUE
+401752805,2025-08-31,2025,264,Washington Huskies,washington,38,TRUE
+401752805,2025-08-31,2025,36,Colorado State Rams,colorado,21,FALSE
+401754522,2025-08-31,2025,2390,Miami Hurricanes,miami,27,TRUE
+401754522,2025-08-31,2025,87,Notre Dame Fighting Irish,notredame,24,FALSE
+401752680,2025-08-31,2025,2579,South Carolina Gamecocks,southcarolina,24,TRUE
+401752680,2025-08-31,2025,259,Virginia Tech Hokies,virginia,11,FALSE
+401754523,2025-09-02,2025,153,North Carolina Tar Heels,northcarolina,14,FALSE
+401754523,2025-09-02,2025,2628,TCU Horned Frogs,tcuhornedfrogs,48,TRUE
+401754528,2025-09-05,2025,97,Louisville Cardinals,louisville,28,TRUE
+401754528,2025-09-05,2025,256,James Madison Dukes,jamesmadisondukes,14,FALSE
+401752817,2025-09-05,2025,77,Northwestern Wildcats,northwesternwildcats,42,TRUE
+401752817,2025-09-05,2025,2710,Western Illinois Leathernecks,westernillinoisleathernecks,7,FALSE
+401752826,2025-09-05,2025,120,Maryland Terrapins,maryland,20,TRUE
+401752826,2025-09-05,2025,2459,Northern Illinois Huskies,northernillinoishuskies,9,FALSE
+401760363,2025-09-06,2025,68,Boise State Broncos,boisestatebroncos,51,TRUE
+401760363,2025-09-06,2025,331,Eastern Washington Eagles,easternwashingtoneagles,14,FALSE
+401752815,2025-09-06,2025,194,Ohio State Buckeyes,ohiostate,70,TRUE
+401752815,2025-09-06,2025,2755,Grambling Tigers,gramblingtigers,0,FALSE
+401752811,2025-09-06,2025,213,Penn State Nittany Lions,pennstate,34,TRUE
+401752811,2025-09-06,2025,2229,Florida International Panthers,florida,0,FALSE
+401752687,2025-09-06,2025,99,LSU Tigers,lsu,23,TRUE
+401752687,2025-09-06,2025,2348,Louisiana Tech Bulldogs,louisianatechbulldogs,7,FALSE
+401752685,2025-09-06,2025,61,Georgia Bulldogs,georgia,28,TRUE
+401752685,2025-09-06,2025,2046,Austin Peay Governors,austinpeaygovernors,6,FALSE
+401754641,2025-09-06,2025,2390,Miami Hurricanes,miami,45,TRUE
+401754641,2025-09-06,2025,2065,Bethune-Cookman Wildcats,bethunecookmanwildcats,3,FALSE
+401752824,2025-09-06,2025,2483,Oregon Ducks,oregon,69,TRUE
+401752824,2025-09-06,2025,197,Oklahoma State Cowboys,oklahomastate,3,FALSE
+401752693,2025-09-06,2025,251,Texas Longhorns,texas,38,TRUE
+401752693,2025-09-06,2025,23,San José State Spartans,sanjosstatespartans,7,FALSE
+401754637,2025-09-06,2025,228,Clemson Tigers,clemson,27,TRUE
+401754637,2025-09-06,2025,2653,Troy Trojans,troytrojans,16,FALSE
+401752691,2025-09-06,2025,2579,South Carolina Gamecocks,southcarolina,38,TRUE
+401752825,2025-09-06,2025,150,Duke Blue Devils,dukebluedevils,19,FALSE
+401752825,2025-09-06,2025,356,Illinois Fighting Illini,illinois,45,TRUE
+401752688,2025-09-06,2025,344,Mississippi State Bulldogs,mississippistate,24,TRUE
+401752688,2025-09-06,2025,9,Arizona State Sun Devils,arizonastate,20,FALSE
+401752684,2025-09-06,2025,57,Florida Gators,florida,16,FALSE
+401752684,2025-09-06,2025,58,South Florida Bulls,southfloridabulls,18,TRUE
+401754621,2025-09-06,2025,52,Florida State Seminoles,floridastate,77,TRUE
+401754621,2025-09-06,2025,2837,East Texas A&M Lions,easttexasaandmlions,3,FALSE
+401752690,2025-09-06,2025,201,Oklahoma Sooners,oklahoma,24,TRUE
+401752690,2025-09-06,2025,130,Michigan Wolverines,michigan,13,FALSE
+401752822,2025-09-06,2025,66,Iowa State Cyclones,iowa,16,TRUE
+401754525,2025-09-06,2025,2567,SMU Mustangs,smu,45,FALSE
+401754525,2025-09-06,2025,239,Baylor Bears,baylor,48,TRUE
+401752694,2025-09-06,2025,245,Texas A&M Aggies,texas,44,TRUE
+401752694,2025-09-06,2025,328,Utah State Aggies,utah,22,FALSE
+401752686,2025-09-06,2025,96,Kentucky Wildcats,kentucky,23,FALSE
+401752686,2025-09-06,2025,145,Ole Miss Rebels,olemiss,30,TRUE
+401752681,2025-09-06,2025,333,Alabama Crimson Tide,alabama,73,TRUE
+401752681,2025-09-06,2025,2433,UL Monroe Warhawks,ulmonroewarhawks,0,FALSE
+401752692,2025-09-06,2025,2633,Tennessee Volunteers,tennessee,72,TRUE
+401752692,2025-09-06,2025,2193,East Tennessee State Buccaneers,easttennesseestatebuccaneers,17,FALSE
+401752812,2025-09-06,2025,84,Indiana Hoosiers,indiana,56,TRUE
+401752812,2025-09-06,2025,338,Kennesaw State Owls,kennesawstateowls,9,FALSE
+401756885,2025-09-06,2025,2641,Texas Tech Red Raiders,texastech,62,TRUE
+401756885,2025-09-06,2025,2309,Kent State Golden Flashes,kentstategoldenflashes,14,FALSE
+401756887,2025-09-06,2025,254,Utah Utes,utah,63,TRUE
+401756887,2025-09-06,2025,13,Cal Poly Mustangs,california,9,FALSE
+401752813,2025-09-06,2025,135,Minnesota Golden Gophers,minnesota,66,TRUE
+401752813,2025-09-06,2025,2466,Northwestern State Demons,northwesternstatedemons,0,FALSE
+401754524,2025-09-06,2025,152,NC State Wolfpack,ncstate,35,TRUE
+401754524,2025-09-06,2025,258,Virginia Cavaliers,virginia,31,FALSE
+401754529,2025-09-06,2025,221,Pittsburgh Panthers,pittsburgh,45,TRUE
+401754529,2025-09-06,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,17,FALSE
+401754618,2025-09-06,2025,183,Syracuse Orange,syracuse,27,TRUE
+401754618,2025-09-06,2025,41,UConn Huskies,uconnhuskies,20,FALSE
+401757227,2025-09-06,2025,55,Jacksonville State Gamecocks,jacksonvillestategamecocks,34,TRUE
+401757227,2025-09-06,2025,2335,Liberty Flames,libertyflames,24,FALSE
+401762462,2025-09-06,2025,218,Temple Owls,templeowls,55,TRUE
+401762462,2025-09-06,2025,47,Howard Bison,howardbison,7,FALSE
+401767224,2025-09-06,2025,2634,Tennessee State Tigers,tennessee,3,FALSE
+401767224,2025-09-06,2025,2449,North Dakota State Bison,northdakotastatebison,59,TRUE
+401760366,2025-09-06,2025,167,New Mexico Lobos,newmexicolobos,32,TRUE
+401760366,2025-09-06,2025,304,Idaho State Bengals,idahostatebengals,22,FALSE
+401752689,2025-09-06,2025,142,Missouri Tigers,missouri,42,TRUE
+401752689,2025-09-06,2025,2305,Kansas Jayhawks,kansasjayhawks,31,FALSE
+401752937,2025-09-06,2025,204,Oregon State Beavers,oregon,27,FALSE
+401752937,2025-09-06,2025,278,Fresno State Bulldogs,fresnostatebulldogs,36,TRUE
+401754622,2025-09-06,2025,59,Georgia Tech Yellow Jackets,georgia,59,TRUE
+401754622,2025-09-06,2025,2241,Gardner-Webb Runnin' Bulldogs,gardnerwebbrunninbulldogs,12,FALSE
+401756880,2025-09-06,2025,2132,Cincinnati Bearcats,cincinnatibearcats,34,TRUE
+401756880,2025-09-06,2025,189,Bowling Green Falcons,bowlinggreenfalcons,20,FALSE
+401756881,2025-09-06,2025,38,Colorado Buffaloes,colorado,31,TRUE
+401756881,2025-09-06,2025,48,Delaware Blue Hens,delawarebluehens,7,FALSE
+401761596,2025-09-06,2025,2026,App State Mountaineers,appstatemountaineers,20,TRUE
+401761596,2025-09-06,2025,2815,Lindenwood Lions,lindenwoodlions,13,FALSE
+401761603,2025-09-06,2025,2636,UTSA Roadrunners,utsaroadrunners,36,FALSE
+401761603,2025-09-06,2025,326,Texas State Bobcats,texas,43,TRUE
+401762458,2025-09-06,2025,2426,Navy Midshipmen,navymidshipmen,38,TRUE
+401762458,2025-09-06,2025,5,UAB Blazers,uabblazers,24,FALSE
+401762461,2025-09-06,2025,2711,Western Michigan Broncos,westernmichiganbroncos,30,FALSE
+401762461,2025-09-06,2025,249,North Texas Mean Green,northtexasmeangreen,33,TRUE
+401762794,2025-09-06,2025,2084,Buffalo Bulls,buffalobulls,45,TRUE
+401762794,2025-09-06,2025,2598,Saint Francis Red Flash,saintfrancisredflash,6,FALSE
+401752820,2025-09-06,2025,275,Wisconsin Badgers,wisconsin,42,TRUE
+401752820,2025-09-06,2025,2393,Middle Tennessee Blue Raiders,middletennesseeblueraiders,10,FALSE
+401756883,2025-09-06,2025,195,Ohio Bobcats,ohiobobcats,17,TRUE
+401756883,2025-09-06,2025,277,West Virginia Mountaineers,westvirginia,10,FALSE
+401760367,2025-09-06,2025,2751,Wyoming Cowboys,wyomingcowboys,31,TRUE
+401760367,2025-09-06,2025,2460,Northern Iowa Panthers,northerniowapanthers,7,FALSE
+401754620,2025-09-06,2025,154,Wake Forest Demon Deacons,wakeforestdemondeacons,42,TRUE
+401754620,2025-09-06,2025,2717,Western Carolina Catamounts,westerncarolinacatamounts,10,FALSE
+401752818,2025-09-06,2025,164,Rutgers Scarlet Knights,rutgersscarletknights,45,TRUE
+401752818,2025-09-06,2025,193,Miami (OH) RedHawks,miami,17,FALSE
+401752682,2025-09-06,2025,8,Arkansas Razorbacks,arkansasrazorbacks,56,TRUE
+401752682,2025-09-06,2025,2032,Arkansas State Red Wolves,arkansasstateredwolves,14,FALSE
+401760365,2025-09-06,2025,2440,Nevada Wolf Pack,nevadawolfpack,20,TRUE
+401760365,2025-09-06,2025,16,Sacramento State Hornets,sacramentostatehornets,17,FALSE
+401761602,2025-09-06,2025,2572,Southern Miss Golden Eagles,southernmissgoldeneagles,38,TRUE
+401761602,2025-09-06,2025,2296,Jackson State Tigers,jacksonstatetigers,20,FALSE
+401762816,2025-09-06,2025,113,Massachusetts Minutemen,massachusettsminutemen,26,FALSE
+401762816,2025-09-06,2025,2803,Bryant Bulldogs,bryantbulldogs,27,TRUE
+401754530,2025-09-06,2025,25,California Golden Bears,california,35,TRUE
+401754530,2025-09-06,2025,2640,Texas Southern Tigers,texas,3,FALSE
+401757228,2025-09-06,2025,276,Marshall Thundering Herd,marshallthunderingherd,20,FALSE
+401757228,2025-09-06,2025,2623,Missouri State Bears,missouri,21,TRUE
+401761599,2025-09-06,2025,295,Old Dominion Monarchs,olddominionmonarchs,54,TRUE
+401761599,2025-09-06,2025,2428,North Carolina Central Eagles,northcarolina,6,FALSE
+401762459,2025-09-06,2025,151,East Carolina Pirates,eastcarolinapirates,56,TRUE
+401762459,2025-09-06,2025,2097,Campbell Fighting Camels,campbellfightingcamels,3,FALSE
+401762460,2025-09-06,2025,2226,Florida Atlantic Owls,florida,56,TRUE
+401754527,2025-09-06,2025,2429,Charlotte 49ers,charlotte49ers,3,FALSE
+401754527,2025-09-06,2025,153,North Carolina Tar Heels,northcarolina,20,TRUE
+401756882,2025-09-06,2025,2306,Kansas State Wildcats,kansasstate,21,FALSE
+401756882,2025-09-06,2025,349,Army Black Knights,armyblackknights,24,TRUE
+401756884,2025-09-06,2025,242,Rice Owls,riceowls,9,FALSE
+401756884,2025-09-06,2025,248,Houston Cougars,houston,35,TRUE
+401756886,2025-09-06,2025,2116,UCF Knights,ucf,68,TRUE
+401756886,2025-09-06,2025,2448,North Carolina A&T Aggies,northcarolina,7,FALSE
+401757232,2025-09-06,2025,2649,Toledo Rockets,toledorockets,45,TRUE
+401757232,2025-09-06,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,21,FALSE
+401760364,2025-09-06,2025,36,Colorado State Rams,colorado,21,TRUE
+401760364,2025-09-06,2025,2458,Northern Colorado Bears,northerncoloradobears,17,FALSE
+401761598,2025-09-06,2025,2247,Georgia State Panthers,georgia,16,FALSE
+401761598,2025-09-06,2025,235,Memphis Tigers,memphistigers,38,TRUE
+401761601,2025-09-06,2025,6,South Alabama Jaguars,southalabamajaguars,31,FALSE
+401761601,2025-09-06,2025,2655,Tulane Green Wave,tulanegreenwave,33,TRUE
+401762795,2025-09-06,2025,2199,Eastern Michigan Eagles,easternmichiganeagles,23,FALSE
+401762795,2025-09-06,2025,2341,Long Island University Sharks,longislanduniversitysharks,28,TRUE
+401752683,2025-09-06,2025,2,Auburn Tigers,auburn,42,TRUE
+401752683,2025-09-06,2025,2050,Ball State Cardinals,ballstatecardinals,3,FALSE
+401752695,2025-09-06,2025,259,Virginia Tech Hokies,virginia,20,FALSE
+401752695,2025-09-06,2025,238,Vanderbilt Commodores,vanderbilt,44,TRUE
+401752810,2025-09-06,2025,158,Nebraska Cornhuskers,nebraska,68,TRUE
+401752810,2025-09-06,2025,2006,Akron Zips,akronzips,0,FALSE
+401752814,2025-09-06,2025,30,USC Trojans,usc,59,TRUE
+401752814,2025-09-06,2025,290,Georgia Southern Eagles,georgia,20,FALSE
+401752816,2025-09-06,2025,127,Michigan State Spartans,michiganstate,42,TRUE
+401752816,2025-09-06,2025,103,Boston College Eagles,bostoncollege,40,FALSE
+401752819,2025-09-06,2025,2509,Purdue Boilermakers,purdueboilermakers,34,TRUE
+401752819,2025-09-06,2025,79,Southern Illinois Salukis,southernillinoissalukis,17,FALSE
+401761597,2025-09-06,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,13,TRUE
+401761597,2025-09-06,2025,2127,Charleston Southern Buccaneers,charlestonsouthernbuccaneers,0,FALSE
+401752823,2025-09-07,2025,2439,UNLV Rebels,unlv,30,TRUE
+401752823,2025-09-07,2025,26,UCLA Bruins,ucla,23,FALSE
+401761600,2025-09-07,2025,309,Louisiana Ragin' Cajuns,louisianaragincajuns,34,TRUE
+401761600,2025-09-07,2025,2377,McNeese Cowboys,mcneesecowboys,10,FALSE
+401757229,2025-09-07,2025,166,New Mexico State Aggies,newmexicostateaggies,21,TRUE
+401757229,2025-09-07,2025,202,Tulsa Golden Hurricane,tulsagoldenhurricane,14,FALSE
+401757231,2025-09-07,2025,2638,UTEP Miners,utep,42,TRUE
+401757231,2025-09-07,2025,2630,UT Martin Skyhawks,utmartinskyhawks,17,FALSE
+401756879,2025-09-07,2025,12,Arizona Wildcats,arizona,48,TRUE
+401756879,2025-09-07,2025,2692,Weber State Wildcats,weberstatewildcats,3,FALSE
+401752948,2025-09-07,2025,265,Washington State Cougars,washington,36,TRUE
+401752948,2025-09-07,2025,21,San Diego State Aztecs,sandiegostateaztecs,13,FALSE
+401754526,2025-09-07,2025,252,BYU Cougars,byu,27,TRUE
+401754526,2025-09-07,2025,24,Stanford Cardinal,stanfordcardinal,3,FALSE
+401752821,2025-09-07,2025,264,Washington Huskies,washington,70,TRUE
+401752821,2025-09-07,2025,302,UC Davis Aggies,ucdavisaggies,10,FALSE
+401757230,2025-09-07,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,37,TRUE
+401757230,2025-09-07,2025,2534,Sam Houston Bearkats,samhoustonbearkats,20,FALSE
+401752836,2025-09-12,2025,84,Indiana Hoosiers,indiana,73,TRUE
+401754532,2025-09-12,2025,183,Syracuse Orange,syracuse,66,TRUE
+401754532,2025-09-12,2025,2142,Colgate Raiders,colgateraiders,24,FALSE
+401756893,2025-09-12,2025,248,Houston Cougars,houston,36,TRUE
+401756893,2025-09-12,2025,38,Colorado Buffaloes,colorado,20,FALSE
+401756888,2025-09-13,2025,12,Arizona Wildcats,arizona,23,TRUE
+401756888,2025-09-13,2025,2306,Kansas State Wildcats,kansasstate,17,FALSE
+401752837,2025-09-13,2025,26,UCLA Bruins,ucla,10,FALSE
+401752837,2025-09-13,2025,167,New Mexico Lobos,newmexicolobos,35,TRUE
+401752827,2025-09-13,2025,194,Ohio State Buckeyes,ohiostate,37,TRUE
+401752827,2025-09-13,2025,195,Ohio Bobcats,ohiobobcats,9,FALSE
+401752835,2025-09-13,2025,213,Penn State Nittany Lions,pennstate,52,TRUE
+401752835,2025-09-13,2025,222,Villanova Wildcats,villanovawildcats,6,FALSE
+401752699,2025-09-13,2025,99,LSU Tigers,lsu,20,TRUE
+401752699,2025-09-13,2025,57,Florida Gators,florida,10,FALSE
+401752831,2025-09-13,2025,77,Northwestern Wildcats,northwesternwildcats,14,FALSE
+401752831,2025-09-13,2025,2483,Oregon Ducks,oregon,34,TRUE
+401754535,2025-09-13,2025,2390,Miami Hurricanes,miami,49,TRUE
+401754535,2025-09-13,2025,58,South Florida Bulls,southfloridabulls,12,FALSE
+401752705,2025-09-13,2025,2633,Tennessee Volunteers,tennessee,41,FALSE
+401752705,2025-09-13,2025,61,Georgia Bulldogs,georgia,44,TRUE
+401752706,2025-09-13,2025,251,Texas Longhorns,texas,27,TRUE
+401752706,2025-09-13,2025,2638,UTEP Miners,utep,10,FALSE
+401752707,2025-09-13,2025,87,Notre Dame Fighting Irish,notredame,40,FALSE
+401752707,2025-09-13,2025,245,Texas A&M Aggies,texas,41,TRUE
+401752829,2025-09-13,2025,356,Illinois Fighting Illini,illinois,38,TRUE
+401752829,2025-09-13,2025,2711,Western Michigan Broncos,westernmichiganbroncos,0,FALSE
+401752704,2025-09-13,2025,2579,South Carolina Gamecocks,southcarolina,7,FALSE
+401752704,2025-09-13,2025,238,Vanderbilt Commodores,vanderbilt,31,TRUE
+401754623,2025-09-13,2025,59,Georgia Tech Yellow Jackets,georgia,24,TRUE
+401754623,2025-09-13,2025,228,Clemson Tigers,clemson,21,FALSE
+401752703,2025-09-13,2025,218,Temple Owls,templeowls,3,FALSE
+401752703,2025-09-13,2025,201,Oklahoma Sooners,oklahoma,42,TRUE
+401756890,2025-09-13,2025,2032,Arkansas State Red Wolves,arkansasstateredwolves,16,FALSE
+401756890,2025-09-13,2025,66,Iowa State Cyclones,iowa,24,TRUE
+401752700,2025-09-13,2025,145,Ole Miss Rebels,olemiss,41,TRUE
+401752700,2025-09-13,2025,8,Arkansas Razorbacks,arkansasrazorbacks,35,FALSE
+401752696,2025-09-13,2025,333,Alabama Crimson Tide,alabama,38,TRUE
+401752696,2025-09-13,2025,275,Wisconsin Badgers,wisconsin,14,FALSE
+401756895,2025-09-14,2025,2751,Wyoming Cowboys,wyomingcowboys,6,FALSE
+401756895,2025-09-14,2025,254,Utah Utes,utah,31,TRUE
+401752938,2025-09-13,2025,2641,Texas Tech Red Raiders,texastech,45,TRUE
+401752938,2025-09-13,2025,204,Oregon State Beavers,oregon,14,FALSE
+401752839,2025-09-13,2025,130,Michigan Wolverines,michigan,63,TRUE
+401752839,2025-09-13,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,3,FALSE
+401752697,2025-09-13,2025,2,Auburn Tigers,auburn,31,TRUE
+401752697,2025-09-13,2025,6,South Alabama Jaguars,southalabamajaguars,15,FALSE
+401752702,2025-09-13,2025,142,Missouri Tigers,missouri,52,TRUE
+401752702,2025-09-13,2025,309,Louisiana Ragin' Cajuns,louisianaragincajuns,10,FALSE
+401752828,2025-09-13,2025,158,Nebraska Cornhuskers,nebraska,59,TRUE
+401752828,2025-09-13,2025,2277,Houston Christian Huskies,houston,7,FALSE
+401752838,2025-09-13,2025,120,Maryland Terrapins,maryland,44,TRUE
+401752838,2025-09-13,2025,119,Towson Tigers,towsontigers,17,FALSE
+401754619,2025-09-13,2025,258,Virginia Cavaliers,virginia,55,TRUE
+401754619,2025-09-13,2025,2729,William & Mary Tribe,williamandmarytribe,16,FALSE
+401756891,2025-09-13,2025,239,Baylor Bears,baylor,42,TRUE
+401756891,2025-09-13,2025,2535,Samford Bulldogs,samfordbulldogs,7,FALSE
+401761608,2025-09-13,2025,2653,Troy Trojans,troytrojans,7,FALSE
+401761608,2025-09-13,2025,235,Memphis Tigers,memphistigers,28,TRUE
+401762817,2025-09-13,2025,2309,Kent State Golden Flashes,kentstategoldenflashes,28,FALSE
+401762817,2025-09-13,2025,2084,Buffalo Bulls,buffalobulls,31,TRUE
+401762818,2025-09-13,2025,2050,Ball State Cardinals,ballstatecardinals,34,TRUE
+401762818,2025-09-13,2025,160,New Hampshire Wildcats,newhampshirewildcats,29,FALSE
+401757168,2025-09-13,2025,48,Delaware Blue Hens,delawarebluehens,44,TRUE
+401757168,2025-09-13,2025,41,UConn Huskies,uconnhuskies,41,FALSE
+401752833,2025-09-13,2025,164,Rutgers Scarlet Knights,rutgersscarletknights,60,TRUE
+401752833,2025-09-13,2025,2450,Norfolk State Spartans,norfolkstatespartans,10,FALSE
+401752834,2025-09-13,2025,127,Michigan State Spartans,michiganstate,41,TRUE
+401752834,2025-09-13,2025,2754,Youngstown State Penguins,youngstownstatepenguins,24,FALSE
+401752949,2025-09-13,2025,249,North Texas Mean Green,northtexasmeangreen,59,TRUE
+401752949,2025-09-13,2025,265,Washington State Cougars,washington,10,FALSE
+401754615,2025-09-13,2025,2623,Missouri State Bears,missouri,10,FALSE
+401754615,2025-09-13,2025,2567,SMU Mustangs,smu,28,TRUE
+401754638,2025-09-13,2025,277,West Virginia Mountaineers,westvirginia,31,TRUE
+401754638,2025-09-13,2025,221,Pittsburgh Panthers,pittsburgh,24,FALSE
+401754639,2025-09-13,2025,153,North Carolina Tar Heels,northcarolina,41,TRUE
+401754639,2025-09-13,2025,257,Richmond Spiders,richmondspiders,6,FALSE
+401756892,2025-09-13,2025,2132,Cincinnati Bearcats,cincinnatibearcats,70,TRUE
+401756892,2025-09-13,2025,2466,Northwestern State Demons,northwesternstatedemons,0,FALSE
+401762467,2025-09-13,2025,2636,UTSA Roadrunners,utsaroadrunners,48,TRUE
+401762467,2025-09-13,2025,2916,Incarnate Word Cardinals,incarnatewordcardinals,20,FALSE
+401762819,2025-09-13,2025,2649,Toledo Rockets,toledorockets,60,TRUE
+401762819,2025-09-13,2025,2415,Morgan State Bears,morganstatebears,0,FALSE
+401767217,2025-09-13,2025,2449,North Dakota State Bison,northdakotastatebison,41,TRUE
+401767217,2025-09-13,2025,2546,Southeast Missouri State Redhawks,southeastmissouristateredhawks,14,FALSE
+401757256,2025-09-13,2025,189,Bowling Green Falcons,bowlinggreenfalcons,23,TRUE
+401757256,2025-09-13,2025,2335,Liberty Flames,libertyflames,13,FALSE
+401757258,2025-09-13,2025,2440,Nevada Wolf Pack,nevadawolfpack,13,FALSE
+401757258,2025-09-13,2025,2393,Middle Tennessee Blue Raiders,middletennesseeblueraiders,14,TRUE
+401752701,2025-09-13,2025,344,Mississippi State Bulldogs,mississippistate,63,TRUE
+401752701,2025-09-13,2025,2016,Alcorn State Braves,alcornstatebraves,0,FALSE
+401757235,2025-09-13,2025,338,Kennesaw State Owls,kennesawstateowls,27,TRUE
+401757235,2025-09-13,2025,2771,Merrimack Warriors,merrimackwarriors,13,FALSE
+401761606,2025-09-13,2025,276,Marshall Thundering Herd,marshallthunderingherd,38,TRUE
+401761606,2025-09-13,2025,2198,Eastern Kentucky Colonels,easternkentuckycolonels,7,FALSE
+401762464,2025-09-13,2025,2429,Charlotte 49ers,charlotte49ers,42,TRUE
+401762464,2025-09-13,2025,2405,Monmouth Hawks,monmouthhawks,35,FALSE
+401752832,2025-09-13,2025,2509,Purdue Boilermakers,purdueboilermakers,17,FALSE
+401752832,2025-09-13,2025,30,USC Trojans,usc,33,TRUE
+401754536,2025-09-13,2025,259,Virginia Tech Hokies,virginia,26,FALSE
+401754536,2025-09-13,2025,295,Old Dominion Monarchs,olddominionmonarchs,45,TRUE
+401757234,2025-09-13,2025,290,Georgia Southern Eagles,georgia,41,TRUE
+401757234,2025-09-13,2025,55,Jacksonville State Gamecocks,jacksonvillestategamecocks,34,FALSE
+401761605,2025-09-13,2025,2247,Georgia State Panthers,georgia,37,TRUE
+401761605,2025-09-13,2025,93,Murray State Racers,murraystateracers,21,FALSE
+401761607,2025-09-13,2025,2572,Southern Miss Golden Eagles,southernmissgoldeneagles,38,TRUE
+401761607,2025-09-13,2025,2026,App State Mountaineers,appstatemountaineers,22,FALSE
+401762466,2025-09-13,2025,242,Rice Owls,riceowls,38,TRUE
+401762466,2025-09-13,2025,2504,Prairie View A&M Panthers,prairieviewaandmpanthers,17,FALSE
+401752698,2025-09-13,2025,96,Kentucky Wildcats,kentucky,48,TRUE
+401752698,2025-09-13,2025,2199,Eastern Michigan Eagles,easternmichiganeagles,23,FALSE
+401752830,2025-09-13,2025,2294,Iowa Hawkeyes,iowa,47,TRUE
+401752830,2025-09-13,2025,113,Massachusetts Minutemen,massachusettsminutemen,7,FALSE
+401757257,2025-09-13,2025,2348,Louisiana Tech Bulldogs,louisianatechbulldogs,49,TRUE
+401757257,2025-09-13,2025,166,New Mexico State Aggies,newmexicostateaggies,14,FALSE
+401761604,2025-09-13,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,0,FALSE
+401761604,2025-09-13,2025,151,East Carolina Pirates,eastcarolinapirates,38,TRUE
+401754534,2025-09-14,2025,2655,Tulane Green Wave,tulanegreenwave,34,TRUE
+401754534,2025-09-14,2025,150,Duke Blue Devils,dukebluedevils,27,FALSE
+401756894,2025-09-14,2025,2628,TCU Horned Frogs,tcuhornedfrogs,42,TRUE
+401756894,2025-09-14,2025,2000,Abilene Christian Wildcats,abilenechristianwildcats,21,FALSE
+401762465,2025-09-14,2025,202,Tulsa Golden Hurricane,tulsagoldenhurricane,23,FALSE
+401762465,2025-09-14,2025,2426,Navy Midshipmen,navymidshipmen,42,TRUE
+401757233,2025-09-14,2025,2229,Florida International Panthers,florida,38,TRUE
+401762463,2025-09-14,2025,5,UAB Blazers,uabblazers,31,TRUE
+401762463,2025-09-14,2025,2006,Akron Zips,akronzips,28,FALSE
+401767131,2025-09-14,2025,16,Sacramento State Hornets,sacramentostatehornets,49,TRUE
+401767131,2025-09-14,2025,2385,Mercyhurst Lakers,mercyhurstlakers,28,FALSE
+401760368,2025-09-14,2025,328,Utah State Aggies,utah,49,TRUE
+401760368,2025-09-14,2025,2005,Air Force Falcons,airforcefalcons,30,FALSE
+401760369,2025-09-14,2025,278,Fresno State Bulldogs,fresnostatebulldogs,56,TRUE
+401760369,2025-09-14,2025,2582,Southern Jaguars,southernjaguars,7,FALSE
+401752840,2025-09-14,2025,25,California Golden Bears,california,27,TRUE
+401752840,2025-09-14,2025,135,Minnesota Golden Gophers,minnesota,14,FALSE
+401754533,2025-09-14,2025,24,Stanford Cardinal,stanfordcardinal,30,TRUE
+401754533,2025-09-14,2025,103,Boston College Eagles,bostoncollege,20,FALSE
+401756889,2025-09-14,2025,9,Arizona State Sun Devils,arizonastate,34,TRUE
+401756889,2025-09-14,2025,326,Texas State Bobcats,texas,15,FALSE
+401760370,2025-09-14,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,23,TRUE
+401760370,2025-09-14,2025,2502,Portland State Vikings,portlandstatevikings,3,FALSE
+401762468,2025-09-18,2025,2429,Charlotte 49ers,charlotte49ers,17,FALSE
+401762468,2025-09-18,2025,242,Rice Owls,riceowls,28,TRUE
+401756900,2025-09-19,2025,197,Oklahoma State Cowboys,oklahomastate,12,FALSE
+401756900,2025-09-19,2025,202,Tulsa Golden Hurricane,tulsagoldenhurricane,19,TRUE
+401752844,2025-09-20,2025,164,Rutgers Scarlet Knights,rutgersscarletknights,28,FALSE
+401752844,2025-09-20,2025,2294,Iowa Hawkeyes,iowa,38,TRUE
+401752710,2025-09-20,2025,99,LSU Tigers,lsu,56,TRUE
+401752710,2025-09-20,2025,2545,SE Louisiana Lions,selouisianalions,10,FALSE
+401752709,2025-09-20,2025,2390,Miami Hurricanes,miami,26,TRUE
+401752709,2025-09-20,2025,57,Florida Gators,florida,7,FALSE
+401752841,2025-09-20,2025,2483,Oregon Ducks,oregon,41,TRUE
+401754541,2025-09-20,2025,52,Florida State Seminoles,floridastate,66,TRUE
+401754541,2025-09-20,2025,2309,Kent State Golden Flashes,kentstategoldenflashes,10,FALSE
+401752723,2025-09-21,2025,251,Texas Longhorns,texas,55,TRUE
+401752723,2025-09-21,2025,2534,Sam Houston Bearkats,samhoustonbearkats,0,FALSE
+401752843,2025-09-20,2025,84,Indiana Hoosiers,indiana,63,TRUE
+401752843,2025-09-20,2025,356,Illinois Fighting Illini,illinois,10,FALSE
+401752714,2025-09-20,2025,201,Oklahoma Sooners,oklahoma,24,TRUE
+401752714,2025-09-20,2025,2,Auburn Tigers,auburn,17,FALSE
+401752711,2025-09-20,2025,145,Ole Miss Rebels,olemiss,45,TRUE
+401752711,2025-09-20,2025,2655,Tulane Green Wave,tulanegreenwave,10,FALSE
+401752715,2025-09-20,2025,2633,Tennessee Volunteers,tennessee,56,TRUE
+401752715,2025-09-20,2025,5,UAB Blazers,uabblazers,24,FALSE
+401756901,2025-09-20,2025,254,Utah Utes,utah,10,FALSE
+401756901,2025-09-20,2025,2641,Texas Tech Red Raiders,texastech,34,TRUE
+401754542,2025-09-20,2025,59,Georgia Tech Yellow Jackets,georgia,45,TRUE
+401754542,2025-09-20,2025,218,Temple Owls,templeowls,24,FALSE
+401752716,2025-09-20,2025,238,Vanderbilt Commodores,vanderbilt,70,TRUE
+401752716,2025-09-20,2025,2247,Georgia State Panthers,georgia,21,FALSE
+401752846,2025-09-20,2025,158,Nebraska Cornhuskers,nebraska,27,FALSE
+401752846,2025-09-20,2025,130,Michigan Wolverines,michigan,30,TRUE
+401752713,2025-09-20,2025,142,Missouri Tigers,missouri,29,TRUE
+401752713,2025-09-20,2025,2579,South Carolina Gamecocks,southcarolina,20,FALSE
+401752848,2025-09-20,2025,87,Notre Dame Fighting Irish,notredame,56,TRUE
+401752848,2025-09-20,2025,2509,Purdue Boilermakers,purdueboilermakers,30,FALSE
+401752847,2025-09-21,2025,30,USC Trojans,usc,45,TRUE
+401752847,2025-09-21,2025,127,Michigan State Spartans,michiganstate,31,FALSE
+401752708,2025-09-20,2025,235,Memphis Tigers,memphistigers,32,TRUE
+401752708,2025-09-20,2025,8,Arkansas Razorbacks,arkansasrazorbacks,31,FALSE
+401752845,2025-09-20,2025,275,Wisconsin Badgers,wisconsin,10,FALSE
+401752845,2025-09-20,2025,120,Maryland Terrapins,maryland,27,TRUE
+401754537,2025-09-20,2025,228,Clemson Tigers,clemson,21,FALSE
+401754537,2025-09-20,2025,183,Syracuse Orange,syracuse,34,TRUE
+401754617,2025-09-20,2025,259,Virginia Tech Hokies,virginia,38,TRUE
+401754617,2025-09-20,2025,2747,Wofford Terriers,woffordterriers,6,FALSE
+401754636,2025-09-20,2025,2628,TCU Horned Frogs,tcuhornedfrogs,35,TRUE
+401754636,2025-09-20,2025,2567,SMU Mustangs,smu,24,FALSE
+401754642,2025-09-20,2025,97,Louisville Cardinals,louisville,40,TRUE
+401754642,2025-09-20,2025,189,Bowling Green Falcons,bowlinggreenfalcons,17,FALSE
+401760376,2025-09-20,2025,193,Miami (OH) RedHawks,miami,38,FALSE
+401760376,2025-09-20,2025,2439,UNLV Rebels,unlv,41,TRUE
+401762469,2025-09-20,2025,349,Army Black Knights,armyblackknights,38,FALSE
+401762469,2025-09-20,2025,249,North Texas Mean Green,northtexasmeangreen,45,TRUE
+401762470,2025-09-20,2025,58,South Florida Bulls,southfloridabulls,63,TRUE
+401762470,2025-09-20,2025,2569,South Carolina State Bulldogs,southcarolina,14,FALSE
+401762822,2025-09-20,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,49,TRUE
+401762822,2025-09-20,2025,2681,Wagner Seahawks,wagnerseahawks,10,FALSE
+401754640,2025-09-20,2025,2116,UCF Knights,ucf,34,TRUE
+401754640,2025-09-20,2025,153,North Carolina Tar Heels,northcarolina,9,FALSE
+401757169,2025-09-20,2025,41,UConn Huskies,uconnhuskies,31,TRUE
+401757169,2025-09-20,2025,2050,Ball State Cardinals,ballstatecardinals,25,FALSE
+401757262,2025-09-20,2025,2335,Liberty Flames,libertyflames,13,FALSE
+401757262,2025-09-20,2025,256,James Madison Dukes,jamesmadisondukes,31,TRUE
+401761610,2025-09-20,2025,2199,Eastern Michigan Eagles,easternmichiganeagles,34,TRUE
+401761610,2025-09-20,2025,309,Louisiana Ragin' Cajuns,louisianaragincajuns,31,FALSE
+401761613,2025-09-20,2025,2084,Buffalo Bulls,buffalobulls,17,FALSE
+401761613,2025-09-20,2025,2653,Troy Trojans,troytrojans,21,TRUE
+401762820,2025-09-20,2025,2711,Western Michigan Broncos,westernmichiganbroncos,14,TRUE
+401762820,2025-09-20,2025,2649,Toledo Rockets,toledorockets,13,FALSE
+401762823,2025-09-20,2025,195,Ohio Bobcats,ohiobobcats,52,TRUE
+401762823,2025-09-20,2025,2241,Gardner-Webb Runnin' Bulldogs,gardnerwebbrunninbulldogs,35,FALSE
+401754538,2025-09-20,2025,150,Duke Blue Devils,dukebluedevils,45,TRUE
+401754538,2025-09-20,2025,152,NC State Wolfpack,ncstate,33,FALSE
+401752712,2025-09-20,2025,344,Mississippi State Bulldogs,mississippistate,38,TRUE
+401752712,2025-09-20,2025,2459,Northern Illinois Huskies,northernillinoishuskies,10,FALSE
+401760375,2025-09-20,2025,23,San José State Spartans,sanjosstatespartans,31,TRUE
+401760375,2025-09-20,2025,70,Idaho Vandals,idahovandals,28,FALSE
+401756899,2025-09-20,2025,2305,Kansas Jayhawks,kansasjayhawks,41,TRUE
+401756899,2025-09-20,2025,277,West Virginia Mountaineers,westvirginia,10,FALSE
+401757259,2025-09-20,2025,2229,Florida International Panthers,florida,16,FALSE
+401757259,2025-09-20,2025,48,Delaware Blue Hens,delawarebluehens,38,TRUE
+401757261,2025-09-20,2025,338,Kennesaw State Owls,kennesawstateowls,28,TRUE
+401757261,2025-09-20,2025,2032,Arkansas State Red Wolves,arkansasstateredwolves,21,FALSE
+401762821,2025-09-20,2025,2006,Akron Zips,akronzips,51,TRUE
+401762821,2025-09-20,2025,2184,Duquesne Dukes,duquesnedukes,7,FALSE
+401757260,2025-09-20,2025,55,Jacksonville State Gamecocks,jacksonvillestategamecocks,45,TRUE
+401757260,2025-09-20,2025,93,Murray State Racers,murraystateracers,10,FALSE
+401757264,2025-09-20,2025,2393,Middle Tennessee Blue Raiders,middletennesseeblueraiders,28,FALSE
+401757264,2025-09-20,2025,276,Marshall Thundering Herd,marshallthunderingherd,42,TRUE
+401757265,2025-09-20,2025,2623,Missouri State Bears,missouri,42,TRUE
+401757265,2025-09-20,2025,2630,UT Martin Skyhawks,utmartinskyhawks,10,FALSE
+401757268,2025-09-20,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,31,TRUE
+401757268,2025-09-20,2025,2440,Nevada Wolf Pack,nevadawolfpack,16,FALSE
+401760372,2025-09-20,2025,2005,Air Force Falcons,airforcefalcons,37,FALSE
+401760372,2025-09-20,2025,68,Boise State Broncos,boisestatebroncos,49,TRUE
+401761609,2025-09-20,2025,290,Georgia Southern Eagles,georgia,45,TRUE
+401761609,2025-09-20,2025,311,Maine Black Bears,maineblackbears,17,FALSE
+401761611,2025-09-20,2025,6,South Alabama Jaguars,southalabamajaguars,20,FALSE
+401761611,2025-09-20,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,38,TRUE
+401752842,2025-09-20,2025,265,Washington State Cougars,washington,24,FALSE
+401754539,2025-09-20,2025,258,Virginia Cavaliers,virginia,48,TRUE
+401754539,2025-09-20,2025,24,Stanford Cardinal,stanfordcardinal,20,FALSE
+401756896,2025-09-20,2025,239,Baylor Bears,baylor,24,FALSE
+401756896,2025-09-20,2025,9,Arizona State Sun Devils,arizonastate,27,TRUE
+401756898,2025-09-20,2025,151,East Carolina Pirates,eastcarolinapirates,13,FALSE
+401756898,2025-09-20,2025,252,BYU Cougars,byu,34,TRUE
+401757263,2025-09-20,2025,2348,Louisiana Tech Bulldogs,louisianatechbulldogs,30,TRUE
+401757263,2025-09-20,2025,2572,Southern Miss Golden Eagles,southernmissgoldeneagles,20,FALSE
+401760377,2025-09-21,2025,328,Utah State Aggies,utah,48,TRUE
+401760377,2025-09-21,2025,2377,McNeese Cowboys,mcneesecowboys,7,FALSE
+401761612,2025-09-21,2025,326,Texas State Bobcats,texas,35,TRUE
+401761612,2025-09-21,2025,2447,Nicholls Colonels,nichollscolonels,3,FALSE
+401757267,2025-09-21,2025,2638,UTEP Miners,utep,25,FALSE
+401757267,2025-09-21,2025,2433,UL Monroe Warhawks,ulmonroewarhawks,31,TRUE
+401767132,2025-09-21,2025,16,Sacramento State Hornets,sacramentostatehornets,45,TRUE
+401767132,2025-09-21,2025,2110,Central Arkansas Bears,centralarkansasbears,16,FALSE
+401760373,2025-09-21,2025,36,Colorado State Rams,colorado,16,FALSE
+401760373,2025-09-21,2025,2636,UTSA Roadrunners,utsaroadrunners,17,TRUE
+401756897,2025-09-21,2025,38,Colorado Buffaloes,colorado,37,TRUE
+401756897,2025-09-21,2025,2751,Wyoming Cowboys,wyomingcowboys,20,FALSE
+401754540,2025-09-21,2025,21,San Diego State Aztecs,sandiegostateaztecs,34,TRUE
+401754540,2025-09-21,2025,25,California Golden Bears,california,0,FALSE
+401760374,2025-09-21,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,21,FALSE
+401760374,2025-09-21,2025,278,Fresno State Bulldogs,fresnostatebulldogs,23,TRUE
+401754543,2025-09-26,2025,258,Virginia Cavaliers,virginia,46,TRUE
+401754543,2025-09-26,2025,52,Florida State Seminoles,floridastate,38,FALSE
+401756902,2025-09-27,2025,9,Arizona State Sun Devils,arizonastate,27,TRUE
+401756902,2025-09-27,2025,2628,TCU Horned Frogs,tcuhornedfrogs,24,FALSE
+401752939,2025-09-27,2025,204,Oregon State Beavers,oregon,24,FALSE
+401752939,2025-09-27,2025,248,Houston Cougars,houston,27,TRUE
+401752852,2025-09-27,2025,264,Washington Huskies,washington,6,FALSE
+401752852,2025-09-27,2025,194,Ohio State Buckeyes,ohiostate,24,TRUE
+401752854,2025-09-27,2025,213,Penn State Nittany Lions,pennstate,24,FALSE
+401752854,2025-09-27,2025,2483,Oregon Ducks,oregon,30,TRUE
+401752719,2025-09-27,2025,145,Ole Miss Rebels,olemiss,24,TRUE
+401752719,2025-09-27,2025,99,LSU Tigers,lsu,19,FALSE
+401752718,2025-09-27,2025,61,Georgia Bulldogs,georgia,21,FALSE
+401752718,2025-09-27,2025,333,Alabama Crimson Tide,alabama,24,TRUE
+401752724,2025-09-27,2025,245,Texas A&M Aggies,texas,16,TRUE
+401752724,2025-09-27,2025,2,Auburn Tigers,auburn,10,FALSE
+401752853,2025-09-27,2025,2294,Iowa Hawkeyes,iowa,15,FALSE
+401752853,2025-09-27,2025,84,Indiana Hoosiers,indiana,20,TRUE
+401756904,2025-09-27,2025,66,Iowa State Cyclones,iowa,39,TRUE
+401756904,2025-09-27,2025,12,Arizona Wildcats,arizona,14,FALSE
+401752720,2025-09-27,2025,344,Mississippi State Bulldogs,mississippistate,34,FALSE
+401752720,2025-09-27,2025,2633,Tennessee Volunteers,tennessee,41,TRUE
+401754546,2025-09-27,2025,154,Wake Forest Demon Deacons,wakeforestdemondeacons,29,FALSE
+401754546,2025-09-27,2025,59,Georgia Tech Yellow Jackets,georgia,30,TRUE
+401752725,2025-09-27,2025,238,Vanderbilt Commodores,vanderbilt,55,TRUE
+401752725,2025-09-27,2025,328,Utah State Aggies,utah,35,FALSE
+401752721,2025-09-27,2025,142,Missouri Tigers,missouri,42,TRUE
+401752721,2025-09-27,2025,113,Massachusetts Minutemen,massachusettsminutemen,6,FALSE
+401752850,2025-09-27,2025,356,Illinois Fighting Illini,illinois,34,TRUE
+401752850,2025-09-27,2025,30,USC Trojans,usc,32,FALSE
+401752717,2025-09-27,2025,8,Arkansas Razorbacks,arkansasrazorbacks,13,FALSE
+401752717,2025-09-27,2025,87,Notre Dame Fighting Irish,notredame,56,TRUE
+401756903,2025-09-28,2025,38,Colorado Buffaloes,colorado,21,FALSE
+401756903,2025-09-28,2025,252,BYU Cougars,byu,24,TRUE
+401752849,2025-09-27,2025,135,Minnesota Golden Gophers,minnesota,31,TRUE
+401752849,2025-09-27,2025,164,Rutgers Scarlet Knights,rutgersscarletknights,28,FALSE
+401754545,2025-09-27,2025,183,Syracuse Orange,syracuse,3,FALSE
+401754545,2025-09-27,2025,150,Duke Blue Devils,dukebluedevils,38,TRUE
+401754547,2025-09-27,2025,221,Pittsburgh Panthers,pittsburgh,27,FALSE
+401754547,2025-09-27,2025,97,Louisville Cardinals,louisville,34,TRUE
+401756905,2025-09-27,2025,2305,Kansas Jayhawks,kansasjayhawks,34,FALSE
+401756905,2025-09-27,2025,2132,Cincinnati Bearcats,cincinnatibearcats,37,TRUE
+401756906,2025-09-27,2025,2306,Kansas State Wildcats,kansasstate,34,TRUE
+401756906,2025-09-27,2025,2116,UCF Knights,ucf,20,FALSE
+401761617,2025-09-27,2025,249,North Texas Mean Green,northtexasmeangreen,36,TRUE
+401761617,2025-09-27,2025,6,South Alabama Jaguars,southalabamajaguars,22,FALSE
+401762825,2025-09-27,2025,195,Ohio Bobcats,ohiobobcats,35,TRUE
+401762825,2025-09-27,2025,189,Bowling Green Falcons,bowlinggreenfalcons,20,FALSE
+401762826,2025-09-27,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,24,TRUE
+401762826,2025-09-27,2025,2199,Eastern Michigan Eagles,easternmichiganeagles,13,FALSE
+401761614,2025-09-27,2025,256,James Madison Dukes,jamesmadisondukes,35,TRUE
+401761614,2025-09-27,2025,290,Georgia Southern Eagles,georgia,10,FALSE
+401767510,2025-09-27,2025,2449,North Dakota State Bison,northdakotastatebison,51,TRUE
+401767510,2025-09-27,2025,233,South Dakota Coyotes,southdakotacoyotes,13,FALSE
+401761616,2025-09-27,2025,2433,UL Monroe Warhawks,ulmonroewarhawks,28,TRUE
+401761616,2025-09-27,2025,2032,Arkansas State Red Wolves,arkansasstateredwolves,16,FALSE
+401752851,2025-09-27,2025,77,Northwestern Wildcats,northwesternwildcats,17,TRUE
+401752851,2025-09-27,2025,26,UCLA Bruins,ucla,14,FALSE
+401754544,2025-09-27,2025,103,Boston College Eagles,bostoncollege,24,FALSE
+401754544,2025-09-27,2025,25,California Golden Bears,california,28,TRUE
+401756907,2025-09-27,2025,197,Oklahoma State Cowboys,oklahomastate,27,FALSE
+401756907,2025-09-27,2025,239,Baylor Bears,baylor,45,TRUE
+401756908,2025-09-27,2025,277,West Virginia Mountaineers,westvirginia,14,FALSE
+401756908,2025-09-27,2025,254,Utah Utes,utah,48,TRUE
+401757170,2025-09-27,2025,2084,Buffalo Bulls,buffalobulls,17,FALSE
+401757170,2025-09-27,2025,41,UConn Huskies,uconnhuskies,20,TRUE
+401760380,2025-09-27,2025,2459,Northern Illinois Huskies,northernillinoishuskies,3,FALSE
+401760380,2025-09-27,2025,21,San Diego State Aztecs,sandiegostateaztecs,6,TRUE
+401762473,2025-09-27,2025,2426,Navy Midshipmen,navymidshipmen,21,TRUE
+401762473,2025-09-27,2025,242,Rice Owls,riceowls,13,FALSE
+401762824,2025-09-27,2025,2649,Toledo Rockets,toledorockets,45,TRUE
+401762824,2025-09-27,2025,2006,Akron Zips,akronzips,3,FALSE
+401762827,2025-09-27,2025,193,Miami (OH) RedHawks,miami,38,TRUE
+401762827,2025-09-27,2025,2815,Lindenwood Lions,lindenwoodlions,0,FALSE
+401757274,2025-09-27,2025,167,New Mexico Lobos,newmexicolobos,38,TRUE
+401757274,2025-09-27,2025,166,New Mexico State Aggies,newmexicostateaggies,20,FALSE
+401760378,2025-09-27,2025,2005,Air Force Falcons,airforcefalcons,35,FALSE
+401760378,2025-09-27,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,44,TRUE
+401762474,2025-09-27,2025,202,Tulsa Golden Hurricane,tulsagoldenhurricane,14,FALSE
+401762474,2025-09-27,2025,2655,Tulane Green Wave,tulanegreenwave,31,TRUE
+401757270,2025-09-27,2025,338,Kennesaw State Owls,kennesawstateowls,24,TRUE
+401757270,2025-09-27,2025,2393,Middle Tennessee Blue Raiders,middletennesseeblueraiders,16,FALSE
+401757271,2025-09-27,2025,295,Old Dominion Monarchs,olddominionmonarchs,21,TRUE
+401757271,2025-09-27,2025,2335,Liberty Flames,libertyflames,7,FALSE
+401762828,2025-09-27,2025,2711,Western Michigan Broncos,westernmichiganbroncos,47,TRUE
+401762828,2025-09-27,2025,227,Rhode Island Rams,rhodeislandrams,14,FALSE
+401754548,2025-09-27,2025,152,NC State Wolfpack,ncstate,21,FALSE
+401754548,2025-09-27,2025,259,Virginia Tech Hokies,virginia,23,TRUE
+401757269,2025-09-27,2025,2572,Southern Miss Golden Eagles,southernmissgoldeneagles,42,TRUE
+401757269,2025-09-27,2025,55,Jacksonville State Gamecocks,jacksonvillestategamecocks,25,FALSE
+401757273,2025-09-27,2025,2623,Missouri State Bears,missouri,22,FALSE
+401757273,2025-09-27,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,27,TRUE
+401762472,2025-09-27,2025,2226,Florida Atlantic Owls,florida,26,FALSE
+401762472,2025-09-27,2025,235,Memphis Tigers,memphistigers,55,TRUE
+401752950,2025-09-27,2025,36,Colorado State Rams,colorado,3,FALSE
+401752950,2025-09-27,2025,265,Washington State Cougars,washington,20,TRUE
+401754549,2025-09-27,2025,24,Stanford Cardinal,stanfordcardinal,30,TRUE
+401754549,2025-09-27,2025,23,San José State Spartans,sanjosstatespartans,29,FALSE
+401760379,2025-09-27,2025,68,Boise State Broncos,boisestatebroncos,47,TRUE
+401760379,2025-09-27,2025,2026,App State Mountaineers,appstatemountaineers,14,FALSE
+401752722,2025-09-27,2025,2579,South Carolina Gamecocks,southcarolina,35,TRUE
+401752722,2025-09-27,2025,96,Kentucky Wildcats,kentucky,13,FALSE
+401761615,2025-09-28,2025,309,Louisiana Ragin' Cajuns,louisianaragincajuns,54,TRUE
+401761615,2025-09-28,2025,276,Marshall Thundering Herd,marshallthunderingherd,51,FALSE
+401757272,2025-09-28,2025,2638,UTEP Miners,utep,11,FALSE
+401757272,2025-09-28,2025,2348,Louisiana Tech Bulldogs,louisianatechbulldogs,30,TRUE
+401767073,2025-09-28,2025,16,Sacramento State Hornets,sacramentostatehornets,24,FALSE
+401767073,2025-09-28,2025,13,Cal Poly Mustangs,california,32,TRUE
+401757275,2025-10-03,2025,166,New Mexico State Aggies,newmexicostateaggies,37,TRUE
+401757275,2025-10-03,2025,2534,Sam Houston Bearkats,samhoustonbearkats,10,FALSE
+401756909,2025-10-04,2025,252,BYU Cougars,byu,38,TRUE
+401756909,2025-10-04,2025,277,West Virginia Mountaineers,westvirginia,24,FALSE
+401757276,2025-10-03,2025,48,Delaware Blue Hens,delawarebluehens,24,FALSE
+401757276,2025-10-03,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,27,TRUE
+401762475,2025-10-03,2025,58,South Florida Bulls,southfloridabulls,54,TRUE
+401762475,2025-10-03,2025,2429,Charlotte 49ers,charlotte49ers,26,FALSE
+401760384,2025-10-04,2025,23,San José State Spartans,sanjosstatespartans,35,TRUE
+401760384,2025-10-04,2025,167,New Mexico Lobos,newmexicolobos,28,FALSE
+401760382,2025-10-04,2025,21,San Diego State Aztecs,sandiegostateaztecs,45,TRUE
+401760382,2025-10-04,2025,36,Colorado State Rams,colorado,24,FALSE
+401752859,2025-10-04,2025,194,Ohio State Buckeyes,ohiostate,42,TRUE
+401752859,2025-10-04,2025,135,Minnesota Golden Gophers,minnesota,3,FALSE
+401754553,2025-10-04,2025,52,Florida State Seminoles,floridastate,22,FALSE
+401754553,2025-10-04,2025,2390,Miami Hurricanes,miami,28,TRUE
+401752729,2025-10-04,2025,201,Oklahoma Sooners,oklahoma,44,TRUE
+401752729,2025-10-04,2025,2309,Kent State Golden Flashes,kentstategoldenflashes,0,FALSE
+401752730,2025-10-04,2025,245,Texas A&M Aggies,texas,31,TRUE
+401752730,2025-10-04,2025,344,Mississippi State Bulldogs,mississippistate,9,FALSE
+401752855,2025-10-04,2025,26,UCLA Bruins,ucla,42,TRUE
+401752855,2025-10-04,2025,213,Penn State Nittany Lions,pennstate,37,FALSE
+401752727,2025-10-04,2025,57,Florida Gators,florida,29,TRUE
+401752727,2025-10-04,2025,251,Texas Longhorns,texas,21,FALSE
+401752726,2025-10-04,2025,333,Alabama Crimson Tide,alabama,30,TRUE
+401752726,2025-10-04,2025,238,Vanderbilt Commodores,vanderbilt,14,FALSE
+401756913,2025-10-04,2025,248,Houston Cougars,houston,11,FALSE
+401756913,2025-10-04,2025,2641,Texas Tech Red Raiders,texastech,35,TRUE
+401752728,2025-10-04,2025,61,Georgia Bulldogs,georgia,35,TRUE
+401752728,2025-10-04,2025,96,Kentucky Wildcats,kentucky,14,FALSE
+401756912,2025-10-04,2025,2132,Cincinnati Bearcats,cincinnatibearcats,38,TRUE
+401756912,2025-10-04,2025,66,Iowa State Cyclones,iowa,30,FALSE
+401752856,2025-10-04,2025,130,Michigan Wolverines,michigan,24,TRUE
+401752856,2025-10-04,2025,275,Wisconsin Badgers,wisconsin,10,FALSE
+401757165,2025-10-04,2025,87,Notre Dame Fighting Irish,notredame,28,TRUE
+401757165,2025-10-04,2025,68,Boise State Broncos,boisestatebroncos,7,FALSE
+401752861,2025-10-04,2025,2509,Purdue Boilermakers,purdueboilermakers,27,FALSE
+401752861,2025-10-04,2025,356,Illinois Fighting Illini,illinois,43,TRUE
+401754554,2025-10-04,2025,97,Louisville Cardinals,louisville,27,FALSE
+401754554,2025-10-04,2025,258,Virginia Cavaliers,virginia,30,TRUE
+401754550,2025-10-04,2025,221,Pittsburgh Panthers,pittsburgh,48,TRUE
+401754550,2025-10-04,2025,103,Boston College Eagles,bostoncollege,7,FALSE
+401754552,2025-10-04,2025,153,North Carolina Tar Heels,northcarolina,10,FALSE
+401754552,2025-10-04,2025,228,Clemson Tigers,clemson,38,TRUE
+401756911,2025-10-04,2025,239,Baylor Bears,baylor,35,TRUE
+401756911,2025-10-04,2025,2306,Kansas State Wildcats,kansasstate,34,FALSE
+401760381,2025-10-04,2025,2426,Navy Midshipmen,navymidshipmen,34,TRUE
+401760381,2025-10-04,2025,2005,Air Force Falcons,airforcefalcons,31,FALSE
+401762476,2025-10-04,2025,5,UAB Blazers,uabblazers,13,FALSE
+401762476,2025-10-04,2025,349,Army Black Knights,armyblackknights,31,TRUE
+401762830,2025-10-04,2025,2050,Ball State Cardinals,ballstatecardinals,20,TRUE
+401762830,2025-10-04,2025,195,Ohio Bobcats,ohiobobcats,14,FALSE
+401754556,2025-10-04,2025,259,Virginia Tech Hokies,virginia,23,FALSE
+401754556,2025-10-04,2025,154,Wake Forest Demon Deacons,wakeforestdemondeacons,30,TRUE
+401762479,2025-10-04,2025,218,Temple Owls,templeowls,27,TRUE
+401762479,2025-10-04,2025,2636,UTSA Roadrunners,utsaroadrunners,21,FALSE
+401754557,2025-10-04,2025,152,NC State Wolfpack,ncstate,56,TRUE
+401754557,2025-10-04,2025,2097,Campbell Fighting Camels,campbellfightingcamels,10,FALSE
+401762832,2025-10-04,2025,113,Massachusetts Minutemen,massachusettsminutemen,3,FALSE
+401762832,2025-10-04,2025,2711,Western Michigan Broncos,westernmichiganbroncos,21,TRUE
+401756910,2025-10-04,2025,12,Arizona Wildcats,arizona,41,TRUE
+401756910,2025-10-04,2025,197,Oklahoma State Cowboys,oklahomastate,13,FALSE
+401752857,2025-10-04,2025,120,Maryland Terrapins,maryland,20,FALSE
+401752857,2025-10-04,2025,264,Washington Huskies,washington,24,TRUE
+401752858,2025-10-04,2025,77,Northwestern Wildcats,northwesternwildcats,42,TRUE
+401752858,2025-10-04,2025,2433,UL Monroe Warhawks,ulmonroewarhawks,7,FALSE
+401752940,2025-10-04,2025,2026,App State Mountaineers,appstatemountaineers,27,TRUE
+401752940,2025-10-04,2025,204,Oregon State Beavers,oregon,23,FALSE
+401754555,2025-10-04,2025,2567,SMU Mustangs,smu,31,TRUE
+401754555,2025-10-04,2025,183,Syracuse Orange,syracuse,18,FALSE
+401757171,2025-10-04,2025,41,UConn Huskies,uconnhuskies,51,TRUE
+401757171,2025-10-04,2025,2229,Florida International Panthers,florida,10,FALSE
+401761618,2025-10-04,2025,2247,Georgia State Panthers,georgia,7,FALSE
+401761618,2025-10-04,2025,256,James Madison Dukes,jamesmadisondukes,14,TRUE
+401762829,2025-10-04,2025,2006,Akron Zips,akronzips,28,TRUE
+401762829,2025-10-04,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,22,FALSE
+401762831,2025-10-04,2025,2084,Buffalo Bulls,buffalobulls,31,TRUE
+401762831,2025-10-04,2025,2199,Eastern Michigan Eagles,easternmichiganeagles,30,FALSE
+401762873,2025-10-04,2025,2459,Northern Illinois Huskies,northernillinoishuskies,14,FALSE
+401762873,2025-10-04,2025,193,Miami (OH) RedHawks,miami,25,TRUE
+401752860,2025-10-04,2025,158,Nebraska Cornhuskers,nebraska,38,TRUE
+401752860,2025-10-04,2025,127,Michigan State Spartans,michiganstate,27,FALSE
+401761620,2025-10-04,2025,2032,Arkansas State Red Wolves,arkansasstateredwolves,31,TRUE
+401761620,2025-10-04,2025,326,Texas State Bobcats,texas,30,FALSE
+401761619,2025-10-04,2025,295,Old Dominion Monarchs,olddominionmonarchs,47,TRUE
+401761619,2025-10-04,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,7,FALSE
+401760385,2025-10-04,2025,2751,Wyoming Cowboys,wyomingcowboys,17,FALSE
+401760385,2025-10-04,2025,2439,UNLV Rebels,unlv,31,TRUE
+401761621,2025-10-04,2025,2653,Troy Trojans,troytrojans,31,TRUE
+401761621,2025-10-04,2025,6,South Alabama Jaguars,southalabamajaguars,24,FALSE
+401762477,2025-10-04,2025,242,Rice Owls,riceowls,21,FALSE
+401762477,2025-10-04,2025,2226,Florida Atlantic Owls,florida,27,TRUE
+401767438,2025-10-04,2025,2287,Illinois State Redbirds,illinois,16,FALSE
+401767438,2025-10-04,2025,2449,North Dakota State Bison,northdakotastatebison,33,TRUE
+401756914,2025-10-04,2025,2628,TCU Horned Frogs,tcuhornedfrogs,35,TRUE
+401756914,2025-10-04,2025,38,Colorado Buffaloes,colorado,21,FALSE
+401756915,2025-10-04,2025,2116,UCF Knights,ucf,20,FALSE
+401756915,2025-10-04,2025,2305,Kansas Jayhawks,kansasjayhawks,27,TRUE
+401762478,2025-10-05,2025,235,Memphis Tigers,memphistigers,45,TRUE
+401762478,2025-10-05,2025,202,Tulsa Golden Hurricane,tulsagoldenhurricane,7,FALSE
+401754551,2025-10-05,2025,25,California Golden Bears,california,21,FALSE
+401754551,2025-10-05,2025,150,Duke Blue Devils,dukebluedevils,45,TRUE
+401760383,2025-10-05,2025,278,Fresno State Bulldogs,fresnostatebulldogs,20,TRUE
+401760383,2025-10-05,2025,2440,Nevada Wolf Pack,nevadawolfpack,17,FALSE
+401757278,2025-10-08,2025,2393,Middle Tennessee Blue Raiders,middletennesseeblueraiders,20,FALSE
+401757278,2025-10-08,2025,2623,Missouri State Bears,missouri,22,TRUE
+401757277,2025-10-09,2025,2638,UTEP Miners,utep,8,FALSE
+401757277,2025-10-09,2025,2335,Liberty Flames,libertyflames,19,TRUE
+401762481,2025-10-10,2025,249,North Texas Mean Green,northtexasmeangreen,36,FALSE
+401762481,2025-10-10,2025,58,South Florida Bulls,southfloridabulls,63,TRUE
+401752862,2025-10-11,2025,264,Washington Huskies,washington,38,TRUE
+401752862,2025-10-11,2025,164,Rutgers Scarlet Knights,rutgersscarletknights,19,FALSE
+401760388,2025-10-11,2025,36,Colorado State Rams,colorado,49,TRUE
+401760388,2025-10-11,2025,278,Fresno State Bulldogs,fresnostatebulldogs,21,FALSE
+401752865,2025-10-11,2025,356,Illinois Fighting Illini,illinois,16,FALSE
+401752865,2025-10-11,2025,194,Ohio State Buckeyes,ohiostate,34,TRUE
+401752870,2025-10-11,2025,2483,Oregon Ducks,oregon,20,FALSE
+401752870,2025-10-11,2025,84,Indiana Hoosiers,indiana,30,TRUE
+401752733,2025-10-11,2025,145,Ole Miss Rebels,olemiss,24,TRUE
+401752733,2025-10-11,2025,265,Washington State Cougars,washington,21,FALSE
+401752737,2025-10-11,2025,245,Texas A&M Aggies,texas,34,TRUE
+401752737,2025-10-11,2025,57,Florida Gators,florida,17,FALSE
+401752736,2025-10-11,2025,251,Texas Longhorns,texas,23,TRUE
+401752736,2025-10-11,2025,201,Oklahoma Sooners,oklahoma,6,FALSE
+401752734,2025-10-11,2025,142,Missouri Tigers,missouri,24,FALSE
+401752734,2025-10-11,2025,333,Alabama Crimson Tide,alabama,27,TRUE
+401756921,2025-10-11,2025,2641,Texas Tech Red Raiders,texastech,42,TRUE
+401756921,2025-10-11,2025,2305,Kansas Jayhawks,kansasjayhawks,17,FALSE
+401752731,2025-10-11,2025,2,Auburn Tigers,auburn,10,FALSE
+401752731,2025-10-11,2025,61,Georgia Bulldogs,georgia,20,TRUE
+401752732,2025-10-11,2025,99,LSU Tigers,lsu,20,TRUE
+401752732,2025-10-11,2025,2579,South Carolina Gamecocks,southcarolina,10,FALSE
+401752735,2025-10-11,2025,2633,Tennessee Volunteers,tennessee,34,TRUE
+401752735,2025-10-11,2025,8,Arkansas Razorbacks,arkansasrazorbacks,31,FALSE
+401754560,2025-10-11,2025,59,Georgia Tech Yellow Jackets,georgia,35,TRUE
+401754560,2025-10-11,2025,259,Virginia Tech Hokies,virginia,20,FALSE
+401752868,2025-10-11,2025,30,USC Trojans,usc,31,TRUE
+401752868,2025-10-11,2025,130,Michigan Wolverines,michigan,13,FALSE
+401754562,2025-10-11,2025,87,Notre Dame Fighting Irish,notredame,36,TRUE
+401754562,2025-10-11,2025,152,NC State Wolfpack,ncstate,7,FALSE
+401756916,2025-10-12,2025,12,Arizona Wildcats,arizona,27,FALSE
+401756916,2025-10-12,2025,252,BYU Cougars,byu,33,TRUE
+401756922,2025-10-12,2025,254,Utah Utes,utah,42,TRUE
+401756922,2025-10-12,2025,9,Arizona State Sun Devils,arizonastate,10,FALSE
+401756918,2025-10-11,2025,38,Colorado Buffaloes,colorado,24,TRUE
+401756918,2025-10-11,2025,66,Iowa State Cyclones,iowa,17,FALSE
+401754559,2025-10-11,2025,52,Florida State Seminoles,floridastate,31,FALSE
+401754559,2025-10-11,2025,221,Pittsburgh Panthers,pittsburgh,34,TRUE
+401752863,2025-10-11,2025,127,Michigan State Spartans,michiganstate,13,FALSE
+401752863,2025-10-11,2025,26,UCLA Bruins,ucla,38,TRUE
+401754561,2025-10-11,2025,2567,SMU Mustangs,smu,34,TRUE
+401754561,2025-10-11,2025,24,Stanford Cardinal,stanfordcardinal,10,FALSE
+401756917,2025-10-11,2025,2132,Cincinnati Bearcats,cincinnatibearcats,20,TRUE
+401756917,2025-10-11,2025,2116,UCF Knights,ucf,11,FALSE
+401756920,2025-10-11,2025,197,Oklahoma State Cowboys,oklahomastate,17,FALSE
+401756920,2025-10-11,2025,248,Houston Cougars,houston,39,TRUE
+401761625,2025-10-11,2025,256,James Madison Dukes,jamesmadisondukes,24,TRUE
+401761625,2025-10-11,2025,309,Louisiana Ragin' Cajuns,louisianaragincajuns,14,FALSE
+401762483,2025-10-11,2025,349,Army Black Knights,armyblackknights,24,TRUE
+401762483,2025-10-11,2025,2429,Charlotte 49ers,charlotte49ers,7,FALSE
+401762833,2025-10-11,2025,2006,Akron Zips,akronzips,7,FALSE
+401762833,2025-10-11,2025,193,Miami (OH) RedHawks,miami,20,TRUE
+401762835,2025-10-11,2025,189,Bowling Green Falcons,bowlinggreenfalcons,28,TRUE
+401762835,2025-10-11,2025,2649,Toledo Rockets,toledorockets,23,FALSE
+401762836,2025-10-11,2025,2199,Eastern Michigan Eagles,easternmichiganeagles,16,TRUE
+401762836,2025-10-11,2025,2459,Northern Illinois Huskies,northernillinoishuskies,10,FALSE
+401762837,2025-10-11,2025,2309,Kent State Golden Flashes,kentstategoldenflashes,42,TRUE
+401762837,2025-10-11,2025,113,Massachusetts Minutemen,massachusettsminutemen,6,FALSE
+401752866,2025-10-11,2025,213,Penn State Nittany Lions,pennstate,21,FALSE
+401752866,2025-10-11,2025,77,Northwestern Wildcats,northwesternwildcats,22,TRUE
+401752867,2025-10-11,2025,120,Maryland Terrapins,maryland,31,FALSE
+401752867,2025-10-11,2025,158,Nebraska Cornhuskers,nebraska,34,TRUE
+401754563,2025-10-11,2025,204,Oregon State Beavers,oregon,14,FALSE
+401754563,2025-10-11,2025,154,Wake Forest Demon Deacons,wakeforestdemondeacons,39,TRUE
+401756919,2025-10-11,2025,2306,Kansas State Wildcats,kansasstate,41,TRUE
+401756919,2025-10-11,2025,2628,TCU Horned Frogs,tcuhornedfrogs,28,FALSE
+401760386,2025-10-11,2025,2439,UNLV Rebels,unlv,51,TRUE
+401760386,2025-10-11,2025,2005,Air Force Falcons,airforcefalcons,48,FALSE
+401761624,2025-10-11,2025,2247,Georgia State Panthers,georgia,20,FALSE
+401761624,2025-10-11,2025,2026,App State Mountaineers,appstatemountaineers,41,TRUE
+401761626,2025-10-11,2025,276,Marshall Thundering Herd,marshallthunderingherd,48,TRUE
+401761626,2025-10-11,2025,295,Old Dominion Monarchs,olddominionmonarchs,24,FALSE
+401762834,2025-10-11,2025,2711,Western Michigan Broncos,westernmichiganbroncos,42,TRUE
+401762834,2025-10-11,2025,2050,Ball State Cardinals,ballstatecardinals,0,FALSE
+401767511,2025-10-11,2025,2449,North Dakota State Bison,northdakotastatebison,45,TRUE
+401767511,2025-10-11,2025,79,Southern Illinois Salukis,southernillinoissalukis,17,FALSE
+401762484,2025-10-11,2025,218,Temple Owls,templeowls,31,FALSE
+401762484,2025-10-11,2025,2426,Navy Midshipmen,navymidshipmen,32,TRUE
+401762482,2025-10-11,2025,2226,Florida Atlantic Owls,florida,53,TRUE
+401762482,2025-10-11,2025,5,UAB Blazers,uabblazers,33,FALSE
+401752869,2025-10-11,2025,275,Wisconsin Badgers,wisconsin,0,FALSE
+401752869,2025-10-11,2025,2294,Iowa Hawkeyes,iowa,37,TRUE
+401760391,2025-10-11,2025,2751,Wyoming Cowboys,wyomingcowboys,35,TRUE
+401760391,2025-10-11,2025,23,San José State Spartans,sanjosstatespartans,28,FALSE
+401761623,2025-10-11,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,23,TRUE
+401761623,2025-10-11,2025,2433,UL Monroe Warhawks,ulmonroewarhawks,8,FALSE
+401752864,2025-10-11,2025,135,Minnesota Golden Gophers,minnesota,27,TRUE
+401752864,2025-10-11,2025,2509,Purdue Boilermakers,purdueboilermakers,20,FALSE
+401754558,2025-10-11,2025,103,Boston College Eagles,bostoncollege,10,FALSE
+401754558,2025-10-11,2025,228,Clemson Tigers,clemson,41,TRUE
+401762485,2025-10-11,2025,2636,UTSA Roadrunners,utsaroadrunners,61,TRUE
+401762485,2025-10-11,2025,242,Rice Owls,riceowls,13,FALSE
+401761627,2025-10-12,2025,326,Texas State Bobcats,texas,41,FALSE
+401761627,2025-10-12,2025,2653,Troy Trojans,troytrojans,48,TRUE
+401767133,2025-10-12,2025,2692,Weber State Wildcats,weberstatewildcats,27,FALSE
+401767133,2025-10-12,2025,16,Sacramento State Hornets,sacramentostatehornets,55,TRUE
+401760387,2025-10-12,2025,68,Boise State Broncos,boisestatebroncos,41,TRUE
+401760387,2025-10-12,2025,167,New Mexico Lobos,newmexicolobos,25,FALSE
+401760390,2025-10-12,2025,2440,Nevada Wolf Pack,nevadawolfpack,10,FALSE
+401760390,2025-10-12,2025,21,San Diego State Aztecs,sandiegostateaztecs,44,TRUE
+401760389,2025-10-12,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,44,TRUE
+401760389,2025-10-12,2025,328,Utah State Aggies,utah,26,FALSE
+401757282,2025-10-14,2025,2335,Liberty Flames,libertyflames,30,TRUE
+401757282,2025-10-14,2025,166,New Mexico State Aggies,newmexicostateaggies,27,FALSE
+401761628,2025-10-14,2025,6,South Alabama Jaguars,southalabamajaguars,14,FALSE
+401761628,2025-10-14,2025,2032,Arkansas State Red Wolves,arkansasstateredwolves,15,TRUE
+401757281,2025-10-15,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,6,FALSE
+401757281,2025-10-15,2025,2229,Florida International Panthers,florida,25,TRUE
+401757283,2025-10-15,2025,55,Jacksonville State Gamecocks,jacksonvillestategamecocks,38,TRUE
+401757283,2025-10-15,2025,48,Delaware Blue Hens,delawarebluehens,25,FALSE
+401757284,2025-10-15,2025,2534,Sam Houston Bearkats,samhoustonbearkats,17,FALSE
+401757284,2025-10-15,2025,2638,UTEP Miners,utep,35,TRUE
+401762486,2025-10-16,2025,151,East Carolina Pirates,eastcarolinapirates,41,TRUE
+401762486,2025-10-16,2025,202,Tulsa Golden Hurricane,tulsagoldenhurricane,27,FALSE
+401754564,2025-10-17,2025,2390,Miami Hurricanes,miami,21,FALSE
+401754564,2025-10-17,2025,97,Louisville Cardinals,louisville,24,TRUE
+401752872,2025-10-18,2025,135,Minnesota Golden Gophers,minnesota,24,TRUE
+401752872,2025-10-18,2025,158,Nebraska Cornhuskers,nebraska,6,FALSE
+401760396,2025-10-18,2025,328,Utah State Aggies,utah,30,TRUE
+401760396,2025-10-18,2025,23,San José State Spartans,sanjosstatespartans,25,FALSE
+401754371,2025-10-18,2025,25,California Golden Bears,california,21,TRUE
+401754371,2025-10-18,2025,153,North Carolina Tar Heels,northcarolina,18,FALSE
+401752877,2025-10-18,2025,275,Wisconsin Badgers,wisconsin,0,FALSE
+401752877,2025-10-18,2025,194,Ohio State Buckeyes,ohiostate,34,TRUE
+401752878,2025-10-18,2025,84,Indiana Hoosiers,indiana,38,TRUE
+401752878,2025-10-18,2025,127,Michigan State Spartans,michiganstate,13,FALSE
+401752739,2025-10-18,2025,8,Arkansas Razorbacks,arkansasrazorbacks,42,FALSE
+401752739,2025-10-18,2025,245,Texas A&M Aggies,texas,45,TRUE
+401752742,2025-10-18,2025,61,Georgia Bulldogs,georgia,43,TRUE
+401752742,2025-10-18,2025,145,Ole Miss Rebels,olemiss,35,FALSE
+401752738,2025-10-18,2025,333,Alabama Crimson Tide,alabama,37,TRUE
+401752738,2025-10-18,2025,2633,Tennessee Volunteers,tennessee,20,FALSE
+401756923,2025-10-18,2025,9,Arizona State Sun Devils,arizonastate,26,TRUE
+401756923,2025-10-18,2025,2641,Texas Tech Red Raiders,texastech,22,FALSE
+401752876,2025-10-18,2025,164,Rutgers Scarlet Knights,rutgersscarletknights,10,FALSE
+401752876,2025-10-18,2025,2483,Oregon Ducks,oregon,56,TRUE
+401752745,2025-10-18,2025,238,Vanderbilt Commodores,vanderbilt,31,TRUE
+401752745,2025-10-18,2025,99,LSU Tigers,lsu,24,FALSE
+401754566,2025-10-18,2025,150,Duke Blue Devils,dukebluedevils,18,FALSE
+401754566,2025-10-18,2025,59,Georgia Tech Yellow Jackets,georgia,27,TRUE
+401752871,2025-10-18,2025,87,Notre Dame Fighting Irish,notredame,34,TRUE
+401752871,2025-10-18,2025,30,USC Trojans,usc,24,FALSE
+401752744,2025-10-18,2025,2579,South Carolina Gamecocks,southcarolina,7,FALSE
+401752744,2025-10-18,2025,201,Oklahoma Sooners,oklahoma,26,TRUE
+401756924,2025-10-19,2025,252,BYU Cougars,byu,24,TRUE
+401756924,2025-10-19,2025,254,Utah Utes,utah,21,FALSE
+401752740,2025-10-18,2025,2,Auburn Tigers,auburn,17,FALSE
+401752740,2025-10-18,2025,142,Missouri Tigers,missouri,23,TRUE
+401752951,2025-10-18,2025,258,Virginia Cavaliers,virginia,22,TRUE
+401752951,2025-10-18,2025,265,Washington State Cougars,washington,20,FALSE
+401762490,2025-10-18,2025,58,South Florida Bulls,southfloridabulls,48,TRUE
+401762490,2025-10-18,2025,2226,Florida Atlantic Owls,florida,13,FALSE
+401752743,2025-10-18,2025,96,Kentucky Wildcats,kentucky,13,FALSE
+401752743,2025-10-18,2025,251,Texas Longhorns,texas,16,TRUE
+401762487,2025-10-18,2025,5,UAB Blazers,uabblazers,31,TRUE
+401762487,2025-10-18,2025,235,Memphis Tigers,memphistigers,24,FALSE
+401756926,2025-10-19,2025,197,Oklahoma State Cowboys,oklahomastate,17,FALSE
+401756926,2025-10-19,2025,2132,Cincinnati Bearcats,cincinnatibearcats,49,TRUE
+401752873,2025-10-18,2025,130,Michigan Wolverines,michigan,24,TRUE
+401752873,2025-10-18,2025,264,Washington Huskies,washington,7,FALSE
+401754569,2025-10-18,2025,103,Boston College Eagles,bostoncollege,23,FALSE
+401754569,2025-10-18,2025,41,UConn Huskies,uconnhuskies,38,TRUE
+401756925,2025-10-18,2025,248,Houston Cougars,houston,31,TRUE
+401756925,2025-10-18,2025,12,Arizona Wildcats,arizona,28,FALSE
+401756927,2025-10-18,2025,2628,TCU Horned Frogs,tcuhornedfrogs,42,TRUE
+401756927,2025-10-18,2025,239,Baylor Bears,baylor,36,FALSE
+401762488,2025-10-18,2025,2655,Tulane Green Wave,tulanegreenwave,24,TRUE
+401762488,2025-10-18,2025,349,Army Black Knights,armyblackknights,17,FALSE
+401762839,2025-10-18,2025,189,Bowling Green Falcons,bowlinggreenfalcons,6,FALSE
+401762839,2025-10-18,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,27,TRUE
+401762841,2025-10-18,2025,193,Miami (OH) RedHawks,miami,44,TRUE
+401762841,2025-10-18,2025,2199,Eastern Michigan Eagles,easternmichiganeagles,30,FALSE
+401756928,2025-10-18,2025,2116,UCF Knights,ucf,45,TRUE
+401756928,2025-10-18,2025,277,West Virginia Mountaineers,westvirginia,13,FALSE
+401767449,2025-10-18,2025,282,Indiana State Sycamores,indiana,7,FALSE
+401767449,2025-10-18,2025,2449,North Dakota State Bison,northdakotastatebison,38,TRUE
+401762842,2025-10-18,2025,2649,Toledo Rockets,toledorockets,45,TRUE
+401762842,2025-10-18,2025,2309,Kent State Golden Flashes,kentstategoldenflashes,10,FALSE
+401762840,2025-10-18,2025,113,Massachusetts Minutemen,massachusettsminutemen,21,FALSE
+401762840,2025-10-18,2025,2084,Buffalo Bulls,buffalobulls,28,TRUE
+401752874,2025-10-18,2025,77,Northwestern Wildcats,northwesternwildcats,19,TRUE
+401752874,2025-10-18,2025,2509,Purdue Boilermakers,purdueboilermakers,0,FALSE
+401761633,2025-10-18,2025,2433,UL Monroe Warhawks,ulmonroewarhawks,14,FALSE
+401761633,2025-10-18,2025,2653,Troy Trojans,troytrojans,37,TRUE
+401754565,2025-10-18,2025,228,Clemson Tigers,clemson,24,FALSE
+401754565,2025-10-18,2025,2567,SMU Mustangs,smu,35,TRUE
+401760392,2025-10-18,2025,2005,Air Force Falcons,airforcefalcons,24,TRUE
+401760392,2025-10-18,2025,2751,Wyoming Cowboys,wyomingcowboys,21,FALSE
+401760393,2025-10-18,2025,68,Boise State Broncos,boisestatebroncos,56,TRUE
+401760393,2025-10-18,2025,2439,UNLV Rebels,unlv,31,FALSE
+401761629,2025-10-18,2025,2026,App State Mountaineers,appstatemountaineers,37,FALSE
+401761629,2025-10-18,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,45,TRUE
+401761631,2025-10-18,2025,256,James Madison Dukes,jamesmadisondukes,63,TRUE
+401761631,2025-10-18,2025,295,Old Dominion Monarchs,olddominionmonarchs,27,FALSE
+401761632,2025-10-18,2025,276,Marshall Thundering Herd,marshallthunderingherd,40,TRUE
+401761632,2025-10-18,2025,326,Texas State Bobcats,texas,37,FALSE
+401762489,2025-10-18,2025,2429,Charlotte 49ers,charlotte49ers,14,FALSE
+401762489,2025-10-18,2025,218,Temple Owls,templeowls,49,TRUE
+401762838,2025-10-18,2025,2050,Ball State Cardinals,ballstatecardinals,42,TRUE
+401762838,2025-10-18,2025,2006,Akron Zips,akronzips,28,FALSE
+401762843,2025-10-18,2025,195,Ohio Bobcats,ohiobobcats,48,TRUE
+401762843,2025-10-18,2025,2459,Northern Illinois Huskies,northernillinoishuskies,21,FALSE
+401762491,2025-10-18,2025,249,North Texas Mean Green,northtexasmeangreen,55,TRUE
+401762491,2025-10-18,2025,2636,UTSA Roadrunners,utsaroadrunners,17,FALSE
+401752741,2025-10-18,2025,57,Florida Gators,florida,23,TRUE
+401752741,2025-10-18,2025,344,Mississippi State Bulldogs,mississippistate,21,FALSE
+401761668,2025-10-18,2025,309,Louisiana Ragin' Cajuns,louisianaragincajuns,10,FALSE
+401761668,2025-10-18,2025,2572,Southern Miss Golden Eagles,southernmissgoldeneagles,22,TRUE
+401752875,2025-10-18,2025,2294,Iowa Hawkeyes,iowa,25,TRUE
+401752875,2025-10-18,2025,213,Penn State Nittany Lions,pennstate,24,FALSE
+401752879,2025-10-18,2025,26,UCLA Bruins,ucla,20,TRUE
+401752879,2025-10-18,2025,120,Maryland Terrapins,maryland,17,FALSE
+401760394,2025-10-18,2025,36,Colorado State Rams,colorado,19,FALSE
+401760394,2025-10-18,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,31,TRUE
+401761630,2025-10-18,2025,290,Georgia Southern Eagles,georgia,41,TRUE
+401754568,2025-10-18,2025,183,Syracuse Orange,syracuse,13,FALSE
+401754568,2025-10-18,2025,221,Pittsburgh Panthers,pittsburgh,30,TRUE
+401767123,2025-10-19,2025,16,Sacramento State Hornets,sacramentostatehornets,40,TRUE
+401767123,2025-10-19,2025,2458,Northern Colorado Bears,northerncoloradobears,35,FALSE
+401760395,2025-10-19,2025,167,New Mexico Lobos,newmexicolobos,24,TRUE
+401760395,2025-10-19,2025,2440,Nevada Wolf Pack,nevadawolfpack,22,FALSE
+401752941,2025-10-19,2025,204,Oregon State Beavers,oregon,45,TRUE
+401752941,2025-10-19,2025,322,Lafayette Leopards,lafayetteleopards,13,FALSE
+401754567,2025-10-19,2025,24,Stanford Cardinal,stanfordcardinal,20,TRUE
+401754567,2025-10-19,2025,52,Florida State Seminoles,floridastate,13,FALSE
+401757285,2025-10-21,2025,2229,Florida International Panthers,florida,26,FALSE
+401757285,2025-10-21,2025,338,Kennesaw State Owls,kennesawstateowls,45,TRUE
+401757286,2025-10-21,2025,2348,Louisiana Tech Bulldogs,louisianatechbulldogs,27,FALSE
+401757286,2025-10-21,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,28,TRUE
+401757287,2025-10-22,2025,48,Delaware Blue Hens,delawarebluehens,31,TRUE
+401757287,2025-10-22,2025,2393,Middle Tennessee Blue Raiders,middletennesseeblueraiders,28,FALSE
+401757288,2025-10-23,2025,166,New Mexico State Aggies,newmexicostateaggies,17,FALSE
+401757288,2025-10-23,2025,2623,Missouri State Bears,missouri,24,TRUE
+401762492,2025-10-24,2025,2429,Charlotte 49ers,charlotte49ers,20,FALSE
+401762492,2025-10-24,2025,249,North Texas Mean Green,northtexasmeangreen,54,TRUE
+401754372,2025-10-24,2025,259,Virginia Tech Hokies,virginia,42,TRUE
+401754372,2025-10-24,2025,25,California Golden Bears,california,34,FALSE
+401760397,2025-10-25,2025,2440,Nevada Wolf Pack,nevadawolfpack,3,FALSE
+401760397,2025-10-25,2025,68,Boise State Broncos,boisestatebroncos,24,TRUE
+401767101,2025-10-25,2025,16,Sacramento State Hornets,sacramentostatehornets,35,FALSE
+401767101,2025-10-25,2025,149,Montana Grizzlies,montanagrizzlies,49,TRUE
+401752885,2025-10-25,2025,84,Indiana Hoosiers,indiana,56,TRUE
+401752885,2025-10-25,2025,26,UCLA Bruins,ucla,6,FALSE
+401752748,2025-10-25,2025,99,LSU Tigers,lsu,25,FALSE
+401752748,2025-10-25,2025,245,Texas A&M Aggies,texas,49,TRUE
+401752751,2025-10-25,2025,2579,South Carolina Gamecocks,southcarolina,22,FALSE
+401752751,2025-10-25,2025,333,Alabama Crimson Tide,alabama,29,TRUE
+401752886,2025-10-25,2025,2483,Oregon Ducks,oregon,21,TRUE
+401752886,2025-10-25,2025,275,Wisconsin Badgers,wisconsin,7,FALSE
+401754571,2025-10-25,2025,59,Georgia Tech Yellow Jackets,georgia,41,TRUE
+401754571,2025-10-25,2025,183,Syracuse Orange,syracuse,16,FALSE
+401752750,2025-10-25,2025,201,Oklahoma Sooners,oklahoma,26,FALSE
+401752750,2025-10-25,2025,145,Ole Miss Rebels,olemiss,34,TRUE
+401754572,2025-10-25,2025,2390,Miami Hurricanes,miami,42,TRUE
+401754572,2025-10-25,2025,24,Stanford Cardinal,stanfordcardinal,7,FALSE
+401752752,2025-10-25,2025,238,Vanderbilt Commodores,vanderbilt,17,TRUE
+401752752,2025-10-25,2025,142,Missouri Tigers,missouri,10,FALSE
+401756931,2025-10-25,2025,66,Iowa State Cyclones,iowa,27,FALSE
+401756931,2025-10-25,2025,252,BYU Cougars,byu,41,TRUE
+401756933,2025-10-25,2025,2641,Texas Tech Red Raiders,texastech,42,TRUE
+401756933,2025-10-25,2025,197,Oklahoma State Cowboys,oklahomastate,0,FALSE
+401754573,2025-10-25,2025,153,North Carolina Tar Heels,northcarolina,16,FALSE
+401754573,2025-10-25,2025,258,Virginia Cavaliers,virginia,17,TRUE
+401752747,2025-10-25,2025,96,Kentucky Wildcats,kentucky,34,FALSE
+401752747,2025-10-25,2025,2633,Tennessee Volunteers,tennessee,56,TRUE
+401762494,2025-10-25,2025,235,Memphis Tigers,memphistigers,34,TRUE
+401762494,2025-10-25,2025,58,South Florida Bulls,southfloridabulls,31,FALSE
+401754570,2025-10-25,2025,97,Louisville Cardinals,louisville,38,TRUE
+401754570,2025-10-25,2025,103,Boston College Eagles,bostoncollege,24,FALSE
+401756930,2025-10-25,2025,2132,Cincinnati Bearcats,cincinnatibearcats,41,TRUE
+401756930,2025-10-25,2025,239,Baylor Bears,baylor,20,FALSE
+401752749,2025-10-25,2025,344,Mississippi State Bulldogs,mississippistate,38,FALSE
+401752749,2025-10-25,2025,251,Texas Longhorns,texas,45,TRUE
+401752880,2025-10-25,2025,264,Washington Huskies,washington,42,TRUE
+401752880,2025-10-25,2025,356,Illinois Fighting Illini,illinois,25,FALSE
+401756929,2025-10-26,2025,9,Arizona State Sun Devils,arizonastate,16,FALSE
+401756929,2025-10-26,2025,248,Houston Cougars,houston,24,TRUE
+401752881,2025-10-25,2025,127,Michigan State Spartans,michiganstate,20,FALSE
+401752881,2025-10-25,2025,130,Michigan Wolverines,michigan,31,TRUE
+401752883,2025-10-25,2025,158,Nebraska Cornhuskers,nebraska,28,TRUE
+401752883,2025-10-25,2025,77,Northwestern Wildcats,northwesternwildcats,21,FALSE
+401752884,2025-10-25,2025,2509,Purdue Boilermakers,purdueboilermakers,24,FALSE
+401752884,2025-10-25,2025,164,Rutgers Scarlet Knights,rutgersscarletknights,27,TRUE
+401752942,2025-10-25,2025,154,Wake Forest Demon Deacons,wakeforestdemondeacons,13,TRUE
+401752942,2025-10-25,2025,2567,SMU Mustangs,smu,12,FALSE
+401756932,2025-10-25,2025,2305,Kansas Jayhawks,kansasjayhawks,17,FALSE
+401756932,2025-10-25,2025,2306,Kansas State Wildcats,kansasstate,42,TRUE
+401761635,2025-10-25,2025,295,Old Dominion Monarchs,olddominionmonarchs,24,TRUE
+401761635,2025-10-25,2025,2026,App State Mountaineers,appstatemountaineers,21,FALSE
+401762846,2025-10-25,2025,2309,Kent State Golden Flashes,kentstategoldenflashes,24,TRUE
+401762846,2025-10-25,2025,189,Bowling Green Falcons,bowlinggreenfalcons,21,FALSE
+401762848,2025-10-25,2025,2199,Eastern Michigan Eagles,easternmichiganeagles,21,FALSE
+401762848,2025-10-25,2025,195,Ohio Bobcats,ohiobobcats,28,TRUE
+401752746,2025-10-25,2025,8,Arkansas Razorbacks,arkansasrazorbacks,24,FALSE
+401752746,2025-10-25,2025,2,Auburn Tigers,auburn,33,TRUE
+401762844,2025-10-25,2025,2084,Buffalo Bulls,buffalobulls,16,FALSE
+401762844,2025-10-25,2025,2006,Akron Zips,akronzips,24,TRUE
+401757172,2025-10-25,2025,242,Rice Owls,riceowls,37,TRUE
+401757172,2025-10-25,2025,41,UConn Huskies,uconnhuskies,34,FALSE
+401760400,2025-10-25,2025,167,New Mexico Lobos,newmexicolobos,33,TRUE
+401760400,2025-10-25,2025,328,Utah State Aggies,utah,14,FALSE
+401752882,2025-10-25,2025,2294,Iowa Hawkeyes,iowa,41,TRUE
+401752882,2025-10-25,2025,135,Minnesota Golden Gophers,minnesota,3,FALSE
+401752952,2025-10-25,2025,265,Washington State Cougars,washington,28,TRUE
+401752952,2025-10-25,2025,2649,Toledo Rockets,toledorockets,7,FALSE
+401754574,2025-10-25,2025,221,Pittsburgh Panthers,pittsburgh,53,TRUE
+401754574,2025-10-25,2025,152,NC State Wolfpack,ncstate,34,FALSE
+401760399,2025-10-25,2025,278,Fresno State Bulldogs,fresnostatebulldogs,0,FALSE
+401760399,2025-10-25,2025,21,San Diego State Aztecs,sandiegostateaztecs,23,TRUE
+401761637,2025-10-25,2025,2572,Southern Miss Golden Eagles,southernmissgoldeneagles,49,TRUE
+401761637,2025-10-25,2025,2433,UL Monroe Warhawks,ulmonroewarhawks,21,FALSE
+401762493,2025-10-25,2025,2426,Navy Midshipmen,navymidshipmen,42,TRUE
+401762493,2025-10-25,2025,2226,Florida Atlantic Owls,florida,32,FALSE
+401762495,2025-10-25,2025,202,Tulsa Golden Hurricane,tulsagoldenhurricane,37,FALSE
+401762495,2025-10-25,2025,218,Temple Owls,templeowls,38,TRUE
+401762845,2025-10-25,2025,2459,Northern Illinois Huskies,northernillinoishuskies,21,TRUE
+401762845,2025-10-25,2025,2050,Ball State Cardinals,ballstatecardinals,7,FALSE
+401762847,2025-10-25,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,38,TRUE
+401762847,2025-10-25,2025,113,Massachusetts Minutemen,massachusettsminutemen,13,FALSE
+401762874,2025-10-25,2025,193,Miami (OH) RedHawks,miami,26,TRUE
+401762874,2025-10-25,2025,2711,Western Michigan Broncos,westernmichiganbroncos,17,FALSE
+401756935,2025-10-25,2025,277,West Virginia Mountaineers,westvirginia,17,FALSE
+401756935,2025-10-25,2025,2628,TCU Horned Frogs,tcuhornedfrogs,23,TRUE
+401761636,2025-10-25,2025,2032,Arkansas State Red Wolves,arkansasstateredwolves,34,TRUE
+401761636,2025-10-25,2025,290,Georgia Southern Eagles,georgia,24,FALSE
+401761638,2025-10-25,2025,2653,Troy Trojans,troytrojans,35,TRUE
+401761638,2025-10-25,2025,309,Louisiana Ragin' Cajuns,louisianaragincajuns,23,FALSE
+401760398,2025-10-25,2025,2751,Wyoming Cowboys,wyomingcowboys,28,TRUE
+401760398,2025-10-25,2025,36,Colorado State Rams,colorado,0,FALSE
+401767512,2025-10-26,2025,2571,South Dakota State Jackrabbits,southdakotastatejackrabbits,7,FALSE
+401767512,2025-10-26,2025,2449,North Dakota State Bison,northdakotastatebison,38,TRUE
+401756934,2025-10-26,2025,254,Utah Utes,utah,53,TRUE
+401756934,2025-10-26,2025,38,Colorado Buffaloes,colorado,7,FALSE
+401757289,2025-10-29,2025,338,Kennesaw State Owls,kennesawstateowls,33,TRUE
+401757289,2025-10-29,2025,2638,UTEP Miners,utep,20,FALSE
+401761639,2025-10-29,2025,326,Texas State Bobcats,texas,20,FALSE
+401761639,2025-10-29,2025,256,James Madison Dukes,jamesmadisondukes,52,TRUE
+401757292,2025-10-29,2025,2393,Middle Tennessee Blue Raiders,middletennesseeblueraiders,21,FALSE
+401757292,2025-10-29,2025,55,Jacksonville State Gamecocks,jacksonvillestategamecocks,24,TRUE
+401757291,2025-10-30,2025,2623,Missouri State Bears,missouri,28,TRUE
+401757291,2025-10-30,2025,2229,Florida International Panthers,florida,21,FALSE
+401761640,2025-10-30,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,44,TRUE
+401761640,2025-10-30,2025,276,Marshall Thundering Herd,marshallthunderingherd,27,FALSE
+401762443,2025-10-30,2025,2636,UTSA Roadrunners,utsaroadrunners,48,TRUE
+401762443,2025-10-30,2025,2655,Tulane Green Wave,tulanegreenwave,26,FALSE
+401762497,2025-10-31,2025,242,Rice Owls,riceowls,14,FALSE
+401762497,2025-10-31,2025,235,Memphis Tigers,memphistigers,38,TRUE
+401754575,2025-10-31,2025,183,Syracuse Orange,syracuse,10,FALSE
+401754575,2025-10-31,2025,153,North Carolina Tar Heels,northcarolina,27,TRUE
+401757290,2025-11-01,2025,2348,Louisiana Tech Bulldogs,louisianatechbulldogs,55,TRUE
+401757290,2025-11-01,2025,2534,Sam Houston Bearkats,samhoustonbearkats,14,FALSE
+401752889,2025-11-01,2025,194,Ohio State Buckeyes,ohiostate,38,TRUE
+401752889,2025-11-01,2025,213,Penn State Nittany Lions,pennstate,14,FALSE
+401752887,2025-11-01,2025,120,Maryland Terrapins,maryland,10,FALSE
+401752887,2025-11-01,2025,84,Indiana Hoosiers,indiana,55,TRUE
+401752755,2025-11-01,2025,57,Florida Gators,florida,20,FALSE
+401752755,2025-11-01,2025,61,Georgia Bulldogs,georgia,24,TRUE
+401752756,2025-11-01,2025,145,Ole Miss Rebels,olemiss,30,TRUE
+401752756,2025-11-01,2025,2579,South Carolina Gamecocks,southcarolina,14,FALSE
+401754579,2025-11-01,2025,152,NC State Wolfpack,ncstate,48,TRUE
+401754579,2025-11-01,2025,59,Georgia Tech Yellow Jackets,georgia,36,FALSE
+401752758,2025-11-01,2025,251,Texas Longhorns,texas,34,TRUE
+401752758,2025-11-01,2025,238,Vanderbilt Commodores,vanderbilt,31,FALSE
+401754581,2025-11-01,2025,2567,SMU Mustangs,smu,26,TRUE
+401754581,2025-11-01,2025,2390,Miami Hurricanes,miami,20,FALSE
+401754583,2025-11-01,2025,103,Boston College Eagles,bostoncollege,10,FALSE
+401754583,2025-11-01,2025,87,Notre Dame Fighting Irish,notredame,25,TRUE
+401756941,2025-11-01,2025,2306,Kansas State Wildcats,kansasstate,20,FALSE
+401756941,2025-11-01,2025,2641,Texas Tech Red Raiders,texastech,43,TRUE
+401752757,2025-11-01,2025,2633,Tennessee Volunteers,tennessee,27,FALSE
+401752757,2025-11-01,2025,201,Oklahoma Sooners,oklahoma,33,TRUE
+401754576,2025-11-01,2025,25,California Golden Bears,california,21,FALSE
+401754576,2025-11-01,2025,258,Virginia Cavaliers,virginia,31,TRUE
+401754580,2025-11-01,2025,259,Virginia Tech Hokies,virginia,16,FALSE
+401754580,2025-11-01,2025,97,Louisville Cardinals,louisville,28,TRUE
+401756942,2025-11-02,2025,254,Utah Utes,utah,45,TRUE
+401756942,2025-11-02,2025,2132,Cincinnati Bearcats,cincinnatibearcats,14,FALSE
+401752890,2025-11-01,2025,130,Michigan Wolverines,michigan,21,TRUE
+401752890,2025-11-01,2025,2509,Purdue Boilermakers,purdueboilermakers,16,FALSE
+401756938,2025-11-01,2025,248,Houston Cougars,houston,35,FALSE
+401756938,2025-11-01,2025,277,West Virginia Mountaineers,westvirginia,45,TRUE
+401752892,2025-11-01,2025,158,Nebraska Cornhuskers,nebraska,17,FALSE
+401752892,2025-11-01,2025,30,USC Trojans,usc,21,TRUE
+401752891,2025-11-01,2025,356,Illinois Fighting Illini,illinois,35,TRUE
+401752891,2025-11-01,2025,164,Rutgers Scarlet Knights,rutgersscarletknights,13,FALSE
+401754577,2025-11-01,2025,228,Clemson Tigers,clemson,45,FALSE
+401754577,2025-11-01,2025,150,Duke Blue Devils,dukebluedevils,46,TRUE
+401756936,2025-11-01,2025,239,Baylor Bears,baylor,30,TRUE
+401756936,2025-11-01,2025,2116,UCF Knights,ucf,3,FALSE
+401757173,2025-11-01,2025,41,UConn Huskies,uconnhuskies,38,TRUE
+401757173,2025-11-01,2025,5,UAB Blazers,uabblazers,19,FALSE
+401760401,2025-11-01,2025,2005,Air Force Falcons,airforcefalcons,17,FALSE
+401760401,2025-11-01,2025,349,Army Black Knights,armyblackknights,20,TRUE
+401762499,2025-11-01,2025,249,North Texas Mean Green,northtexasmeangreen,31,TRUE
+401762499,2025-11-01,2025,2426,Navy Midshipmen,navymidshipmen,17,FALSE
+401762849,2025-11-01,2025,189,Bowling Green Falcons,bowlinggreenfalcons,3,FALSE
+401762849,2025-11-01,2025,2084,Buffalo Bulls,buffalobulls,28,TRUE
+401756939,2025-11-01,2025,66,Iowa State Cyclones,iowa,19,FALSE
+401756939,2025-11-01,2025,9,Arizona State Sun Devils,arizonastate,24,TRUE
+401762498,2025-11-01,2025,218,Temple Owls,templeowls,14,FALSE
+401762498,2025-11-01,2025,151,East Carolina Pirates,eastcarolinapirates,45,TRUE
+401760404,2025-11-01,2025,2439,UNLV Rebels,unlv,35,FALSE
+401760404,2025-11-01,2025,167,New Mexico Lobos,newmexicolobos,40,TRUE
+401752888,2025-11-01,2025,135,Minnesota Golden Gophers,minnesota,23,TRUE
+401752888,2025-11-01,2025,127,Michigan State Spartans,michiganstate,20,FALSE
+401754582,2025-11-01,2025,24,Stanford Cardinal,stanfordcardinal,20,FALSE
+401754582,2025-11-01,2025,221,Pittsburgh Panthers,pittsburgh,35,TRUE
+401757293,2025-11-01,2025,2335,Liberty Flames,libertyflames,59,TRUE
+401757293,2025-11-01,2025,48,Delaware Blue Hens,delawarebluehens,30,FALSE
+401757294,2025-11-01,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,35,TRUE
+401757294,2025-11-01,2025,166,New Mexico State Aggies,newmexicostateaggies,16,FALSE
+401760402,2025-11-01,2025,68,Boise State Broncos,boisestatebroncos,7,FALSE
+401760402,2025-11-01,2025,278,Fresno State Bulldogs,fresnostatebulldogs,30,TRUE
+401761641,2025-11-01,2025,2433,UL Monroe Warhawks,ulmonroewarhawks,6,FALSE
+401761641,2025-11-01,2025,295,Old Dominion Monarchs,olddominionmonarchs,31,TRUE
+401761642,2025-11-01,2025,6,South Alabama Jaguars,southalabamajaguars,22,FALSE
+401761642,2025-11-01,2025,309,Louisiana Ragin' Cajuns,louisianaragincajuns,31,TRUE
+401767513,2025-11-01,2025,2449,North Dakota State Bison,northdakotastatebison,38,TRUE
+401767513,2025-11-01,2025,2754,Youngstown State Penguins,youngstownstatepenguins,30,FALSE
+401752753,2025-11-01,2025,8,Arkansas Razorbacks,arkansasrazorbacks,35,FALSE
+401752753,2025-11-01,2025,344,Mississippi State Bulldogs,mississippistate,38,TRUE
+401756940,2025-11-01,2025,2305,Kansas Jayhawks,kansasjayhawks,38,TRUE
+401756940,2025-11-01,2025,197,Oklahoma State Cowboys,oklahomastate,21,FALSE
+401762850,2025-11-01,2025,2711,Western Michigan Broncos,westernmichiganbroncos,24,TRUE
+401762850,2025-11-01,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,21,FALSE
+401767066,2025-11-01,2025,331,Eastern Washington Eagles,easternwashingtoneagles,13,FALSE
+401767066,2025-11-01,2025,16,Sacramento State Hornets,sacramentostatehornets,35,TRUE
+401756937,2025-11-01,2025,38,Colorado Buffaloes,colorado,17,FALSE
+401756937,2025-11-01,2025,12,Arizona Wildcats,arizona,52,TRUE
+401760405,2025-11-01,2025,21,San Diego State Aztecs,sandiegostateaztecs,24,TRUE
+401760405,2025-11-01,2025,2751,Wyoming Cowboys,wyomingcowboys,7,FALSE
+401752754,2025-11-01,2025,2,Auburn Tigers,auburn,3,FALSE
+401752754,2025-11-01,2025,96,Kentucky Wildcats,kentucky,10,TRUE
+401752943,2025-11-01,2025,204,Oregon State Beavers,oregon,10,TRUE
+401752943,2025-11-01,2025,265,Washington State Cougars,washington,7,FALSE
+401754578,2025-11-01,2025,52,Florida State Seminoles,floridastate,42,TRUE
+401754578,2025-11-01,2025,154,Wake Forest Demon Deacons,wakeforestdemondeacons,7,FALSE
+401761643,2025-11-02,2025,2653,Troy Trojans,troytrojans,10,FALSE
+401761643,2025-11-02,2025,2032,Arkansas State Red Wolves,arkansasstateredwolves,23,TRUE
+401760403,2025-11-02,2025,23,San José State Spartans,sanjosstatespartans,45,TRUE
+401760403,2025-11-02,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,38,FALSE
+401762851,2025-11-05,2025,2006,Akron Zips,akronzips,44,TRUE
+401762851,2025-11-05,2025,113,Massachusetts Minutemen,massachusettsminutemen,10,FALSE
+401762852,2025-11-05,2025,195,Ohio Bobcats,ohiobobcats,24,TRUE
+401762852,2025-11-05,2025,193,Miami (OH) RedHawks,miami,20,FALSE
+401762853,2025-11-06,2025,2050,Ball State Cardinals,ballstatecardinals,17,TRUE
+401762853,2025-11-06,2025,2309,Kent State Golden Flashes,kentstategoldenflashes,13,FALSE
+401762854,2025-11-06,2025,2649,Toledo Rockets,toledorockets,42,TRUE
+401762854,2025-11-06,2025,2459,Northern Illinois Huskies,northernillinoishuskies,3,FALSE
+401752896,2025-11-08,2025,30,USC Trojans,usc,38,TRUE
+401752896,2025-11-08,2025,77,Northwestern Wildcats,northwesternwildcats,17,FALSE
+401756946,2025-11-08,2025,2116,UCF Knights,ucf,27,FALSE
+401756946,2025-11-08,2025,248,Houston Cougars,houston,30,TRUE
+401762501,2025-11-08,2025,235,Memphis Tigers,memphistigers,32,FALSE
+401762501,2025-11-08,2025,2655,Tulane Green Wave,tulanegreenwave,38,TRUE
+401752897,2025-11-08,2025,2509,Purdue Boilermakers,purdueboilermakers,10,FALSE
+401752897,2025-11-08,2025,194,Ohio State Buckeyes,ohiostate,34,TRUE
+401752893,2025-11-08,2025,213,Penn State Nittany Lions,pennstate,24,FALSE
+401752893,2025-11-08,2025,84,Indiana Hoosiers,indiana,27,TRUE
+401752763,2025-11-08,2025,142,Missouri Tigers,missouri,17,FALSE
+401752763,2025-11-08,2025,245,Texas A&M Aggies,texas,38,TRUE
+401752759,2025-11-09,2025,333,Alabama Crimson Tide,alabama,20,TRUE
+401752759,2025-11-09,2025,99,LSU Tigers,lsu,9,FALSE
+401752762,2025-11-08,2025,344,Mississippi State Bulldogs,mississippistate,21,FALSE
+401752762,2025-11-08,2025,61,Georgia Bulldogs,georgia,41,TRUE
+401752761,2025-11-08,2025,145,Ole Miss Rebels,olemiss,49,TRUE
+401752761,2025-11-08,2025,2643,The Citadel Bulldogs,thecitadelbulldogs,0,FALSE
+401756945,2025-11-08,2025,2641,Texas Tech Red Raiders,texastech,29,TRUE
+401756945,2025-11-08,2025,252,BYU Cougars,byu,7,FALSE
+401752898,2025-11-08,2025,2294,Iowa Hawkeyes,iowa,16,FALSE
+401752898,2025-11-08,2025,2483,Oregon Ducks,oregon,18,TRUE
+401757166,2025-11-09,2025,87,Notre Dame Fighting Irish,notredame,49,TRUE
+401757166,2025-11-09,2025,2426,Navy Midshipmen,navymidshipmen,10,FALSE
+401754589,2025-11-09,2025,258,Virginia Cavaliers,virginia,9,FALSE
+401754589,2025-11-09,2025,154,Wake Forest Demon Deacons,wakeforestdemondeacons,16,TRUE
+401754585,2025-11-09,2025,97,Louisville Cardinals,louisville,26,FALSE
+401754585,2025-11-09,2025,25,California Golden Bears,california,29,TRUE
+401752764,2025-11-08,2025,238,Vanderbilt Commodores,vanderbilt,45,TRUE
+401752764,2025-11-08,2025,2,Auburn Tigers,auburn,38,FALSE
+401754587,2025-11-08,2025,2390,Miami Hurricanes,miami,38,TRUE
+401754587,2025-11-08,2025,183,Syracuse Orange,syracuse,10,FALSE
+401752899,2025-11-08,2025,275,Wisconsin Badgers,wisconsin,13,TRUE
+401752899,2025-11-08,2025,264,Washington Huskies,washington,10,FALSE
+401754584,2025-11-08,2025,103,Boston College Eagles,bostoncollege,13,FALSE
+401754584,2025-11-08,2025,2567,SMU Mustangs,smu,45,TRUE
+401756947,2025-11-08,2025,277,West Virginia Mountaineers,westvirginia,29,TRUE
+401756947,2025-11-08,2025,38,Colorado Buffaloes,colorado,22,FALSE
+401761646,2025-11-08,2025,276,Marshall Thundering Herd,marshallthunderingherd,23,FALSE
+401761646,2025-11-08,2025,256,James Madison Dukes,jamesmadisondukes,35,TRUE
+401761647,2025-11-08,2025,2032,Arkansas State Red Wolves,arkansasstateredwolves,21,FALSE
+401761647,2025-11-08,2025,2572,Southern Miss Golden Eagles,southernmissgoldeneagles,27,TRUE
+401762503,2025-11-08,2025,349,Army Black Knights,armyblackknights,14,TRUE
+401762503,2025-11-08,2025,218,Temple Owls,templeowls,13,FALSE
+401757299,2025-11-08,2025,2335,Liberty Flames,libertyflames,17,FALSE
+401757299,2025-11-08,2025,2623,Missouri State Bears,missouri,21,TRUE
+401762855,2025-11-08,2025,2199,Eastern Michigan Eagles,easternmichiganeagles,27,TRUE
+401762855,2025-11-08,2025,189,Bowling Green Falcons,bowlinggreenfalcons,21,FALSE
+401762502,2025-11-08,2025,242,Rice Owls,riceowls,24,TRUE
+401762502,2025-11-08,2025,5,UAB Blazers,uabblazers,17,FALSE
+401767507,2025-11-08,2025,155,North Dakota Fighting Hawks,northdakotafightinghawks,10,FALSE
+401767507,2025-11-08,2025,2449,North Dakota State Bison,northdakotastatebison,15,TRUE
+401752894,2025-11-08,2025,164,Rutgers Scarlet Knights,rutgersscarletknights,35,TRUE
+401752894,2025-11-08,2025,120,Maryland Terrapins,maryland,20,FALSE
+401757295,2025-11-08,2025,48,Delaware Blue Hens,delawarebluehens,25,TRUE
+401757295,2025-11-08,2025,2348,Louisiana Tech Bulldogs,louisianatechbulldogs,24,FALSE
+401757296,2025-11-08,2025,2393,Middle Tennessee Blue Raiders,middletennesseeblueraiders,30,FALSE
+401757296,2025-11-08,2025,2229,Florida International Panthers,florida,56,TRUE
+401757297,2025-11-08,2025,2638,UTEP Miners,utep,27,FALSE
+401757297,2025-11-08,2025,55,Jacksonville State Gamecocks,jacksonvillestategamecocks,30,TRUE
+401762504,2025-11-08,2025,151,East Carolina Pirates,eastcarolinapirates,48,TRUE
+401762504,2025-11-08,2025,2429,Charlotte 49ers,charlotte49ers,22,FALSE
+401762505,2025-11-08,2025,2226,Florida Atlantic Owls,florida,40,TRUE
+401762505,2025-11-08,2025,202,Tulsa Golden Hurricane,tulsagoldenhurricane,21,FALSE
+401754590,2025-11-08,2025,41,UConn Huskies,uconnhuskies,37,TRUE
+401754590,2025-11-08,2025,150,Duke Blue Devils,dukebluedevils,34,FALSE
+401756943,2025-11-08,2025,12,Arizona Wildcats,arizona,24,TRUE
+401756943,2025-11-08,2025,2305,Kansas Jayhawks,kansasjayhawks,20,FALSE
+401756944,2025-11-08,2025,2628,TCU Horned Frogs,tcuhornedfrogs,17,FALSE
+401756944,2025-11-08,2025,66,Iowa State Cyclones,iowa,20,TRUE
+401757298,2025-11-08,2025,166,New Mexico State Aggies,newmexicostateaggies,21,FALSE
+401757298,2025-11-08,2025,338,Kennesaw State Owls,kennesawstateowls,24,TRUE
+401761645,2025-11-08,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,40,TRUE
+401761645,2025-11-08,2025,2247,Georgia State Panthers,georgia,27,FALSE
+401754588,2025-11-08,2025,153,North Carolina Tar Heels,northcarolina,20,TRUE
+401754588,2025-11-08,2025,24,Stanford Cardinal,stanfordcardinal,15,FALSE
+401761648,2025-11-08,2025,309,Louisiana Ragin' Cajuns,louisianaragincajuns,42,TRUE
+401761648,2025-11-08,2025,326,Texas State Bobcats,texas,39,FALSE
+401767129,2025-11-08,2025,2502,Portland State Vikings,portlandstatevikings,24,FALSE
+401767129,2025-11-08,2025,16,Sacramento State Hornets,sacramentostatehornets,52,TRUE
+401760406,2025-11-08,2025,23,San José State Spartans,sanjosstatespartans,16,FALSE
+401760406,2025-11-08,2025,2005,Air Force Falcons,airforcefalcons,26,TRUE
+401754586,2025-11-09,2025,228,Clemson Tigers,clemson,24,TRUE
+401754586,2025-11-09,2025,52,Florida State Seminoles,floridastate,10,FALSE
+401752760,2025-11-09,2025,96,Kentucky Wildcats,kentucky,38,TRUE
+401752760,2025-11-09,2025,57,Florida Gators,florida,7,FALSE
+401760409,2025-11-09,2025,328,Utah State Aggies,utah,51,TRUE
+401760409,2025-11-09,2025,2440,Nevada Wolf Pack,nevadawolfpack,14,FALSE
+401752895,2025-11-09,2025,26,UCLA Bruins,ucla,21,FALSE
+401752895,2025-11-09,2025,158,Nebraska Cornhuskers,nebraska,28,TRUE
+401760407,2025-11-09,2025,36,Colorado State Rams,colorado,10,FALSE
+401760407,2025-11-09,2025,2439,UNLV Rebels,unlv,42,TRUE
+401752944,2025-11-09,2025,204,Oregon State Beavers,oregon,17,FALSE
+401752944,2025-11-09,2025,2534,Sam Houston Bearkats,samhoustonbearkats,21,TRUE
+401760408,2025-11-09,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,38,TRUE
+401760408,2025-11-09,2025,21,San Diego State Aztecs,sandiegostateaztecs,6,FALSE
+401762856,2025-11-12,2025,2006,Akron Zips,akronzips,35,FALSE
+401762856,2025-11-12,2025,2309,Kent State Golden Flashes,kentstategoldenflashes,42,TRUE
+401762857,2025-11-12,2025,2711,Western Michigan Broncos,westernmichiganbroncos,17,TRUE
+401762857,2025-11-12,2025,195,Ohio Bobcats,ohiobobcats,13,FALSE
+401762858,2025-11-13,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,38,TRUE
+401762858,2025-11-13,2025,2084,Buffalo Bulls,buffalobulls,19,FALSE
+401762859,2025-11-13,2025,113,Massachusetts Minutemen,massachusettsminutemen,3,FALSE
+401762859,2025-11-13,2025,2459,Northern Illinois Huskies,northernillinoishuskies,45,TRUE
+401762860,2025-11-13,2025,193,Miami (OH) RedHawks,miami,3,FALSE
+401762860,2025-11-13,2025,2649,Toledo Rockets,toledorockets,24,TRUE
+401761649,2025-11-14,2025,295,Old Dominion Monarchs,olddominionmonarchs,33,TRUE
+401761649,2025-11-14,2025,2653,Troy Trojans,troytrojans,0,FALSE
+401752904,2025-11-15,2025,2483,Oregon Ducks,oregon,42,TRUE
+401752904,2025-11-15,2025,135,Minnesota Golden Gophers,minnesota,13,FALSE
+401754591,2025-11-15,2025,97,Louisville Cardinals,louisville,19,FALSE
+401754591,2025-11-15,2025,228,Clemson Tigers,clemson,20,TRUE
+401752900,2025-11-16,2025,194,Ohio State Buckeyes,ohiostate,48,TRUE
+401752900,2025-11-16,2025,26,UCLA Bruins,ucla,10,FALSE
+401752901,2025-11-15,2025,84,Indiana Hoosiers,indiana,31,TRUE
+401752901,2025-11-15,2025,275,Wisconsin Badgers,wisconsin,7,FALSE
+401752772,2025-11-15,2025,245,Texas A&M Aggies,texas,31,TRUE
+401752772,2025-11-15,2025,2579,South Carolina Gamecocks,southcarolina,30,FALSE
+401752765,2025-11-15,2025,333,Alabama Crimson Tide,alabama,21,FALSE
+401752765,2025-11-15,2025,201,Oklahoma Sooners,oklahoma,23,TRUE
+401752766,2025-11-16,2025,61,Georgia Bulldogs,georgia,35,TRUE
+401752766,2025-11-16,2025,251,Texas Longhorns,texas,10,FALSE
+401756953,2025-11-15,2025,2641,Texas Tech Red Raiders,texastech,48,TRUE
+401756953,2025-11-15,2025,2116,UCF Knights,ucf,9,FALSE
+401752769,2025-11-16,2025,145,Ole Miss Rebels,olemiss,34,TRUE
+401752769,2025-11-16,2025,57,Florida Gators,florida,24,FALSE
+401754597,2025-11-15,2025,221,Pittsburgh Panthers,pittsburgh,15,FALSE
+401754597,2025-11-15,2025,87,Notre Dame Fighting Irish,notredame,37,TRUE
+401756950,2025-11-16,2025,252,BYU Cougars,byu,44,TRUE
+401756950,2025-11-16,2025,2628,TCU Horned Frogs,tcuhornedfrogs,13,FALSE
+401756949,2025-11-16,2025,239,Baylor Bears,baylor,28,FALSE
+401756949,2025-11-16,2025,254,Utah Utes,utah,55,TRUE
+401754595,2025-11-15,2025,2390,Miami Hurricanes,miami,41,TRUE
+401754595,2025-11-15,2025,152,NC State Wolfpack,ncstate,7,FALSE
+401754592,2025-11-15,2025,103,Boston College Eagles,bostoncollege,34,FALSE
+401754592,2025-11-15,2025,59,Georgia Tech Yellow Jackets,georgia,36,TRUE
+401752907,2025-11-15,2025,30,USC Trojans,usc,26,TRUE
+401752907,2025-11-15,2025,2294,Iowa Hawkeyes,iowa,21,FALSE
+401752905,2025-11-15,2025,77,Northwestern Wildcats,northwesternwildcats,22,FALSE
+401752905,2025-11-15,2025,130,Michigan Wolverines,michigan,24,TRUE
+401754593,2025-11-15,2025,150,Duke Blue Devils,dukebluedevils,17,FALSE
+401754593,2025-11-15,2025,258,Virginia Cavaliers,virginia,34,TRUE
+401752771,2025-11-15,2025,2633,Tennessee Volunteers,tennessee,42,TRUE
+401752771,2025-11-15,2025,166,New Mexico State Aggies,newmexicostateaggies,9,FALSE
+401762510,2025-11-15,2025,2426,Navy Midshipmen,navymidshipmen,41,TRUE
+401762510,2025-11-15,2025,58,South Florida Bulls,southfloridabulls,38,FALSE
+401756951,2025-11-15,2025,2132,Cincinnati Bearcats,cincinnatibearcats,24,FALSE
+401756951,2025-11-15,2025,12,Arizona Wildcats,arizona,30,TRUE
+401756952,2025-11-15,2025,197,Oklahoma State Cowboys,oklahomastate,6,FALSE
+401756952,2025-11-15,2025,2306,Kansas State Wildcats,kansasstate,14,TRUE
+401757174,2025-11-15,2025,41,UConn Huskies,uconnhuskies,26,TRUE
+401757174,2025-11-15,2025,2005,Air Force Falcons,airforcefalcons,16,FALSE
+401762507,2025-11-15,2025,2429,Charlotte 49ers,charlotte49ers,7,FALSE
+401762507,2025-11-15,2025,2636,UTSA Roadrunners,utsaroadrunners,28,TRUE
+401762861,2025-11-15,2025,2050,Ball State Cardinals,ballstatecardinals,9,FALSE
+401762861,2025-11-15,2025,2199,Eastern Michigan Eagles,easternmichiganeagles,24,TRUE
+401752768,2025-11-15,2025,99,LSU Tigers,lsu,23,TRUE
+401752768,2025-11-15,2025,8,Arkansas Razorbacks,arkansasrazorbacks,22,FALSE
+401752945,2025-11-15,2025,202,Tulsa Golden Hurricane,tulsagoldenhurricane,31,TRUE
+401752945,2025-11-15,2025,204,Oregon State Beavers,oregon,14,FALSE
+401756948,2025-11-15,2025,9,Arizona State Sun Devils,arizonastate,25,TRUE
+401756948,2025-11-15,2025,277,West Virginia Mountaineers,westvirginia,23,FALSE
+401752767,2025-11-15,2025,96,Kentucky Wildcats,kentucky,42,TRUE
+401752767,2025-11-15,2025,2635,Tennessee Tech Golden Eagles,tennessee,10,FALSE
+401761651,2025-11-15,2025,2247,Georgia State Panthers,georgia,18,FALSE
+401761651,2025-11-15,2025,276,Marshall Thundering Herd,marshallthunderingherd,30,TRUE
+401762506,2025-11-15,2025,5,UAB Blazers,uabblazers,24,FALSE
+401762506,2025-11-15,2025,249,North Texas Mean Green,northtexasmeangreen,53,TRUE
+401757304,2025-11-15,2025,2623,Missouri State Bears,missouri,38,TRUE
+401757304,2025-11-15,2025,2638,UTEP Miners,utep,24,FALSE
+401760411,2025-11-15,2025,167,New Mexico Lobos,newmexicolobos,20,TRUE
+401760411,2025-11-15,2025,36,Colorado State Rams,colorado,17,FALSE
+401752903,2025-11-15,2025,127,Michigan State Spartans,michiganstate,10,FALSE
+401752903,2025-11-15,2025,213,Penn State Nittany Lions,pennstate,28,TRUE
+401752906,2025-11-15,2025,356,Illinois Fighting Illini,illinois,24,TRUE
+401752906,2025-11-15,2025,120,Maryland Terrapins,maryland,6,FALSE
+401757303,2025-11-15,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,42,TRUE
+401757303,2025-11-15,2025,2393,Middle Tennessee Blue Raiders,middletennesseeblueraiders,26,FALSE
+401760413,2025-11-15,2025,2440,Nevada Wolf Pack,nevadawolfpack,55,TRUE
+401760413,2025-11-15,2025,23,San José State Spartans,sanjosstatespartans,10,FALSE
+401761652,2025-11-15,2025,256,James Madison Dukes,jamesmadisondukes,58,TRUE
+401761652,2025-11-15,2025,2026,App State Mountaineers,appstatemountaineers,10,FALSE
+401761653,2025-11-15,2025,2433,UL Monroe Warhawks,ulmonroewarhawks,14,FALSE
+401761653,2025-11-15,2025,6,South Alabama Jaguars,southalabamajaguars,26,TRUE
+401761654,2025-11-15,2025,2572,Southern Miss Golden Eagles,southernmissgoldeneagles,14,FALSE
+401761654,2025-11-15,2025,326,Texas State Bobcats,texas,41,TRUE
+401767514,2025-11-15,2025,2449,North Dakota State Bison,northdakotastatebison,48,TRUE
+401767514,2025-11-15,2025,2460,Northern Iowa Panthers,northerniowapanthers,16,FALSE
+401762508,2025-11-15,2025,151,East Carolina Pirates,eastcarolinapirates,31,TRUE
+401762508,2025-11-15,2025,235,Memphis Tigers,memphistigers,27,FALSE
+401762509,2025-11-15,2025,2655,Tulane Green Wave,tulanegreenwave,35,TRUE
+401762509,2025-11-15,2025,2226,Florida Atlantic Owls,florida,24,FALSE
+401754596,2025-11-15,2025,154,Wake Forest Demon Deacons,wakeforestdemondeacons,28,TRUE
+401754596,2025-11-15,2025,153,North Carolina Tar Heels,northcarolina,12,FALSE
+401757301,2025-11-15,2025,2229,Florida International Panthers,florida,34,TRUE
+401757301,2025-11-15,2025,2335,Liberty Flames,libertyflames,27,FALSE
+401761650,2025-11-15,2025,290,Georgia Southern Eagles,georgia,45,TRUE
+401761650,2025-11-15,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,40,FALSE
+401752902,2025-11-16,2025,264,Washington Huskies,washington,49,TRUE
+401752902,2025-11-16,2025,2509,Purdue Boilermakers,purdueboilermakers,13,FALSE
+401757300,2025-11-16,2025,2534,Sam Houston Bearkats,samhoustonbearkats,26,TRUE
+401757300,2025-11-16,2025,48,Delaware Blue Hens,delawarebluehens,23,FALSE
+401760414,2025-11-16,2025,2439,UNLV Rebels,unlv,29,TRUE
+401760414,2025-11-16,2025,328,Utah State Aggies,utah,26,FALSE
+401754594,2025-11-16,2025,52,Florida State Seminoles,floridastate,34,TRUE
+401754594,2025-11-16,2025,259,Virginia Tech Hokies,virginia,14,FALSE
+401752770,2025-11-16,2025,142,Missouri Tigers,missouri,49,TRUE
+401752770,2025-11-16,2025,344,Mississippi State Bulldogs,mississippistate,27,FALSE
+401757302,2025-11-16,2025,55,Jacksonville State Gamecocks,jacksonvillestategamecocks,35,TRUE
+401757302,2025-11-16,2025,338,Kennesaw State Owls,kennesawstateowls,26,FALSE
+401767096,2025-11-16,2025,16,Sacramento State Hornets,sacramentostatehornets,23,TRUE
+401767096,2025-11-16,2025,70,Idaho Vandals,idahovandals,20,FALSE
+401752953,2025-11-16,2025,265,Washington State Cougars,washington,28,TRUE
+401752953,2025-11-16,2025,2348,Louisiana Tech Bulldogs,louisianatechbulldogs,3,FALSE
+401760410,2025-11-16,2025,21,San Diego State Aztecs,sandiegostateaztecs,17,TRUE
+401760410,2025-11-16,2025,68,Boise State Broncos,boisestatebroncos,7,FALSE
+401760412,2025-11-16,2025,278,Fresno State Bulldogs,fresnostatebulldogs,24,TRUE
+401760412,2025-11-16,2025,2751,Wyoming Cowboys,wyomingcowboys,3,FALSE
+401762862,2025-11-19,2025,189,Bowling Green Falcons,bowlinggreenfalcons,16,FALSE
+401762862,2025-11-19,2025,2006,Akron Zips,akronzips,19,TRUE
+401762864,2025-11-19,2025,2459,Northern Illinois Huskies,northernillinoishuskies,19,FALSE
+401762864,2025-11-19,2025,2711,Western Michigan Broncos,westernmichiganbroncos,35,TRUE
+401762863,2025-11-19,2025,195,Ohio Bobcats,ohiobobcats,42,TRUE
+401762863,2025-11-19,2025,113,Massachusetts Minutemen,massachusettsminutemen,14,FALSE
+401762865,2025-11-20,2025,2084,Buffalo Bulls,buffalobulls,20,FALSE
+401762865,2025-11-20,2025,193,Miami (OH) RedHawks,miami,37,TRUE
+401762866,2025-11-20,2025,2309,Kent State Golden Flashes,kentstategoldenflashes,16,FALSE
+401762866,2025-11-20,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,28,TRUE
+401754598,2025-11-22,2025,152,NC State Wolfpack,ncstate,21,TRUE
+401754598,2025-11-22,2025,52,Florida State Seminoles,floridastate,11,FALSE
+401760418,2025-11-22,2025,2439,UNLV Rebels,unlv,38,TRUE
+401760418,2025-11-22,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,10,FALSE
+401752912,2025-11-22,2025,194,Ohio State Buckeyes,ohiostate,42,TRUE
+401752912,2025-11-22,2025,164,Rutgers Scarlet Knights,rutgersscarletknights,9,FALSE
+401752781,2025-11-22,2025,245,Texas A&M Aggies,texas,48,TRUE
+401752781,2025-11-22,2025,2535,Samford Bulldogs,samfordbulldogs,0,FALSE
+401752776,2025-11-22,2025,61,Georgia Bulldogs,georgia,35,TRUE
+401752776,2025-11-22,2025,2429,Charlotte 49ers,charlotte49ers,3,FALSE
+401752911,2025-11-22,2025,2483,Oregon Ducks,oregon,42,TRUE
+401752911,2025-11-22,2025,30,USC Trojans,usc,27,FALSE
+401752778,2025-11-22,2025,201,Oklahoma Sooners,oklahoma,17,TRUE
+401752778,2025-11-22,2025,142,Missouri Tigers,missouri,6,FALSE
+401754604,2025-11-22,2025,87,Notre Dame Fighting Irish,notredame,70,TRUE
+401754604,2025-11-22,2025,183,Syracuse Orange,syracuse,7,FALSE
+401752773,2025-11-22,2025,333,Alabama Crimson Tide,alabama,56,TRUE
+401752773,2025-11-22,2025,2197,Eastern Illinois Panthers,easternillinoispanthers,0,FALSE
+401756955,2025-11-23,2025,2132,Cincinnati Bearcats,cincinnatibearcats,14,FALSE
+401756955,2025-11-23,2025,252,BYU Cougars,byu,26,TRUE
+401756960,2025-11-22,2025,254,Utah Utes,utah,51,TRUE
+401756960,2025-11-22,2025,2306,Kansas State Wildcats,kansasstate,47,FALSE
+401754603,2025-11-22,2025,259,Virginia Tech Hokies,virginia,17,FALSE
+401754603,2025-11-22,2025,2390,Miami Hurricanes,miami,34,TRUE
+401752782,2025-11-22,2025,238,Vanderbilt Commodores,vanderbilt,45,TRUE
+401752782,2025-11-22,2025,96,Kentucky Wildcats,kentucky,17,FALSE
+401754601,2025-11-23,2025,59,Georgia Tech Yellow Jackets,georgia,28,FALSE
+401754601,2025-11-23,2025,221,Pittsburgh Panthers,pittsburgh,42,TRUE
+401752780,2025-11-22,2025,251,Texas Longhorns,texas,52,TRUE
+401752780,2025-11-22,2025,8,Arkansas Razorbacks,arkansasrazorbacks,37,FALSE
+401752914,2025-11-22,2025,120,Maryland Terrapins,maryland,20,FALSE
+401752914,2025-11-22,2025,130,Michigan Wolverines,michigan,45,TRUE
+401752775,2025-11-23,2025,57,Florida Gators,florida,11,FALSE
+401752775,2025-11-23,2025,2633,Tennessee Volunteers,tennessee,31,TRUE
+401752915,2025-11-23,2025,275,Wisconsin Badgers,wisconsin,27,TRUE
+401752915,2025-11-23,2025,356,Illinois Fighting Illini,illinois,10,FALSE
+401756957,2025-11-22,2025,248,Houston Cougars,houston,14,FALSE
+401756957,2025-11-22,2025,2628,TCU Horned Frogs,tcuhornedfrogs,17,TRUE
+401762515,2025-11-22,2025,218,Temple Owls,templeowls,13,FALSE
+401762515,2025-11-22,2025,2655,Tulane Green Wave,tulanegreenwave,37,TRUE
+401756956,2025-11-23,2025,38,Colorado Buffaloes,colorado,17,FALSE
+401756956,2025-11-23,2025,9,Arizona State Sun Devils,arizonastate,42,TRUE
+401752909,2025-11-22,2025,77,Northwestern Wildcats,northwesternwildcats,38,TRUE
+401752909,2025-11-22,2025,135,Minnesota Golden Gophers,minnesota,35,FALSE
+401754602,2025-11-22,2025,2567,SMU Mustangs,smu,38,TRUE
+401754602,2025-11-22,2025,97,Louisville Cardinals,louisville,6,FALSE
+401754606,2025-11-22,2025,154,Wake Forest Demon Deacons,wakeforestdemondeacons,52,TRUE
+401754606,2025-11-22,2025,48,Delaware Blue Hens,delawarebluehens,14,FALSE
+401756958,2025-11-22,2025,66,Iowa State Cyclones,iowa,38,TRUE
+401756958,2025-11-22,2025,2305,Kansas Jayhawks,kansasjayhawks,14,FALSE
+401762512,2025-11-22,2025,349,Army Black Knights,armyblackknights,25,FALSE
+401762512,2025-11-22,2025,202,Tulsa Golden Hurricane,tulsagoldenhurricane,26,TRUE
+401752954,2025-11-22,2025,256,James Madison Dukes,jamesmadisondukes,24,TRUE
+401752954,2025-11-22,2025,265,Washington State Cougars,washington,20,FALSE
+401756954,2025-11-22,2025,12,Arizona Wildcats,arizona,41,TRUE
+401756954,2025-11-22,2025,239,Baylor Bears,baylor,17,FALSE
+401761657,2025-11-22,2025,290,Georgia Southern Eagles,georgia,10,FALSE
+401761657,2025-11-22,2025,295,Old Dominion Monarchs,olddominionmonarchs,45,TRUE
+401752774,2025-11-22,2025,2,Auburn Tigers,auburn,62,TRUE
+401752774,2025-11-22,2025,2382,Mercer Bears,mercerbears,17,FALSE
+401757306,2025-11-22,2025,338,Kennesaw State Owls,kennesawstateowls,41,TRUE
+401757306,2025-11-22,2025,2623,Missouri State Bears,missouri,34,FALSE
+401760419,2025-11-22,2025,2751,Wyoming Cowboys,wyomingcowboys,7,FALSE
+401760419,2025-11-22,2025,2440,Nevada Wolf Pack,nevadawolfpack,13,TRUE
+401762867,2025-11-22,2025,2649,Toledo Rockets,toledorockets,38,TRUE
+401762867,2025-11-22,2025,2050,Ball State Cardinals,ballstatecardinals,9,FALSE
+401761656,2025-11-22,2025,2026,App State Mountaineers,appstatemountaineers,26,TRUE
+401761656,2025-11-22,2025,276,Marshall Thundering Herd,marshallthunderingherd,24,FALSE
+401757175,2025-11-22,2025,2226,Florida Atlantic Owls,florida,45,FALSE
+401757175,2025-11-22,2025,41,UConn Huskies,uconnhuskies,48,TRUE
+401757307,2025-11-22,2025,2348,Louisiana Tech Bulldogs,louisianatechbulldogs,34,TRUE
+401757307,2025-11-22,2025,2335,Liberty Flames,libertyflames,28,FALSE
+401757308,2025-11-22,2025,2393,Middle Tennessee Blue Raiders,middletennesseeblueraiders,31,TRUE
+401757308,2025-11-22,2025,2534,Sam Houston Bearkats,samhoustonbearkats,17,FALSE
+401757309,2025-11-22,2025,2638,UTEP Miners,utep,31,FALSE
+401757309,2025-11-22,2025,166,New Mexico State Aggies,newmexicostateaggies,34,TRUE
+401762511,2025-11-22,2025,5,UAB Blazers,uabblazers,18,FALSE
+401762511,2025-11-22,2025,58,South Florida Bulls,southfloridabulls,48,TRUE
+401752913,2025-11-22,2025,2294,Iowa Hawkeyes,iowa,20,TRUE
+401752913,2025-11-22,2025,127,Michigan State Spartans,michiganstate,17,FALSE
+401754600,2025-11-22,2025,153,North Carolina Tar Heels,northcarolina,25,FALSE
+401754600,2025-11-22,2025,150,Duke Blue Devils,dukebluedevils,32,TRUE
+401757305,2025-11-22,2025,2229,Florida International Panthers,florida,27,TRUE
+401757305,2025-11-22,2025,55,Jacksonville State Gamecocks,jacksonvillestategamecocks,21,FALSE
+401761658,2025-11-22,2025,6,South Alabama Jaguars,southalabamajaguars,42,TRUE
+401761658,2025-11-22,2025,2572,Southern Miss Golden Eagles,southernmissgoldeneagles,35,FALSE
+401762513,2025-11-22,2025,2636,UTSA Roadrunners,utsaroadrunners,58,TRUE
+401762513,2025-11-22,2025,151,East Carolina Pirates,eastcarolinapirates,24,FALSE
+401767515,2025-11-22,2025,2449,North Dakota State Bison,northdakotastatebison,62,TRUE
+401767515,2025-11-22,2025,2900,St. Thomas-Minnesota Tommies,stthomasminnesotatommies,7,FALSE
+401756959,2025-11-22,2025,2116,UCF Knights,ucf,17,TRUE
+401756959,2025-11-22,2025,197,Oklahoma State Cowboys,oklahomastate,14,FALSE
+401761660,2025-11-22,2025,2653,Troy Trojans,troytrojans,31,TRUE
+401761660,2025-11-22,2025,2247,Georgia State Panthers,georgia,19,FALSE
+401767134,2025-11-22,2025,302,UC Davis Aggies,ucdavisaggies,31,TRUE
+401767134,2025-11-22,2025,16,Sacramento State Hornets,sacramentostatehornets,27,FALSE
+401752779,2025-11-22,2025,2579,South Carolina Gamecocks,southcarolina,51,TRUE
+401752779,2025-11-22,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,7,FALSE
+401754605,2025-11-22,2025,228,Clemson Tigers,clemson,45,TRUE
+401754605,2025-11-22,2025,231,Furman Paladins,furmanpaladins,10,FALSE
+401761659,2025-11-22,2025,326,Texas State Bobcats,texas,31,TRUE
+401761659,2025-11-22,2025,2433,UL Monroe Warhawks,ulmonroewarhawks,14,FALSE
+401752908,2025-11-23,2025,213,Penn State Nittany Lions,pennstate,37,TRUE
+401752908,2025-11-23,2025,158,Nebraska Cornhuskers,nebraska,10,FALSE
+401760415,2025-11-23,2025,2005,Air Force Falcons,airforcefalcons,3,FALSE
+401760415,2025-11-23,2025,167,New Mexico Lobos,newmexicolobos,20,TRUE
+401760416,2025-11-23,2025,68,Boise State Broncos,boisestatebroncos,49,TRUE
+401760416,2025-11-23,2025,36,Colorado State Rams,colorado,21,FALSE
+401754599,2025-11-23,2025,24,Stanford Cardinal,stanfordcardinal,31,TRUE
+401754599,2025-11-23,2025,25,California Golden Bears,california,10,FALSE
+401762514,2025-11-23,2025,242,Rice Owls,riceowls,24,FALSE
+401762514,2025-11-23,2025,249,North Texas Mean Green,northtexasmeangreen,56,TRUE
+401752777,2025-11-23,2025,99,LSU Tigers,lsu,13,TRUE
+401752777,2025-11-23,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,10,FALSE
+401752910,2025-11-23,2025,26,UCLA Bruins,ucla,14,FALSE
+401752910,2025-11-23,2025,264,Washington Huskies,washington,48,TRUE
+401760417,2025-11-23,2025,278,Fresno State Bulldogs,fresnostatebulldogs,17,FALSE
+401760417,2025-11-23,2025,328,Utah State Aggies,utah,28,TRUE
+401760420,2025-11-23,2025,21,San Diego State Aztecs,sandiegostateaztecs,25,TRUE
+401760420,2025-11-23,2025,23,San José State Spartans,sanjosstatespartans,3,FALSE
+401762868,2025-11-25,2025,113,Massachusetts Minutemen,massachusettsminutemen,14,FALSE
+401762868,2025-11-25,2025,189,Bowling Green Falcons,bowlinggreenfalcons,45,TRUE
+401762869,2025-11-26,2025,2199,Eastern Michigan Eagles,easternmichiganeagles,21,FALSE
+401762869,2025-11-26,2025,2711,Western Michigan Broncos,westernmichiganbroncos,31,TRUE
+401762516,2025-11-28,2025,235,Memphis Tigers,memphistigers,17,FALSE
+401762516,2025-11-28,2025,2426,Navy Midshipmen,navymidshipmen,28,TRUE
+401752924,2025-11-29,2025,2509,Purdue Boilermakers,purdueboilermakers,3,FALSE
+401752924,2025-11-29,2025,84,Indiana Hoosiers,indiana,56,TRUE
+401752792,2025-11-29,2025,251,Texas Longhorns,texas,27,TRUE
+401752786,2025-11-28,2025,59,Georgia Tech Yellow Jackets,georgia,9,FALSE
+401752788,2025-11-28,2025,344,Mississippi State Bulldogs,mississippistate,19,FALSE
+401752788,2025-11-28,2025,145,Ole Miss Rebels,olemiss,38,TRUE
+401756964,2025-11-28,2025,2305,Kansas Jayhawks,kansasjayhawks,21,FALSE
+401756964,2025-11-28,2025,254,Utah Utes,utah,31,TRUE
+401756961,2025-11-29,2025,9,Arizona State Sun Devils,arizonastate,7,FALSE
+401756961,2025-11-29,2025,12,Arizona Wildcats,arizona,23,TRUE
+401752916,2025-11-28,2025,158,Nebraska Cornhuskers,nebraska,16,FALSE
+401752916,2025-11-28,2025,2294,Iowa Hawkeyes,iowa,40,TRUE
+401762870,2025-11-28,2025,2084,Buffalo Bulls,buffalobulls,26,FALSE
+401762870,2025-11-28,2025,195,Ohio Bobcats,ohiobobcats,31,TRUE
+401762871,2025-11-28,2025,2459,Northern Illinois Huskies,northernillinoishuskies,31,FALSE
+401762871,2025-11-28,2025,2309,Kent State Golden Flashes,kentstategoldenflashes,35,TRUE
+401760421,2025-11-28,2025,36,Colorado State Rams,colorado,21,FALSE
+401760421,2025-11-28,2025,2005,Air Force Falcons,airforcefalcons,42,TRUE
+401760426,2025-11-28,2025,167,New Mexico Lobos,newmexicolobos,23,TRUE
+401760426,2025-11-28,2025,21,San Diego State Aztecs,sandiegostateaztecs,17,FALSE
+401762442,2025-11-28,2025,249,North Texas Mean Green,northtexasmeangreen,52,TRUE
+401762442,2025-11-28,2025,218,Temple Owls,templeowls,25,FALSE
+401760422,2025-11-28,2025,328,Utah State Aggies,utah,24,FALSE
+401760422,2025-11-28,2025,68,Boise State Broncos,boisestatebroncos,25,TRUE
+401752921,2025-11-29,2025,130,Michigan Wolverines,michigan,9,FALSE
+401752921,2025-11-29,2025,194,Ohio State Buckeyes,ohiostate,27,TRUE
+401756968,2025-11-29,2025,277,West Virginia Mountaineers,westvirginia,0,FALSE
+401756968,2025-11-29,2025,2641,Texas Tech Red Raiders,texastech,49,TRUE
+401752917,2025-11-29,2025,264,Washington Huskies,washington,14,FALSE
+401752917,2025-11-29,2025,2483,Oregon Ducks,oregon,26,TRUE
+401752789,2025-11-29,2025,201,Oklahoma Sooners,oklahoma,17,TRUE
+401752789,2025-11-29,2025,99,LSU Tigers,lsu,13,FALSE
+401754614,2025-11-30,2025,24,Stanford Cardinal,stanfordcardinal,20,FALSE
+401754614,2025-11-30,2025,87,Notre Dame Fighting Irish,notredame,49,TRUE
+401752784,2025-11-30,2025,2,Auburn Tigers,auburn,20,FALSE
+401752784,2025-11-30,2025,333,Alabama Crimson Tide,alabama,27,TRUE
+401756963,2025-11-29,2025,252,BYU Cougars,byu,41,TRUE
+401756963,2025-11-29,2025,2116,UCF Knights,ucf,21,FALSE
+401754611,2025-11-29,2025,221,Pittsburgh Panthers,pittsburgh,7,FALSE
+401754611,2025-11-29,2025,2390,Miami Hurricanes,miami,38,TRUE
+401752791,2025-11-29,2025,2633,Tennessee Volunteers,tennessee,24,FALSE
+401752791,2025-11-29,2025,238,Vanderbilt Commodores,vanderbilt,45,TRUE
+401752919,2025-11-30,2025,30,USC Trojans,usc,29,TRUE
+401752919,2025-11-30,2025,26,UCLA Bruins,ucla,10,FALSE
+401754613,2025-11-30,2025,258,Virginia Cavaliers,virginia,27,TRUE
+401754609,2025-11-30,2025,25,California Golden Bears,california,38,TRUE
+401754609,2025-11-30,2025,2567,SMU Mustangs,smu,35,FALSE
+401762518,2025-11-30,2025,2655,Tulane Green Wave,tulanegreenwave,27,TRUE
+401762518,2025-11-30,2025,2429,Charlotte 49ers,charlotte49ers,0,FALSE
+401752787,2025-11-29,2025,97,Louisville Cardinals,louisville,41,TRUE
+401752787,2025-11-29,2025,96,Kentucky Wildcats,kentucky,0,FALSE
+401752790,2025-11-29,2025,2579,South Carolina Gamecocks,southcarolina,14,FALSE
+401752790,2025-11-29,2025,228,Clemson Tigers,clemson,28,TRUE
+401756962,2025-11-29,2025,239,Baylor Bears,baylor,24,FALSE
+401756962,2025-11-29,2025,248,Houston Cougars,houston,31,TRUE
+401756965,2025-11-29,2025,2306,Kansas State Wildcats,kansasstate,24,TRUE
+401756965,2025-11-29,2025,38,Colorado Buffaloes,colorado,14,FALSE
+401756966,2025-11-29,2025,197,Oklahoma State Cowboys,oklahomastate,13,FALSE
+401756966,2025-11-29,2025,66,Iowa State Cyclones,iowa,20,TRUE
+401762519,2025-11-29,2025,2226,Florida Atlantic Owls,florida,3,FALSE
+401762519,2025-11-29,2025,151,East Carolina Pirates,eastcarolinapirates,42,TRUE
+401762872,2025-11-29,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,3,FALSE
+401762872,2025-11-29,2025,2649,Toledo Rockets,toledorockets,21,TRUE
+401762875,2025-11-29,2025,193,Miami (OH) RedHawks,miami,45,TRUE
+401762875,2025-11-29,2025,2050,Ball State Cardinals,ballstatecardinals,24,FALSE
+401757310,2025-11-29,2025,48,Delaware Blue Hens,delawarebluehens,61,TRUE
+401757310,2025-11-29,2025,2638,UTEP Miners,utep,31,FALSE
+401757311,2025-11-29,2025,2534,Sam Houston Bearkats,samhoustonbearkats,16,FALSE
+401757311,2025-11-29,2025,2229,Florida International Panthers,florida,56,TRUE
+401761663,2025-11-29,2025,276,Marshall Thundering Herd,marshallthunderingherd,19,FALSE
+401761663,2025-11-29,2025,290,Georgia Southern Eagles,georgia,24,TRUE
+401757312,2025-11-29,2025,55,Jacksonville State Gamecocks,jacksonvillestategamecocks,37,TRUE
+401757312,2025-11-29,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,34,FALSE
+401757314,2025-11-29,2025,2623,Missouri State Bears,missouri,30,FALSE
+401757314,2025-11-29,2025,2348,Louisiana Tech Bulldogs,louisianatechbulldogs,42,TRUE
+401761664,2025-11-29,2025,295,Old Dominion Monarchs,olddominionmonarchs,27,TRUE
+401761664,2025-11-29,2025,2247,Georgia State Panthers,georgia,10,FALSE
+401761661,2025-11-29,2025,2026,App State Mountaineers,appstatemountaineers,29,FALSE
+401761661,2025-11-29,2025,2032,Arkansas State Red Wolves,arkansasstateredwolves,30,TRUE
+401754608,2025-11-29,2025,183,Syracuse Orange,syracuse,12,FALSE
+401754608,2025-11-29,2025,103,Boston College Eagles,bostoncollege,34,TRUE
+401757315,2025-11-29,2025,166,New Mexico State Aggies,newmexicostateaggies,24,FALSE
+401757315,2025-11-29,2025,2393,Middle Tennessee Blue Raiders,middletennesseeblueraiders,31,TRUE
+401761665,2025-11-29,2025,309,Louisiana Ragin' Cajuns,louisianaragincajuns,30,TRUE
+401761665,2025-11-29,2025,2433,UL Monroe Warhawks,ulmonroewarhawks,27,FALSE
+401761667,2025-11-29,2025,326,Texas State Bobcats,texas,49,TRUE
+401761667,2025-11-29,2025,6,South Alabama Jaguars,southalabamajaguars,26,FALSE
+401762517,2025-11-29,2025,202,Tulsa Golden Hurricane,tulsagoldenhurricane,24,FALSE
+401762517,2025-11-29,2025,5,UAB Blazers,uabblazers,31,TRUE
+401752783,2025-11-29,2025,8,Arkansas Razorbacks,arkansasrazorbacks,17,FALSE
+401752783,2025-11-29,2025,142,Missouri Tigers,missouri,31,TRUE
+401752918,2025-11-29,2025,135,Minnesota Golden Gophers,minnesota,17,TRUE
+401752918,2025-11-29,2025,275,Wisconsin Badgers,wisconsin,7,FALSE
+401752920,2025-11-29,2025,164,Rutgers Scarlet Knights,rutgersscarletknights,36,FALSE
+401752920,2025-11-29,2025,213,Penn State Nittany Lions,pennstate,40,TRUE
+401754610,2025-11-29,2025,150,Duke Blue Devils,dukebluedevils,49,TRUE
+401754610,2025-11-29,2025,154,Wake Forest Demon Deacons,wakeforestdemondeacons,32,FALSE
+401756967,2025-11-29,2025,2628,TCU Horned Frogs,tcuhornedfrogs,45,TRUE
+401756967,2025-11-29,2025,2132,Cincinnati Bearcats,cincinnatibearcats,23,FALSE
+401757313,2025-11-29,2025,2335,Liberty Flames,libertyflames,42,FALSE
+401757313,2025-11-29,2025,338,Kennesaw State Owls,kennesawstateowls,48,TRUE
+401761666,2025-11-29,2025,2572,Southern Miss Golden Eagles,southernmissgoldeneagles,18,FALSE
+401761666,2025-11-29,2025,2653,Troy Trojans,troytrojans,28,TRUE
+401762441,2025-11-29,2025,2636,UTSA Roadrunners,utsaroadrunners,24,FALSE
+401762441,2025-11-29,2025,349,Army Black Knights,armyblackknights,27,TRUE
+401761662,2025-11-29,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,10,FALSE
+401761662,2025-11-29,2025,256,James Madison Dukes,jamesmadisondukes,59,TRUE
+401752785,2025-11-29,2025,57,Florida Gators,florida,40,TRUE
+401752785,2025-11-29,2025,52,Florida State Seminoles,floridastate,21,FALSE
+401752946,2025-11-29,2025,265,Washington State Cougars,washington,32,TRUE
+401752946,2025-11-29,2025,204,Oregon State Beavers,oregon,8,FALSE
+401752923,2025-11-30,2025,127,Michigan State Spartans,michiganstate,38,TRUE
+401752923,2025-11-30,2025,120,Maryland Terrapins,maryland,28,FALSE
+401762520,2025-11-30,2025,58,South Florida Bulls,southfloridabulls,52,TRUE
+401762520,2025-11-30,2025,242,Rice Owls,riceowls,3,FALSE
+401752922,2025-11-30,2025,356,Illinois Fighting Illini,illinois,20,TRUE
+401752922,2025-11-30,2025,77,Northwestern Wildcats,northwesternwildcats,13,FALSE
+401754612,2025-11-30,2025,152,NC State Wolfpack,ncstate,42,TRUE
+401754612,2025-11-30,2025,153,North Carolina Tar Heels,northcarolina,19,FALSE
+401760425,2025-11-30,2025,2440,Nevada Wolf Pack,nevadawolfpack,17,FALSE
+401760425,2025-11-30,2025,2439,UNLV Rebels,unlv,42,TRUE
+401760423,2025-11-30,2025,23,San José State Spartans,sanjosstatespartans,14,FALSE
+401760423,2025-11-30,2025,278,Fresno State Bulldogs,fresnostatebulldogs,41,TRUE
+401760424,2025-11-30,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,27,TRUE
+401760424,2025-11-30,2025,2751,Wyoming Cowboys,wyomingcowboys,7,FALSE
+401777324,2025-12-06,2025,2655,Tulane Green Wave,tulanegreenwave,34,TRUE
+401777324,2025-12-06,2025,249,North Texas Mean Green,northtexasmeangreen,21,FALSE
+401777352,2025-12-06,2025,256,James Madison Dukes,jamesmadisondukes,31,TRUE
+401777352,2025-12-06,2025,2653,Troy Trojans,troytrojans,14,FALSE
+401777325,2025-12-06,2025,55,Jacksonville State Gamecocks,jacksonvillestategamecocks,15,FALSE
+401777325,2025-12-06,2025,338,Kennesaw State Owls,kennesawstateowls,19,TRUE
+401777326,2025-12-06,2025,68,Boise State Broncos,boisestatebroncos,38,TRUE
+401777326,2025-12-06,2025,2439,UNLV Rebels,unlv,21,FALSE
+401777353,2025-12-07,2025,194,Ohio State Buckeyes,ohiostate,10,FALSE
+401777353,2025-12-07,2025,84,Indiana Hoosiers,indiana,13,TRUE
+401777351,2025-12-06,2025,333,Alabama Crimson Tide,alabama,7,FALSE
+401777351,2025-12-06,2025,61,Georgia Bulldogs,georgia,28,TRUE
+401777327,2025-12-06,2025,2641,Texas Tech Red Raiders,texastech,34,TRUE
+401777327,2025-12-06,2025,252,BYU Cougars,byu,7,FALSE
+401777328,2025-12-07,2025,258,Virginia Cavaliers,virginia,20,FALSE
+401777328,2025-12-07,2025,150,Duke Blue Devils,dukebluedevils,27,TRUE
+401777329,2025-12-06,2025,2711,Western Michigan Broncos,westernmichiganbroncos,23,TRUE
+401777329,2025-12-06,2025,193,Miami (OH) RedHawks,miami,13,FALSE
+401836198,2025-12-06,2025,2449,North Dakota State Bison,northdakotastatebison,28,FALSE
+401836198,2025-12-06,2025,2287,Illinois State Redbirds,illinois,29,TRUE
+401762521,2025-12-13,2025,2426,Navy Midshipmen,navymidshipmen,17,TRUE
+401762521,2025-12-13,2025,349,Army Black Knights,armyblackknights,16,FALSE
+401778302,2025-12-14,2025,264,Washington Huskies,washington,38,TRUE
+401778302,2025-12-14,2025,68,Boise State Broncos,boisestatebroncos,10,FALSE
+401778303,2025-12-17,2025,55,Jacksonville State Gamecocks,jacksonvillestategamecocks,17,TRUE
+401778303,2025-12-17,2025,2653,Troy Trojans,troytrojans,13,FALSE
+401778304,2025-12-17,2025,58,South Florida Bulls,southfloridabulls,10,FALSE
+401778304,2025-12-17,2025,295,Old Dominion Monarchs,olddominionmonarchs,24,TRUE
+401778305,2025-12-18,2025,48,Delaware Blue Hens,delawarebluehens,20,TRUE
+401778305,2025-12-18,2025,309,Louisiana Ragin' Cajuns,louisianaragincajuns,13,FALSE
+401779840,2025-12-20,2025,201,Oklahoma Sooners,oklahoma,24,FALSE
+401779840,2025-12-20,2025,333,Alabama Crimson Tide,alabama,34,TRUE
+401778306,2025-12-19,2025,2711,Western Michigan Broncos,westernmichiganbroncos,41,TRUE
+401778306,2025-12-19,2025,338,Kennesaw State Owls,kennesawstateowls,6,FALSE
+401778307,2025-12-19,2025,152,NC State Wolfpack,ncstate,31,TRUE
+401778307,2025-12-19,2025,235,Memphis Tigers,memphistigers,7,FALSE
+401779843,2025-12-21,2025,2483,Oregon Ducks,oregon,51,TRUE
+401779843,2025-12-21,2025,256,James Madison Dukes,jamesmadisondukes,34,FALSE
+401779842,2025-12-20,2025,145,Ole Miss Rebels,olemiss,41,TRUE
+401779842,2025-12-20,2025,2655,Tulane Green Wave,tulanegreenwave,10,FALSE
+401779841,2025-12-20,2025,245,Texas A&M Aggies,texas,3,FALSE
+401779841,2025-12-20,2025,2390,Miami Hurricanes,miami,10,TRUE
+401778308,2025-12-22,2025,328,Utah State Aggies,utah,21,FALSE
+401778308,2025-12-22,2025,265,Washington State Cougars,washington,34,TRUE
+401778309,2025-12-23,2025,97,Louisville Cardinals,louisville,27,TRUE
+401778309,2025-12-23,2025,2649,Toledo Rockets,toledorockets,22,FALSE
+401778310,2025-12-23,2025,2572,Southern Miss Golden Eagles,southernmissgoldeneagles,16,FALSE
+401778310,2025-12-23,2025,98,Western Kentucky Hilltoppers,westernkentuckyhilltoppers,27,TRUE
+401778311,2025-12-24,2025,195,Ohio Bobcats,ohiobobcats,17,TRUE
+401778311,2025-12-24,2025,2439,UNLV Rebels,unlv,10,FALSE
+401778312,2025-12-25,2025,62,Hawai'i Rainbow Warriors,hawaiirainbowwarriors,35,TRUE
+401778312,2025-12-25,2025,25,California Golden Bears,california,31,FALSE
+401778313,2025-12-26,2025,77,Northwestern Wildcats,northwesternwildcats,34,TRUE
+401778313,2025-12-26,2025,2117,Central Michigan Chippewas,centralmichiganchippewas,7,FALSE
+401778314,2025-12-26,2025,135,Minnesota Golden Gophers,minnesota,20,TRUE
+401778314,2025-12-26,2025,167,New Mexico Lobos,newmexicolobos,17,FALSE
+401778315,2025-12-27,2025,2636,UTSA Roadrunners,utsaroadrunners,57,TRUE
+401778315,2025-12-27,2025,2229,Florida International Panthers,florida,20,FALSE
+401778319,2025-12-27,2025,252,BYU Cougars,byu,25,TRUE
+401778319,2025-12-27,2025,59,Georgia Tech Yellow Jackets,georgia,21,FALSE
+401778322,2025-12-28,2025,142,Missouri Tigers,missouri,7,FALSE
+401778322,2025-12-28,2025,258,Virginia Cavaliers,virginia,13,TRUE
+401778323,2025-12-28,2025,248,Houston Cougars,houston,38,TRUE
+401778323,2025-12-28,2025,99,LSU Tigers,lsu,35,FALSE
+401778321,2025-12-27,2025,21,San Diego State Aztecs,sandiegostateaztecs,47,FALSE
+401778321,2025-12-27,2025,249,North Texas Mean Green,northtexasmeangreen,49,TRUE
+401778316,2025-12-27,2025,151,East Carolina Pirates,eastcarolinapirates,23,TRUE
+401778316,2025-12-27,2025,221,Pittsburgh Panthers,pittsburgh,17,FALSE
+401778317,2025-12-27,2025,228,Clemson Tigers,clemson,10,FALSE
+401778317,2025-12-27,2025,213,Penn State Nittany Lions,pennstate,22,TRUE
+401778318,2025-12-27,2025,349,Army Black Knights,armyblackknights,41,TRUE
+401778318,2025-12-27,2025,41,UConn Huskies,uconnhuskies,16,FALSE
+401778320,2025-12-27,2025,278,Fresno State Bulldogs,fresnostatebulldogs,18,TRUE
+401778320,2025-12-27,2025,193,Miami (OH) RedHawks,miami,3,FALSE
+401778324,2025-12-29,2025,2026,App State Mountaineers,appstatemountaineers,10,FALSE
+401778324,2025-12-29,2025,290,Georgia Southern Eagles,georgia,29,TRUE
+401778327,2025-12-31,2025,2628,TCU Horned Frogs,tcuhornedfrogs,30,TRUE
+401778327,2025-12-31,2025,30,USC Trojans,usc,27,FALSE
+401778325,2025-12-30,2025,2348,Louisiana Tech Bulldogs,louisianatechbulldogs,23,TRUE
+401778325,2025-12-30,2025,324,Coastal Carolina Chanticleers,coastalcarolinachanticleers,14,FALSE
+401778326,2025-12-30,2025,356,Illinois Fighting Illini,illinois,30,TRUE
+401778326,2025-12-30,2025,2633,Tennessee Volunteers,tennessee,28,FALSE
+401769070,2026-01-01,2025,194,Ohio State Buckeyes,ohiostate,14,FALSE
+401769070,2026-01-01,2025,2390,Miami Hurricanes,miami,24,TRUE
+401778330,2025-12-31,2025,251,Texas Longhorns,texas,41,TRUE
+401778330,2025-12-31,2025,130,Michigan Wolverines,michigan,27,FALSE
+401778328,2025-12-31,2025,238,Vanderbilt Commodores,vanderbilt,27,FALSE
+401778328,2025-12-31,2025,2294,Iowa Hawkeyes,iowa,34,TRUE
+401778331,2025-12-31,2025,254,Utah Utes,utah,44,TRUE
+401778331,2025-12-31,2025,158,Nebraska Cornhuskers,nebraska,22,FALSE
+401778329,2025-12-31,2025,150,Duke Blue Devils,dukebluedevils,42,TRUE
+401778329,2025-12-31,2025,9,Arizona State Sun Devils,arizonastate,39,FALSE
+401831583,2026-01-03,2025,2567,SMU Mustangs,smu,24,TRUE
+401831583,2026-01-03,2025,12,Arizona Wildcats,arizona,19,FALSE
+401778332,2026-01-02,2025,326,Texas State Bobcats,texas,41,TRUE
+401778332,2026-01-02,2025,242,Rice Owls,riceowls,10,FALSE
+401778333,2026-01-02,2025,2132,Cincinnati Bearcats,cincinnatibearcats,13,FALSE
+401778333,2026-01-02,2025,2426,Navy Midshipmen,navymidshipmen,35,TRUE
+401778334,2026-01-03,2025,344,Mississippi State Bulldogs,mississippistate,29,FALSE
+401778334,2026-01-03,2025,154,Wake Forest Demon Deacons,wakeforestdemondeacons,43,TRUE
+401769075,2026-01-09,2025,145,Ole Miss Rebels,olemiss,27,FALSE
+401769075,2026-01-09,2025,2390,Miami Hurricanes,miami,31,TRUE
+401769074,2026-01-10,2025,84,Indiana Hoosiers,indiana,56,TRUE
+401769074,2026-01-10,2025,2483,Oregon Ducks,oregon,22,FALSE
+401769076,2026-01-20,2025,84,Indiana Hoosiers,indiana,27,TRUE
+401769076,2026-01-20,2025,2390,Miami Hurricanes,miami,21,FALSE
