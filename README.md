@@ -143,29 +143,5 @@ outputs/summary_tables/
 | `nil_roi_score` | Actual win percentage minus expected win percentage |
 | `roi_group` | High ROI, Expected ROI, or Low ROI |
 
-## Suggested Tableau Story
-
-1. Title page
-2. NIL business problem
-3. Data sources and methodology
-4. NIL market landscape
-5. NIL value vs. winning
-6. Best ROI programs
-7. Lowest ROI programs
-8. Star spending vs. balanced roster spending
-9. Conference comparison
-10. Final takeaways
-
-## Final Submission Items
-
-- Team number
-- Project title
-- Team member names
-- GitHub repository link
-- Tableau Public dashboard link
-- Unlisted YouTube technical presentation link
 
 
-## No-key replacement note
-
-This version avoids the CollegeFootballData API key requirement. It uses ESPN public scoreboard JSON for game results and Sports Reference web scraping for SRS, SOS, offense, and defense metrics. The NIL data still comes from On3 public NIL valuation pages, and finance fields can be filled from Knight-Newhouse or EADA.
